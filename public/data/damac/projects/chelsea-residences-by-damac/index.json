@@ -1,0 +1,49 @@
+{
+  "slug": "chelsea-residences-by-damac",
+  "developer": "damac",
+  "projectName": {
+    "en": "Chelsea Residences By DAMAC",
+    "ar": "Chelsea Residences By DAMAC"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/eAZtG6Aw3HWS45prWvlaNSpJ8kMxBGyLZXrXnxBZ2Ao=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/eAZtG6Aw3HWS45prWvlaNSpJ8kMxBGyLZXrXnxBZ2Ao=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/avgdu5_grGlOZiSlVsW_FiZ5N1Vl_4J3RIrOaq2G_Is=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/c7HDfRM-r3kRSxvGaTYDeH4Aup37TRBputNKwqsFJfk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/PNN6l277NrS85mQQhy8RBHAuPLzaazzb4xO0JWON1Qc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/R3sYSQ0CndyS5vV8IvfD4ORtaDioKhIcSa74fPa1ZLA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/etLTyloj7_RxVvkcRMeOaki7kw_bXSFwHS1qXgyZ7co=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/O9D3CN9dKoj6p4IE2RpXk2Vp2yz3lXaJS-noT1SxZ7s=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/PLDMhsqzWmHOjIPa-_uZeBiUhRRUiX0Fxatk-1doFws=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c3828faa-a7ce-4931-b861-675aa7191902/gallery/image/bHzlTHrjSB67ysL87J0GZUMcDPMpHBvYmJI-hX7WZug=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "Cycle track",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.27950984791,
+    "lng": 55.25994537116
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

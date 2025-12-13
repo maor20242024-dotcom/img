@@ -1,0 +1,171 @@
+{
+  "slug": "palm-jumeirah",
+  "developer": "Nakheel",
+  "name_en": "Palm Jumeirah",
+  "name_ar": "نخلة جميرا",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah4629cdc3-258c-48cc-b860-2c9f1c74cf6a.jpg?sfvrsn=968fc423_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah4629cdc3-258c-48cc-b860-2c9f1c74cf6a.jpg?sfvrsn=968fc423_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah3ac958ba-2cab-47e6-81f2-7fd933e9e840.jpg?sfvrsn=f0e70ea6_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/palm-jumeirahd5c941eb-64a9-42fa-8218-0bf74d94a376.jpg?sfvrsn=de950100_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palm-jumeirahe6a8226b-c8f2-4ee8-82d9-2015b61bdde8.jpg?sfvrsn=d0e3b214_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palm-jumeirah190d7ee8-1b0a-4dd3-9ea4-523de16fa3cc.jpg?sfvrsn=44556319_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/amenities/palm-jumeirah_1.jpg?sfvrsn=7b46249c_1"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/property-detail/palm-jumeirah.mp4?sfvrsn=fe2032cd_1",
+  "coordinates": {
+    "lat": 25.116605681099326,
+    "lng": 55.13517310604294
+  },
+  "master_location_en": "Palm Jumeirah",
+  "master_location_ar": "جاردن هومز سعفة A",
+  "district_en": "Palm Jumeirah",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Master developed by Nakheel, Palm Jumeirah is a symbol of Dubai’s vibrant growth and ambition. Stretching five kilometres into the Arabian Gulf, Palm Jumeirah takes on the shape of the date palm tree. It is one of the world’s largest man made islands, and a spectacular feat of engineering covering 560 hectares of land. It is home to approximately 25,000 people and features luxury residences and waterfront homes, retail destinations, leisure attractions and world class marinas.",
+  "description_ar": "جزيرة على شكل نخلة أيقونية مع فنادق وفلل شاطئية.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Palm Monorail",
+      "ar": ""
+    },
+    {
+      "en": "Nakheel Marinas",
+      "ar": ""
+    },
+    {
+      "en": "Beach Clubs",
+      "ar": ""
+    },
+    {
+      "en": "360° Observation Deck",
+      "ar": ""
+    },
+    {
+      "en": "Lifestyle Malls",
+      "ar": ""
+    },
+    {
+      "en": "Hotels & Resorts",
+      "ar": ""
+    },
+    {
+      "en": "Leisure Parks",
+      "ar": ""
+    },
+    {
+      "en": "Restaurants & Cafés",
+      "ar": ""
+    },
+    {
+      "en": "Sub-sea Tunnel",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Palm Monorail",
+      "name_ar": "",
+      "distance": "",
+      "category": "Monorail Station"
+    },
+    {
+      "name_en": "Nakheel Mall",
+      "name_ar": "",
+      "distance": "",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "The View at The Palm",
+      "name_ar": "",
+      "distance": "",
+      "category": "Destination Pin"
+    },
+    {
+      "name_en": "Palm West Beach",
+      "name_ar": "",
+      "distance": "",
+      "category": "Beach"
+    },
+    {
+      "name_en": "Club Vista Mare",
+      "name_ar": "",
+      "distance": "",
+      "category": "Club"
+    },
+    {
+      "name_en": "Al Ittihad Park",
+      "name_ar": "",
+      "distance": "",
+      "category": "Park"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-collections/palmjumeirah"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.922560Z"
+}

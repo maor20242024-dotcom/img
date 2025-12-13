@@ -1,0 +1,50 @@
+{
+  "slug": "district-one-west-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "District One West By Nakheel",
+    "ar": "District One West By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/OaB9I2bumqPlv0ej4A5dzorbkHP1KbfatgXD6-fm-8M=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/OaB9I2bumqPlv0ej4A5dzorbkHP1KbfatgXD6-fm-8M=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/AM48OVQW9KtRv5tg9oa4RsZOM7jEix6Bs_xAFPoOJDk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/5tPxWrVhoz9_3wmmQWICmkffwvn2MDgYABRejoQgSG0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/ud0PiX7zBwTCXISy1lFlRUH2QZWU6O4PAVDi-e1FXmI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/lV2UBMLWSI8HN4T-2xxC5vXnmkSunPAcfKYGSt2JBEA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b07f9795-be7f-4c88-b988-2a8d059be4f8/gallery/image/BYzWNvufth0cDIp7WkSvpYUWCKKVzDqb6IoYdsr5bak=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Retail Facilities",
+    "Gymnasium",
+    "Restaurants",
+    "Well-being and Fitness",
+    "Landscaped Parks",
+    "Leisure Lounge",
+    "CCTV Security",
+    "Health Club",
+    "Children's Play Area",
+    "Shared Pool"
+  ],
+  "coordinates": {
+    "lat": 25.14474073193,
+    "lng": 55.27760267258
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

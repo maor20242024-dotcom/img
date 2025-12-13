@@ -1,0 +1,43 @@
+{
+  "slug": "damac-lagoons-lagoon-views-12",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Lagoons - Lagoon Views 12",
+    "ar": "Damac Lagoons - Lagoon Views 12"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/8f25b083-321f-452a-9c80-f9e730a87fb2/gallery/image/-ZnqnBTBSk7B_lIgGR7AHMsXOdOl8AVu7RQLKRXhcEg=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/8f25b083-321f-452a-9c80-f9e730a87fb2/gallery/image/-ZnqnBTBSk7B_lIgGR7AHMsXOdOl8AVu7RQLKRXhcEg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8f25b083-321f-452a-9c80-f9e730a87fb2/gallery/image/xt1SZd4P96K0M9MHHsCmTNPZEaTg5bKruiwjNACufJc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8f25b083-321f-452a-9c80-f9e730a87fb2/gallery/image/937Fxs7oE4neyFBJd2lSPJmPQKoqwXjVG_uLLlB_cUw=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Pool"
+  ],
+  "coordinates": {
+    "lat": 25.00621735547,
+    "lng": 55.22903849037
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

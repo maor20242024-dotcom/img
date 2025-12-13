@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "generated_at": "2025-11-06T23:57:48.978097Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Types are heuristics; refine per developer if needed."
+  },
+  "developer": "damac",
+  "domain": "https://www.damacproperties.com",
+  "items": [
+    {
+      "line": 2,
+      "label": "└── /communities/ (الكوميونتيز الرئيسية)",
+      "path": "/communities/",
+      "segments": [
+        "communities"
+      ],
+      "type": "community",
+      "confidence": "medium",
+      "full_url": "https://www.damacproperties.com/communities/"
+    },
+    {
+      "line": 5,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-hills/damac-hills-estate/apartments/",
+      "segments": [
+        "damac-hills",
+        "damac-hills-estate",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-hills/damac-hills-estate/apartments/"
+    },
+    {
+      "line": 9,
+      "label": "│   │       └── Penthouses (بنتهاوس، 2000+ sq ft / 185+ m²)",
+      "path": "/damac-hills/damac-hills-estate/apartments/penthouses/",
+      "segments": [
+        "damac-hills",
+        "damac-hills-estate",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-hills/damac-hills-estate/apartments/penthouses/"
+    },
+    {
+      "line": 13,
+      "label": "│           │   └── Apartments (شقق)",
+      "path": "/damac-hills-2/akoya-oxygen/akoya-by-damac/apartments/",
+      "segments": [
+        "damac-hills-2",
+        "akoya-oxygen",
+        "akoya-by-damac",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-hills-2/akoya-oxygen/akoya-by-damac/apartments/"
+    },
+    {
+      "line": 18,
+      "label": "│           └── Apartments (شقق عامة)",
+      "path": "/damac-hills-2/akoya-oxygen/apartments/",
+      "segments": [
+        "damac-hills-2",
+        "akoya-oxygen",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-hills-2/akoya-oxygen/apartments/"
+    },
+    {
+      "line": 24,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-lagoons/monaco-cluster/apartments/",
+      "segments": [
+        "damac-lagoons",
+        "monaco-cluster",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-lagoons/monaco-cluster/apartments/"
+    },
+    {
+      "line": 29,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-lagoons/maldives-cluster/apartments/",
+      "segments": [
+        "damac-lagoons",
+        "maldives-cluster",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-lagoons/maldives-cluster/apartments/"
+    },
+    {
+      "line": 32,
+      "label": "│   │       └── 4BR (2500+ sq ft / 232+ m²)",
+      "path": "/damac-lagoons/maldives-cluster/apartments/4-bedroom/",
+      "segments": [
+        "damac-lagoons",
+        "maldives-cluster",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-lagoons/maldives-cluster/apartments/4-bedroom/"
+    },
+    {
+      "line": 34,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-lagoons/venice-cluster/apartments/",
+      "segments": [
+        "damac-lagoons",
+        "venice-cluster",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-lagoons/venice-cluster/apartments/"
+    },
+    {
+      "line": 40,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-riverside/safwa-residences/apartments/",
+      "segments": [
+        "damac-riverside",
+        "safwa-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-riverside/safwa-residences/apartments/"
+    },
+    {
+      "line": 45,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-riverside/noor-residences/apartments/",
+      "segments": [
+        "damac-riverside",
+        "noor-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-riverside/noor-residences/apartments/"
+    },
+    {
+      "line": 48,
+      "label": "│           └── Penthouses (بنتهاوس، 2200+ sq ft / 204+ m²)",
+      "path": "/damac-riverside/noor-residences/apartments/penthouses/",
+      "segments": [
+        "damac-riverside",
+        "noor-residences",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-riverside/noor-residences/apartments/penthouses/"
+    },
+    {
+      "line": 51,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-islands/monte-carlo/apartments/",
+      "segments": [
+        "damac-islands",
+        "monte-carlo",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-islands/monte-carlo/apartments/"
+    },
+    {
+      "line": 55,
+      "label": "│   └── santorini (سانتوريني)",
+      "path": "/damac-islands/santorini/",
+      "segments": [
+        "damac-islands",
+        "santorini"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-islands/santorini/"
+    },
+    {
+      "line": 56,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-islands/santorini/apartments/",
+      "segments": [
+        "damac-islands",
+        "santorini",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-islands/santorini/apartments/"
+    },
+    {
+      "line": 63,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-sun-city/solar-residences/apartments/",
+      "segments": [
+        "damac-sun-city",
+        "solar-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-sun-city/solar-residences/apartments/"
+    },
+    {
+      "line": 68,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-sun-city/sun-villas/apartments/",
+      "segments": [
+        "damac-sun-city",
+        "sun-villas",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-sun-city/sun-villas/apartments/"
+    },
+    {
+      "line": 73,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-park-avenue/central-park-view/apartments/",
+      "segments": [
+        "damac-park-avenue",
+        "central-park-view",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-park-avenue/central-park-view/apartments/"
+    },
+    {
+      "line": 78,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-park-avenue/edge-residences/apartments/",
+      "segments": [
+        "damac-park-avenue",
+        "edge-residences",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-park-avenue/edge-residences/apartments/"
+    },
+    {
+      "line": 81,
+      "label": "│           └── Penthouses (بنتهاوس، 2400+ sq ft / 223+ m²)",
+      "path": "/damac-park-avenue/edge-residences/apartments/penthouses/",
+      "segments": [
+        "damac-park-avenue",
+        "edge-residences",
+        "apartments",
+        "penthouses"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-park-avenue/edge-residences/apartments/penthouses/"
+    },
+    {
+      "line": 84,
+      "label": "│   │   └── Apartments (شقق)",
+      "path": "/damac-valleys/valley-villas/apartments/",
+      "segments": [
+        "damac-valleys",
+        "valley-villas",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-valleys/valley-villas/apartments/"
+    },
+    {
+      "line": 88,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-valleys/valley-apartments/apartments/",
+      "segments": [
+        "damac-valleys",
+        "valley-apartments",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-valleys/valley-apartments/apartments/"
+    },
+    {
+      "line": 95,
+      "label": "│       └── Apartments (شقق)",
+      "path": "/damac-hills-akoya/akoya-avenue/apartments/",
+      "segments": [
+        "damac-hills-akoya",
+        "akoya-avenue",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-hills-akoya/akoya-avenue/apartments/"
+    },
+    {
+      "line": 101,
+      "label": "│   └── Apartments (شقق عامة)",
+      "path": "/damac-akoya-avenue/apartments/",
+      "segments": [
+        "damac-akoya-avenue",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-akoya-avenue/apartments/"
+    },
+    {
+      "line": 106,
+      "label": "│   └── Apartments (شقق)",
+      "path": "/damac-dubai-200/apartments/",
+      "segments": [
+        "damac-dubai-200",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-dubai-200/apartments/"
+    },
+    {
+      "line": 111,
+      "label": "└── Apartments (شقق)",
+      "path": "/damac-akoya-hills/apartments/",
+      "segments": [
+        "damac-akoya-hills",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/damac-akoya-hills/apartments/"
+    },
+    {
+      "line": 117,
+      "label": "└── /apartments/ (شقق عامة حسب الغرف)",
+      "path": "/for-sale/dubai/properties/apartments/",
+      "segments": [
+        "for-sale",
+        "dubai",
+        "properties",
+        "apartments"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/for-sale/dubai/properties/apartments/"
+    },
+    {
+      "line": 122,
+      "label": "└── 4BR+ (1800+ sq ft / 167+ m²)",
+      "path": "/for-sale/dubai/properties/apartments/4-bedroom/",
+      "segments": [
+        "for-sale",
+        "dubai",
+        "properties",
+        "apartments",
+        "4-bedroom"
+      ],
+      "type": "project",
+      "confidence": "low",
+      "full_url": "https://www.damacproperties.com/for-sale/dubai/properties/apartments/4-bedroom/"
+    }
+  ],
+  "stats": {
+    "community": 1,
+    "project": 27
+  },
+  "count": 28
+}

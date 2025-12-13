@@ -1,0 +1,53 @@
+{
+  "slug": "belair",
+  "developer": "damac",
+  "projectName": {
+    "en": "Bel Air",
+    "ar": "بيل إير"
+  },
+  "description": {
+    "en": "Belair at The Trump Estates – Phase II. Invest in real estate with digital currencies and get a residency visa in the UAE ✓ Luxury off-plan projects in Dubai with high returns ✓ Flexible and easy payment plans.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/VuxuiXv1Sgl4bFZ3tFXC5/65068b5e2d28973083fd4538384b2a2d/Gallery_Collaborations_Trump_1.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/VuxuiXv1Sgl4bFZ3tFXC5/65068b5e2d28973083fd4538384b2a2d/Gallery_Collaborations_Trump_1.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/1khqFLNmiWieZDg53Cn1uY/eaf3071c2f57034e25567c88230d0da8/Gallery_Collaborations_Trump_2.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3YiLAHSDmymxBNhv7belFd/c5ef2e135c8338c956713fec72583359/Gallery_Collaborations_Trump_3.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/5mUVV6BTOeMBzM0avkOeuz/afa916fc81778e49c334c70df3c48320/Gallery_Collaborations_Trump_4.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/5wQsRsGgLyp6hHSSMsMG9r/883752f98d55913a09db568f8af15f7c/Gallery_Collaborations_Trump_5.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/VuxuiXv1Sgl4bFZ3tFXC5/65068b5e2d28973083fd4538384b2a2d/Gallery_Collaborations_Trump_1.jpg?fm=webp&w=3200&h=2120&fit=fill&q=100"
+  ],
+  "videoUrl": "youtu.be/9d7DE62ZPt4",
+  "3D_TourLink": "No direct 3D tour link found. A YouTube video for 'Project - Gallery Videos' is mentioned.",
+  "brochureUrl": "",
+  "amenities": [
+    "Communal Pool",
+    "Clubhouse",
+    "Kids Pool",
+    "Outdoor Kids Zone",
+    "BBQ Area",
+    "Communal Garden Area",
+    "Kids Club",
+    "Communal Gym",
+    "Walking / Running Track",
+    "Car Parking",
+    "24H Security",
+    "Golf Course",
+    "Private Pool"
+  ],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

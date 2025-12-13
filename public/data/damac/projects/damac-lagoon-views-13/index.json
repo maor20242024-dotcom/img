@@ -1,0 +1,45 @@
+{
+  "slug": "damac-lagoon-views-13",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Lagoon Views 13",
+    "ar": "Damac Lagoon Views 13"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/57FIyvvq0gdl499ReuRngjSKo6ZX8mQmzp5ZTMDgAJ0=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/57FIyvvq0gdl499ReuRngjSKo6ZX8mQmzp5ZTMDgAJ0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/LH_Q40RqNjBx3eSjf-rdo_liLMJUj2pGAj5vXCqJHak=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/5tqfku8Vwdaxt5iTQuak31fVv8QYYKwqUyl481NQ55w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/xHaouW2yPRGMpHJqLwHx7PKm20rAMVmm4C0tnvsf_Gk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/28f0c961-6826-412e-93e2-4546c8703d40/gallery/image/G8Qj7ZCh6xt5yUhXbo0ELMxTso3QxbxST7F5v9xI7NA=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.01350245133,
+    "lng": 55.22442
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "riverside-views-marine-3",
+  "developer": "damac",
+  "projectName": {
+    "en": "Riverside Views Marine",
+    "ar": "Riverside Views Marine"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/5ec24a97-2866-4e05-bf9f-bf41711b4351/gallery/image/3-pXVFIRqvW3LGZs5-DypxA65xzAFy37Q2dRAH1XwgM=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/5ec24a97-2866-4e05-bf9f-bf41711b4351/gallery/image/3-pXVFIRqvW3LGZs5-DypxA65xzAFy37Q2dRAH1XwgM=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5ec24a97-2866-4e05-bf9f-bf41711b4351/gallery/image/0OITV21IWmJdxuc5x9HtRtcnTcZz20bGxh7956TMyYk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5ec24a97-2866-4e05-bf9f-bf41711b4351/gallery/image/RaOj_oO5Y-YRMNPvkQq-Q7HneZWgwUtD2O8oEGJK8zE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5ec24a97-2866-4e05-bf9f-bf41711b4351/gallery/image/ftl0LNJ5uUdG2iawgZQhuxWYFSPLFWCRaVOcnjlHQ60=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.97793652839,
+    "lng": 55.22746709325
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

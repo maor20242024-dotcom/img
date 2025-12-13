@@ -1,0 +1,46 @@
+{
+  "slug": "damac-riverside-views-royal-1",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Riverside Views - Royal 1",
+    "ar": "Damac Riverside Views - Royal 1"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/pCoHZFOeGRRm6fBkzVM_FAU6Vd7wfHPBcWEGfCGf_DQ=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/pCoHZFOeGRRm6fBkzVM_FAU6Vd7wfHPBcWEGfCGf_DQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/AixNb0Jq4dzLC3--x2DJ6oNzk--bv5FexCgBKtj3kx8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/9UGSjJknfKbkfMMdWYadaU6cZTEmUBzs5semLaAuG1Q=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/bTfOscKL_alVC9Z23hW4tjsvnxmAW58ZmUBdn7Bfk64=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/EfvHWnlkoxWfj-_tYM-We_tktvDdBrOE1sNvHBFnt54=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/27799ca2-84ac-4fb7-bc16-a51c89e7f50e/gallery/image/-lpeNwN0mbuLA7libDqB1VFXubU2fbHzU4TF4Z0Jlr8=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.9742583189,
+    "lng": 55.2295505423
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

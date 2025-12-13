@@ -1,0 +1,59 @@
+{
+  "slug": "damac-bay-by-cavalli",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Bay by Cavalli",
+    "ar": "داماك باي باي كافالي"
+  },
+  "description": {
+    "en": "Discover an architectural masterpiece spanning 42 floors, where luxury integrates with the rhythm and charm of the sea. DAMAC Bay by Cavalli is a project characterized by interior designs bearing the signature of the famous Cavalli brand and a style inspired by the beauty of the beach. The project includes residential apartments ranging from one, two, and three bedrooms, in addition to duplex units of 3, 4, and 5 bedrooms with captivating sea views. Cavalli's designs in this project are inspired by the wonders of marine life to offer you an unparalleled living experience on the shores of the sea.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3BMc15bYR5mXPWDIG1cVX6/346ab79ae5713c75fac7b774383cfa9a/Damac_Bay-Homepage_Hero_16x9_1.webp",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/A8hfMZfPZyLDli3xNnZNS/70cc129261cfb84328e2a94eb9036012/Damac_Bay-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/52hwrnmxVAzCb5C4hncFjj/9271cc1f99a70ad776906377200f17ab/Damac_Bay-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1DrLkYqPewg75mMoI5FMBY/741ad1a9faa63ff8d6fadf44817f09cd/Damac_Bay-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2uhx2RPj3tF4JbBiox4xiS/2650b06b08b363c98f0eb8fdfa46f32b/Damac_Bay-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/NJOLA8pIkOQtph0iJvT3z/fbc2e987bf0d5e575dca1a5d8d56fb2a/Damac_Bay-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6nYyUFK6HJlr3vYlsDv6kE/438b02613fb7e562ff8a104e3a29c9e2/Damac_Bay-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5U8VkoQNkMCCo92Za2iLeR/80a556707fcd15983f9bf99d36ba308c/Damac_Bay-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5ibZbaZQo11umIqCThj746/69a3b0cffad0a4e087a51373ab093d6d/Damac_Bay-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2HhNqGo2AhxfjVkpdwxIkm/8526fa28178641710d00c9c4e259071f/Damac_Bay-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4HRMTdO1PZDB45pMYLV7nr/eda682a1719b8af32e0d9016d5525977/Damac_Bay-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/65wkG71GgBvQleL3aswqQB/acb8597ab45c2df37d2093d52dcadc09/Damac_Bay-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6FhD7dHNJAqa78WITvQLhu/1aa58a7df838764e507f9a0e110fb527/Damac_Bay-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3idLw45EABQfF8Z89SpNET/0081ad7a59fc53ba7e4f61984df73e14/Damac_Bay-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1H1emPRAoLV06JLGib6OWj/a902bae03e6b4705288531922588070e/Damac_Bay-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3cwlj0H14BhUWNfTA2FOhD/95c9e97fb81bd360bff9a18f76985585/Damac_Bay-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/23nQ72VQVfVaSnoK4a8FYv/8c4ab2879063cfbbcc7b32e930512151/Damac_Bay-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2k7FbqSLNGyeXCRXBJvWNQ/6284c33c39113ca7b122bd7fa0eb6ef2/Damac_Bay-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1zOGPD6OS82RwOd1qrI5pW/d527a2b3f38da9a3755c4dc482fd21ff/Damac_Bay-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/480pZCCGmD21dPYBdUAhsh/34d285767a722cceb17d40b3bc2a66ff/Damac_Bay-Gallery-18-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/pX3bPqf4EVIgUH0I9LgET/2122001840bad9526f8e37202d3ab5ee/Damac_Bay-Gallery-19.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/y5bdzJndAoZXb2TF59HHA/cfff384cbdd599e94ef7de83f14a3f3e/DAMAC_BAY_Project_video_16x9.mp4",
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/67444418ce8c642b77e9beeb/6744490ece8c642b77e9c9a6",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Sky Garden",
+    "Floating Work Pods",
+    "Private Beach",
+    "Opera Suite"
+  ],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cavalli-estates",
+  "developer": "damac",
+  "projectName": {
+    "en": "Cavalli Estates",
+    "ar": "كافالي استيتس"
+  },
+  "description": {
+    "en": "كافالي إستيتس استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2MnO8zlVvT1kKw6Jh2TI0I/9c6d1f80c1d386dad64207ca970d1f85/653x685-AR_0.jpg",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "jumeirah-islands",
+  "developer": "Nakheel",
+  "name_en": "Jumeirah Islands",
+  "name_ar": "جزر جميرا",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel-aut.sitefinity.cloud/images/nakheelcorporatelibraries/general/nakheel-view.jpg",
+  "images_gallery": [
+    "https://nakheel-aut.sitefinity.cloud/images/nakheelcorporatelibraries/general/nakheel-view.jpg",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-islands.jpg?sfvrsn=940fd57e_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-islands3030676e-6991-4a39-ac8f-3a842cd247f9.jpg?sfvrsn=5a0e57e7_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-islands5c273dba-3178-457d-a8a6-87d206293c55.jpg?sfvrsn=7186302d_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/visual-collection.jpg?sfvrsn=bd19e871_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/visual-collection2.jpg?sfvrsn=11fddf09_3"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/default-video-library/project-video---jumeirah-islands.mp4?sfvrsn=f72cc62f_1",
+  "coordinates": {
+    "lat": 25.056950071417084,
+    "lng": 55.15565910428631
+  },
+  "master_location_en": "null",
+  "master_location_ar": "طراز الواحات",
+  "district_en": "null",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Jumeirah Islands is a luxury collection of 46 islands with scenic lakes. It is an exclusive, integrated residential gated community in a prime location in Dubai. With stunning lake views, each home offers comfortable and tranquil outdoor environments. Built to exceptional standards, these beautiful homes are the perfect place for families to relax and unwind in luxurious modern indoor spaces, large private gardens, verandas and spacious roof terraces. The neighbourhood offers easy access to Dubai’s key business and leisure destinations, including the popular Ibn Battuta Mall.",
+  "description_ar": "فلل على جزر صناعية.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Community Pavilion",
+      "ar": ""
+    },
+    {
+      "en": "Jogging Track",
+      "ar": "مسار للجري"
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Restaurants & Cafés",
+      "ar": ""
+    },
+    {
+      "en": "Fitness Centre",
+      "ar": ""
+    },
+    {
+      "en": "Clubhouse",
+      "ar": ""
+    },
+    {
+      "en": "Sports Courts",
+      "ar": ""
+    },
+    {
+      "en": "Swimming Pools",
+      "ar": ""
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "DMCC Metro Station",
+      "name_ar": "",
+      "distance": "10 minutes",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "Jumeirah Lake Towers Tram Station",
+      "name_ar": "",
+      "distance": "10 minutes",
+      "category": "Tram Station"
+    },
+    {
+      "name_en": "Ibn Battuta Mall",
+      "name_ar": "",
+      "distance": "14 minutes",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "Dubai Marina",
+      "name_ar": "",
+      "distance": "14 minutes",
+      "category": "Marina"
+    },
+    {
+      "name_en": "Palm Jumeirah",
+      "name_ar": "",
+      "distance": "18 minutes",
+      "category": "Island"
+    },
+    {
+      "name_en": "Dubai International Airport",
+      "name_ar": "",
+      "distance": "30 minutes",
+      "category": "Airport"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/jumeirah-islands"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.939143Z"
+}

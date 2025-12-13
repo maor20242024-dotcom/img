@@ -1,0 +1,52 @@
+{
+  "slug": "palm-central-private-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Central Private Residences",
+    "ar": "Palm Central Private Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/3XKkzzArBGY33DpbCRnxFm9MjxGMzzvMbTPJLsw0HIg=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/3XKkzzArBGY33DpbCRnxFm9MjxGMzzvMbTPJLsw0HIg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/6R0grnsniUKVpPT-ahGUoNyI0nIJw_kf7KW1bTa-yVs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/82kbml8MXmjL2EyNz8PMzQAZ99jIgxdEtmdvqnXbE3o=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/uJcc0PmyBoPjsfPoKfH7lalJ6Obwk5_Wjj1M4LFA6M0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/H9tJr1uQIHVYphL5F_2dHQkzIX0a-TDSQQoTPObdetE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/Zctp_83MFYHg47N88W3djSqJfO4H5plE29B1GD4yXbU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/yVsSKYBFm0OOQOK5gkw9dUD6qjU0dpih73eEcUP-DuU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/zkEmwjyIiQUh5Lr-N7AlEvu55V__GzVdh5QhKhsWD7c=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/gx80ascI7iGpSdFLom8Ppte7BK8ORwxc2gYzoSEai14=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/67KCrHwg4l-WFtHCn6-v8yXYpjHDKqnYm6Tb4ADD20g=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/11TiIT8Yb_8HzfAXbNsBv8bGmCPb30ug5yZlC9WknIE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/48a54c11-6a33-4f83-a89b-7749699e93e9/gallery/image/KQg8YjWCiuEwojCn5ozgUXHvFdOZTZXGAl-OhFAnCAo=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.00455081527,
+    "lng": 54.98903382113
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

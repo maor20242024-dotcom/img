@@ -1,0 +1,169 @@
+{
+  "slug": "jumeirah-park",
+  "developer": "Nakheel",
+  "name_en": "Jumeirah Park",
+  "name_ar": "جميرا بارك",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-parkb8c4695e-8c71-48e4-8a76-fb61de41d17c.jpg?sfvrsn=345bdbda_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-parkb8c4695e-8c71-48e4-8a76-fb61de41d17c.jpg?sfvrsn=345bdbda_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/amenities/jumeirah-park2.jpg?sfvrsn=fef9c7dc_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/amenities/jumeirah-park1.jpg?sfvrsn=de4a034f_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-park7.jpg?sfvrsn=32312201_3"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.048824324734937,
+    "lng": 55.15580867330667
+  },
+  "master_location_en": "380 hectares",
+  "master_location_ar": "الحي 8",
+  "district_en": "380 hectares",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "One of Dubai’s most desirable residential districts, Jumeirah Park features over 3,000 luxury villas nestled among lush parks and green spaces across 380 hectares. As its name suggests, Jumeirah Park contains extensive landscaped areas in which children can play and families can stroll while enjoying the surrounding views. It’s a place where families connect to each other, to their community, to tranquil scenery, and to all the advantages of Jumeirah Park. Discover a tranquil residential community that is meticulously curated for family living. Features spacious luxury 3, 4 and 5-bedroom villas, with swimming pools. It is also home to the Jumeirah Park Pavilion retail centre.",
+  "description_ar": "مجتمع فلل عائلي.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Outdoor Gyms",
+      "ar": ""
+    },
+    {
+      "en": "Basketball Court",
+      "ar": ""
+    },
+    {
+      "en": "Football Pitch",
+      "ar": ""
+    },
+    {
+      "en": "Table Tennis",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Tennis Courts",
+      "ar": ""
+    },
+    {
+      "en": "Sports Courts",
+      "ar": ""
+    },
+    {
+      "en": "Community Pavilion",
+      "ar": ""
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Jumeirah Lake Towers",
+      "name_ar": "",
+      "distance": "5 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Ibn Battuta Mall",
+      "name_ar": "",
+      "distance": "9 minutes",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "National Paints Station",
+      "name_ar": "",
+      "distance": "12 minutes",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "Dubai Marina",
+      "name_ar": "",
+      "distance": "11 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Palm Jumeirah",
+      "name_ar": "",
+      "distance": "15 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Downtown Dubai",
+      "name_ar": "",
+      "distance": "25 minutes",
+      "category": "null"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/jumeirahpark"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.872902Z"
+}

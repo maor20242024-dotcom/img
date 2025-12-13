@@ -1,0 +1,46 @@
+{
+  "slug": "majestine",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Majestine",
+    "ar": "داماك ماجستين"
+  },
+  "description": {
+    "en": "Live a modern lifestyle at DAMAC Majestine, where luxury meets convenience. Discover living spaces meticulously equipped with luxurious furniture and details designed to the highest standards. The project boasts captivating views of the Business Bay skyline and the Dubai Water Canal, and features a range of units from studios to one, two, and three-bedroom apartments, all with elegant interior designs, fully equipped kitchens, and spacious bathrooms. DAMAC Majestine is fully completed and ready to welcome its visitors and fulfill their dreams from its location in the heart of Dubai.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/bQiR32XimXyqmtiRs7QoC/7aac7583288f8a654cb4c53a73266a26/DAMAC_Majestine-Gallery-00.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/03N06QSXTJR0uZcNjCn8z/9211d0adb3e1837684d7e4b97f8b6712/Damac_Majestine_Hero_video__16x9_.mp4",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "[object Object]"
+  ],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

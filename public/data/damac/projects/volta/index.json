@@ -1,0 +1,71 @@
+{
+  "slug": "volta",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Volta Tower",
+    "ar": "داماك فولتا تاور"
+  },
+  "description": {
+    "en": "Volta is an exceptional tower located on a prime spot on Sheikh Zayed Road, designed for those who lead a dynamic lifestyle and wish to enjoy peaceful moments at the same time. This modern tower embraces spaces specially designed to challenge your self and capabilities, amidst an atmosphere that pushes you towards vitality and activity. The project includes a collection of luxurious apartments ranging from one, two, three, and four bedrooms. These units feature semi-circular balconies offering captivating panoramic views of Burj Khalifa, Sheikh Zayed Road, and Dubai's enchanting skyline. Volta is your address and your gateway to a brighter future.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/l6zTWR8jVhGFIhJly9uC6/eef02e624943e0c924906635aeed73fc/Volta-Homepage_Hero_16x9.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/l6zTWR8jVhGFIhJly9uC6/eef02e624943e0c924906635aeed73fc/Volta-Homepage_Hero_16x9.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6bUDV5uRTCnMtLs4eVDfZe/55b18b6d10dfd109a9bb3551a0353e3d/Volta-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4TT9HzlFklZCO3l0mrw35k/b948f147e595de6eb90a4538e17c4b35/Volta-Gallery-01-AR.jpg",
+    "https://ctfassets.net/zoq5l15g49wj/5Hn5PtwxyOtrvBGJ1egBTZ/4e7338dd6f2782933700f9cf72b1072e/Volta-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6WKqCyOCw33x9opX1m54tr/1b028626f8f04ff26ca8dfc0fe70c155/Volta-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6tzrswkMQPfDzABXqp8i1O/d05933c9d71cfbdf47de156acb5f54b5/Volta-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/67DmuuH9mms4MTNxUDIZ9S/4d3b965f6daf6d6265de42a38a86807b/Volta-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4h6QZaDtixQRJyqnMFkpyA/27377a3e18ce9079919ff67d7384b744/Volta-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2TSOImP5slzuwbds17glYm/fbea048cffcacb88b181e70d99d57404/Volta-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/45zMYYgf92jBjnZaIzQtDP/b345f4ddaf5b58c345a139f53c61d9c2/Volta-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1wGIre8LXaT1qmyB73K5Wm/5e4ae88dd06f5ba9b8d9c1d8b9329759/Volta-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ScfobysbQKch9yUGNkdLK/1c9906a1f7edef96c653f14814c4f90c/Volta-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/208xGVrtsgB5A3q5MVa09P/98949dd608b03f406b6d8e469ed0072c/Volta-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1d9n3nDOJRa3FCFgSYLl9O/d5791c53ec159ce5af159fd7341c5e10/Volta-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6Xv6zHnxm7VHin371BP4lr/113162b396289092b3f55bd8aa98ac43/Volta-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1X2Xsyw8tK9MDzTofgze4M/90cd22a9293f2383e6b3e54a92ba9c00/Volta-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2lehair26jp7VczGQhEaqn/a2bc25c20dbab929dde0b3dc578cd141/Volta-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5jWRziCNBqLa3oGHcmlC3s/6a56b39b10215d5b261298ee766a66b8/Volta-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/T9hbTSEtnHLspqru35zUd/4c4d5b78b15f15711ad8b4d77c5271e9/Volta-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2f72P4H1yu6IurlvyjPqOR/a30dbe8e0f5970430288fc0ce0e0cf85/Volta-Gallery-18-RU.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/1IRPyrVNfDFj4eEuZ6RsaP/e79d1da45e302d42cf3af3981e40a3a3/VOLTA_Project_video_16x9_Arabic.mp4",
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/6744179cba15da9bc5cb8b78/67442957ba15da9bc5cbcba1",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Climbing Wall",
+    "Gym",
+    "Paintball Area",
+    "Outdoor Gym",
+    "Boxing Ring",
+    "Indoor Pool",
+    "Outdoor Pool"
+  ],
+  "coordinates": {
+    "lat": 25.197507,
+    "lng": 55.26698
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

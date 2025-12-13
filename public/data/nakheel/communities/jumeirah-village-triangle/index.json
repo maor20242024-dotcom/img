@@ -1,0 +1,170 @@
+{
+  "slug": "jumeirah-village-triangle",
+  "developer": "Nakheel",
+  "name_en": "Jumeirah Village Triangle",
+  "name_ar": "جميرا فيليج تريانغل",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangledccfdd96-7433-4a38-870f-085f79169a6b.jpg?sfvrsn=4dfb86a7_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangledccfdd96-7433-4a38-870f-085f79169a6b.jpg?sfvrsn=4dfb86a7_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangleb27b4bc0-32d5-4a69-a60a-a1ea5f91de52.jpg?sfvrsn=72bc2a81_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangled5a8bb4d-2066-48d4-a9fb-42c624c9ab83.jpg?sfvrsn=44711776_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangle_7.jpg?sfvrsn=76521f5d_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-village-triangle_8.jpg?sfvrsn=3aa6da4_3"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/projects/jumeirah-village-triangle.mp4?sfvrsn=ad41db33_1",
+  "coordinates": {
+    "lat": 25.048909862385525,
+    "lng": 55.189861975889364
+  },
+  "master_location_en": "null",
+  "master_location_ar": "برج ليليوم",
+  "district_en": "null",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Serene Community with Spacious HomesJumeirah Village Triangle is a residential community situated between Sheikh Mohammed Bin Zayed Road and Al Khail Road in Dubai, with spacious villas and townhouses built in traditional Arabian and Mediterranean styles. With more than 13,000 villas, townhouses and apartments, the community is spread across 242 hectares, with schools and a range of third-party residential developments. With lush communal green spaces and other essential community amenities, including a large-scale shopping, leisure and entertainment destination, Al Khail Avenue, Jumeirah Village Triangle provides everything residents need for a comfortable lifestyle right on their doorstep.",
+  "description_ar": "مجتمع سكني اقتصادي مع فلل وتاونهاوس.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Basketball Court",
+      "ar": ""
+    },
+    {
+      "en": "Tennis Courts",
+      "ar": ""
+    },
+    {
+      "en": "Padel Courts",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Mosques",
+      "ar": ""
+    },
+    {
+      "en": "Badminton Courts",
+      "ar": ""
+    },
+    {
+      "en": "Cricket Pitches",
+      "ar": ""
+    },
+    {
+      "en": "Al Khail Avenue",
+      "ar": ""
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Circle Mall",
+      "name_ar": "",
+      "distance": "12 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Al Khail Metro Station",
+      "name_ar": "",
+      "distance": "12 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Palm Jumeirah",
+      "name_ar": "",
+      "distance": "15 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Dubai Marina",
+      "name_ar": "",
+      "distance": "18 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Ibn Battuta Mall",
+      "name_ar": "",
+      "distance": "19 minutes",
+      "category": "null"
+    },
+    {
+      "name_en": "Downtown Dubai",
+      "name_ar": "",
+      "distance": "22 minutes",
+      "category": "null"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/jumeirahvillagetriangle"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.944235Z"
+}

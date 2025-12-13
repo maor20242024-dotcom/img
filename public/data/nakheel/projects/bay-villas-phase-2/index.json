@@ -1,0 +1,42 @@
+{
+  "slug": "bay-villas-phase-2",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Bay Villas Phase 2",
+    "ar": "باي فيلاز - المرحلة الثانية"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Gym or Health Club",
+    "Sauna",
+    "Swimming Pool",
+    "Laundry Facility",
+    "Storage Areas",
+    "Barbeque Area",
+    "24 Hours Concierge",
+    "View",
+    "Parking Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.297636331164,
+    "lng": 55.309845368058
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

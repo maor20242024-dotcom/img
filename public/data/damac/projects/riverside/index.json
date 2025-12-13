@@ -1,0 +1,58 @@
+{
+  "slug": "riverside",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Riverside",
+    "ar": "داماك ريفرسايد"
+  },
+  "description": {
+    "en": "DAMAC Riverside is an ambitious master community in Dubai, designed to offer a unique blend of luxury living and natural serenity. It features a diverse range of residential options including villas, apartments, and townhouses, all set amidst lush landscapes and innovative waterfront amenities. The community emphasizes a holistic lifestyle with a focus on well-being and outdoor activities, providing residents with an exceptional environment for modern living.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/9KdIztI3bv5N3ndJeRxvy/d6295383558a89716f2c671edffe8d5b/703270586-653x685-en.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/9KdIztI3bv5N3ndJeRxvy/d6295383558a89716f2c671edffe8d5b/703270586-653x685-en.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/59ggZKFK3rJTqXZJVpadjb/106f28bfab2e74b17999223e0e72afcb/Riverside_Views-Amenities-01-Malibu_Cove.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1psbs716RprLC9bxPVPU4u/db8c1c78a58b77e28d2e9ea0db33e834/Riverside_Views-Amenities-02-Essential_oils_lake.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5Zsa5CNtTzcsFZNFzsRSPG/fff1aac58eff8ffebe2b671b30b40647/Riverside_Views-Amenities-03-Peace_room.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/51rafzAN6WEuGkf9Z9HhPZ/fd51567298fbe9bbf91bd3882e27c952/Riverside_Views-Amenities-04-Floating_sports.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6KZaRJuJysd62hKDtlLTT2/63a3e131557696863721aa0ec50883ed/Riverside_Views-Amenities-05-Calisthenics_stations.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4qDHMI1akD0rTvZr1OSszD/357ac56ad327aaa42145f033783b50cd/Riverside_Views-Amenities-06-Cooking_stations.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5XM01JSIBgNNIF4cFVJXUe/9f7222a3d4b78f32a256d7f8db91e83a/Riverside_Views-Amenities-07-Island_restaurant.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6plcBVSAHkb9Ra0ea3r9uK/bf494e2ded10040dc0e3a35b2e122866/Riverside_Views-Amenities-08-Adventure_land.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2yuctXk3jzCjzB1tRBAjVT/d1cd31943c7a4f48d43b4418e2a6461c/Riverside_Views-Amenities-09-Floating_stage.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7luCCTKlSLig9E5JrqTtK8/f14263a8c3a38956ea3a01c957a80789/DAMAC_Riverside-Project_BG_Image_16x9.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/2so1eKjmazRxzXo8h1joRW/e375c8628c8083622014ea310daccb2c/Riverside_Views_2499_Launch_video__9X16__EN.mp4",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Restaurants",
+    "Cinema",
+    "CCTV Security",
+    "Gymnasium",
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Shared Spa"
+  ],
+  "coordinates": {
+    "lat": 24.97621011789,
+    "lng": 55.22793182209
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

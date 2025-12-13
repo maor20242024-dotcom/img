@@ -1,0 +1,71 @@
+{
+  "slug": "safa-two",
+  "developer": "damac",
+  "projectName": {
+    "en": "Safa Two de GRISOGONO",
+    "ar": "صفا تو دي جريسوغونو"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/71D7j43bw7TPmozEKH6CA4/151950e7ab8eceaafa4cb6b0e0bd18d4/Safa_Two-Homepage_Hero_16x9.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/71D7j43bw7TPmozEKH6CA4/151950e7ab8eceaafa4cb6b0e0bd18d4/Safa_Two-Homepage_Hero_16x9.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1kSwBAszTBHKnMTRtoGhqc/21ec8d1cf60f43bd6fdd4ac7f598c58f/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1n8dMOelDBuTHNenl0zopH/300cc8f80c988e146b1709fffa44607d/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2wkxIQjSVOStaB6YVIpKKm/e6bace63ac9b2a0810191a297680f89e/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/66IICVwX7iKR5S8XhhHEI0/b0fec715c6034276c19a467ceefa5624/Safa_Two-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6BhBI7M8Va1O8R5TBCW4oq/39d2ad0f2622f8a2216359376f5e1b49/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7wcVUmnLZEgScnEaAU2f9j/9180ad2b0de1c1b46d15fabf6c9ffb42/Safa_Two-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4TdbHVO6ctDuYLaGHO4d03/3053817e944fe4cc7ff945b50c8b2260/Safa_Two-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5mQDjCuLIy1pVXx2jovPwa/702f14ea14aba631165f6cb408d4f8dd/Safa_Two-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7iXl0nlCVVWHzSdlVywSVW/169c3463999aa7c5a0cd532994777325/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-08-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4lRFhFEFuUQhHi7hMEpzJz/7c648e0ed185da31cc040132d3b3dd9e/Safa_Two-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6PIaP5Iguvu1Lt5mDzPs6t/8fc68ca8acd19703d8d6b32e698f01aa/Safa_Two-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5FYgxkbWuewdUg4l46qfkL/fd50396a5be209f64b1172e3fec3bcb8/Safa_Two-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7od2t526K5GMWEIhbsLs7P/59e996ae1cd4bf7dc85b174659bae0a2/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-12-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2R4n5xWqUjOnqeq9tGr4Gn/06c88527aa6e84d14019224b4abb2c45/Safa_Two-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2gl2OBYJgHW7Tcd4p5gBs8/522346065849919c81ec41b8b49e3948/Safa_Two-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4lpyCiEwSojpay32ihfJ1S/94871f92a7e44d1da092d86c4f0a53ec/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-15-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/47SBmdHudn8btMt9i6QLbx/c27fe1c71c14cf3276315dd5bb9f5354/Safa_Two-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7aYbGA8zqBmnXcx9UaFwnp/469761b6ea21f96fb3f5805219add095/Safa_Two-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6cP8NgaW2ZZJcjdjVl3ozE/ce9b781f6fa3f6aca9c2e936b99e9981/Safa_Two_de_GRISOGONO_-_Tower_B-Gallery-18-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2x2VM41o87FxlS0bPZqKEa/c1385f7344851fd3d7cb337a9d507f59/Safa_Two-Gallery-19.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4QgfPdp9dkXTxp44FkSlxA/280cf10a855e72d9ec13e91d7312ed52/Safa_Two-Homepage_Hero_9x16.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/5M0JplaVqo0cie8ex17HYt/f3de29ce466139ffd0abb66bd029b90e/SAFA_2_towerB_Project_video_16x9_Arabic.mp4",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Infinity Pool",
+    "Restaurants and Cafes",
+    "Fog Forest",
+    "Glass Slide",
+    "Suspended Walkway"
+  ],
+  "coordinates": {
+    "lat": 25.1812294,
+    "lng": 55.25229053
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

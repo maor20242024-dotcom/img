@@ -1,0 +1,63 @@
+{
+  "slug": "aykon-city",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Aykon City",
+    "ar": "أيكون سيتي البرج B"
+  },
+  "description": {
+    "en": "Discover Aykon City, a magnificent multi-tower masterpiece by DAMAC Properties, poised to become a new architectural icon on Dubai's majestic skyline. Located on the prestigious Sheikh Zayed Road and overlooking the Dubai Canal, this is more than just a residence; it's an entire city set within the metropolis of Dubai. This landmark development offers a collection of masterfully designed hotel apartments and residences, featuring stunning panoramic views of the city's most dynamic areas. Residents will enjoy an unparalleled array of world-class amenities, including podium-level gardens, swimming pools, a state-of-the-art gym, and exclusive entertainment and dining venues. Aykon City is not just a home; it's a prime investment in the heart of the world's most exciting city. Secure your place in this architectural wonder.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/6thLwXKrSicTFf6HyhNQvW/86e09b03c426f8f98d580a38b1c155b3/AYKON_CITY_-_TOWER_B-Homepage_Hero_16x9.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/6thLwXKrSicTFf6HyhNQvW/86e09b03c426f8f98d580a38b1c155b3/AYKON_CITY_-_TOWER_B-Homepage_Hero_16x9.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/49eUvqWaFL3Vf4kE1pTzsG/c7a4712830ccf563c113c6fdee68bf81/AYKON_CITY_-_TOWER_B-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2XPnZ1qw13R0pjdHB7nKD7/cd9cea39beaf9aeb09fc1c502e1d50d0/AYKON_CITY_-_TOWER_B-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/OWWfdJohNvGnZwvXNTHfX/415757452d20a552827d009ba17c1782/AYKON_CITY_-_TOWER_B-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2oJvsQlW1irUbkH3kaQBId/0b5a8f7ce3ec369cda942f7dce3da6ca/AYKON_CITY_-_TOWER_B-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7F0bWsvTDTfTlu9mBQZ0ti/fecdb119d9485e26f8c760c6738fde6f/AYKON_CITY_-_TOWER_B-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3Jl9lPjzV2A1Pai461Kdsp/ea9292a9f413beb09f837f1c16802a98/AYKON_CITY_-_TOWER_B-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2GjDvxq4G2yfNW9q3g19om/6890d253c7073b79ac51e37be80cc2d5/AYKON_CITY_-_TOWER_B-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/58GTmybT1OryM3hcCG9Gd/97116628857eec999a7120327edd7704/AYKON_CITY_-_TOWER_B-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4DtZQ0C4uo283gdlXDwocO/1b00c768c0f3860a06b8d328d8adbe78/AYKON_CITY_-_TOWER_B-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4rc8vXp3biNcyG9Sl80yW2/48ec7a96a85514b418c338108bf89c61/AYKON_CITY_-_TOWER_B-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4tFjKZ65HUIL0hv5u8JTyR/57934836fa024083ac32b71ef4c16c1d/AYKON_CITY_-_TOWER_B-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6YndGo9fj8rlGsiE1z8DeJ/f303d893d916022f323e94422440378d/AYKON_CITY_-_TOWER_B-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7rVHUqGjypkt5sGBRFU3M2/fef02d539e6db34187f550dab504749f/AYKON_CITY_-_TOWER_B-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3zFlEXIxEBGdPzXtizjZKe/ca1f2375518b3cd9837034f8126fd657/AYKON_CITY_-_TOWER_B-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4CnwXZcbCNjLztYcu2iorW/185d2530297d5530e577c7f892eb59b4/AYKON_CITY_-_TOWER_B-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1GSwKjbBoxCVdPk9wfXVia/cf5503bf5c5b386741f883a4e78b2ed8/AYKON_CITY_-_TOWER_B-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2fPwKZQOZforJn4tVyMPum/6db7920033a53c1cf5ecc477ccba14db/AYKON_CITY_-_TOWER_B-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/76HWWGYKGdyoulCe1jitf1/0fff6be4af8c5e8e58a7cdc28b332fb5/AYKON_CITY_-_TOWER_B-Gallery-17.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/6A7qke3CdOdzFRWYjLvXc5/994261bad896062046a39dcef18602a7/DP.com_AYKON_Hero_video__9X16_.mp4",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden"
+  ],
+  "coordinates": {
+    "lat": 25.181371,
+    "lng": 55.252577
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

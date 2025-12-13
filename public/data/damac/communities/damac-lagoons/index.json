@@ -1,0 +1,229 @@
+{
+  "slug": "damac-lagoons",
+  "developer": "DAMAC",
+  "name_en": "DAMAC Lagoons",
+  "name_ar": "داماك لاجونز",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg",
+  "images_gallery": [
+    "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/bQiR32XimXyqmtiRs7QoC/7aac7583288f8a654cb4c53a73266a26/DAMAC_Majestine-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7eUYj2KBiYbiueQhryV7MS/95959dedc64956aa88b98e3131efe77b/DAMAC_Majestine-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/504M1g6CvOpm30xEfnYSCY/c54881801cae712b3f086b8e63a5e0b8/DAMAC_Majestine-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6YfLJufjIp6CEaJOGFTgF5/79d8c88a4561f52275857c7e6a13188e/DAMAC_Majestine-Gallery-03-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/spWrS2yTu0uxdqkQgF8iy/7b11a87064956d58a1f0bbc54bcb8ba5/DAMAC_Majestine-Gallery-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ia82x6VXj8GPXycb8EysI/0fb0fc1eae40bfe7d4717831055466ea/DAMAC_Majestine-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2OnnEx8eWuVOQqZRh6jncv/22c1fdb1cd4a011ce28aaae37cd3bf17/DAMAC_Majestine-Gallery-06-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6k7S353DtCcp1NcNXrUjbg/2dea7a70ff2b868710e5f3ab11a0a602/DAMAC_Majestine-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3T2rhE7tkiPMT74hc5fng7/f00eb7e31ab64ec42cd7ab18e70f6216/DAMAC_Majestine-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/n1mpA78OMMISP5RAIQmVq/eb994735b8f884439c350b9e3d6f398c/DAMAC_Majestine-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3Gh48WcxMBXhadO1Pte81P/eb0ffd0058c77009f4227d112295615b/DAMAC_Majestine-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5bZlsGU7Y7uGwWcXxP6fwU/fe6814d98da961fe7bef739d40739377/DAMAC_Majestine-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1N12ElBiYW8kog5Ccm3NYk/a99872af94d6eafbadc8a4accd16de05/DAMAC_Majestine-Gallery-12.jpg"
+  ],
+  "video_url": "https://videos.ctfassets.net/zoq5l15g49wj/03N06QSXTJR0uZcNjCn8z/9211d0adb3e1837684d7e4b97f8b6712/Damac_Majestine_Hero_video__16x9_.mp4",
+  "coordinates": {
+    "lat": 25.186472,
+    "lng": 55.282063
+  },
+  "master_location_en": "Business Bay",
+  "master_location_ar": "الخليج التجاري",
+  "district_en": "Business Bay",
+  "district_ar": "الخليج التجاري",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A tropical island-inspired community with lagoons and villas.",
+  "description_ar": "مجتمع مستوحى من الجزر الاستوائية مع بحيرات وفلل.",
+  "amenities": [
+    {
+      "en": "",
+      "ar": "صالة رياضية"
+    },
+    {
+      "en": "",
+      "ar": "مسبح"
+    },
+    {
+      "en": "",
+      "ar": "غرفة بخار وساونا"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "داماك ماجستين",
+      "distance": "0 دقائق",
+      "category": "project location"
+    },
+    {
+      "name_en": "",
+      "name_ar": "حلبة دبي أوتودروم",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "حديقة المعجزات",
+      "distance": "غير محدد",
+      "category": "picnic"
+    },
+    {
+      "name_en": "",
+      "name_ar": "القرية العالمية",
+      "distance": "غير محدد",
+      "category": "family-friendly"
+    },
+    {
+      "name_en": "",
+      "name_ar": "نادي دبي للبولو والفروسية",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "دبي مارينا",
+      "distance": "غير محدد",
+      "category": "gondola"
+    },
+    {
+      "name_en": "",
+      "name_ar": "برج خليفة",
+      "distance": "غير محدد",
+      "category": "burj-khalifa-view"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مطار آل مكتوم",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مستشفى ميديكلينيك باركفيو",
+      "distance": "غير محدد",
+      "category": "hospital"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مستشفى إن إم سي رويال",
+      "distance": "غير محدد",
+      "category": "hospital"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مدرسة جبل علي",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "Fairgreen International School",
+      "name_ar": "",
+      "distance": "غير محدد",
+      "category": "school"
+    },
+    {
+      "name_en": "",
+      "name_ar": "نادي ترامب الدولي للغولف",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "دبي مول",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "شاطئ جميرا",
+      "distance": "غير محدد",
+      "category": "beach"
+    },
+    {
+      "name_en": "Dubai World Trade Centre",
+      "name_ar": "",
+      "distance": "غير محدد",
+      "category": "mini-theatre"
+    },
+    {
+      "name_en": "Dubai International Airport",
+      "name_ar": "",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مطار دبي الدولي",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "مدرسة هارتلاند الدولية دبي",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "حديقة الصفا",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "قصر زعبيل",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "The Meydan Hotel",
+      "name_ar": "",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "Meydan Racecourse",
+      "name_ar": "",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "إطار دبي",
+      "distance": "غير محدد",
+      "category": "geotag"
+    },
+    {
+      "name_en": "",
+      "name_ar": "شاطئ كايت",
+      "distance": "غير محدد",
+      "category": "geotag"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "https://downloads.ctfassets.net/zoq5l15g49wj/1Ue0nmws6x73esQxRJUEhm/2c1b75eb797275f25af4961e465e22a4/MAJESTINE_BROCHURE_AR.pdf",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.damacproperties.com/ar-ae/projects/damac-majestine/"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.853032Z"
+}

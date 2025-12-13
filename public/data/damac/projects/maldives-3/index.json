@@ -1,0 +1,41 @@
+{
+  "slug": "maldives-3",
+  "developer": "damac",
+  "projectName": {
+    "en": "Maldives 3",
+    "ar": "Maldives 3"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/84615dd9-6d23-4e81-9649-d0d86d552a4b/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/84615dd9-6d23-4e81-9649-d0d86d552a4b/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.02862736845,
+    "lng": 55.30208108466
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

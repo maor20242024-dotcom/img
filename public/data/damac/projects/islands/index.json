@@ -1,0 +1,42 @@
+{
+  "slug": "islands",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Islands - Seychelles 2",
+    "ar": "باي فيو من أدريس ريزورتس في إعمار بيتشفرونت"
+  },
+  "description": {
+    "en": "Jumeirah Islands is a luxury collection of 46 islands with scenic lakes. It is an exclusive, integrated residential gated community in a prime location in Dubai. With stunning lake views, each home offers comfortable and tranquil outdoor environments. Built to exceptional standards, these beautiful homes are the perfect place for families to relax and unwind in luxurious modern indoor spaces, large private gardens, verandas and spacious roof terraces. The neighbourhood offers easy access to Dubai’s key business and leisure destinations, including the popular Ibn Battuta Mall.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel-aut.sitefinity.cloud/images/nakheelcorporatelibraries/general/nakheel-view.jpg",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/be15312b-6cdd-4c05-8046-c9ad516de9e7/gallery/image/RAOmVcj_o2Kl2y7zgobxmC71U3A6AMj03NGR30QRQPg=/original.webp"
+  ],
+  "videoUrl": "/videos/nakheelcorporatelibraries/default-video-library/project-video---jumeirah-islands.mp4?sfvrsn=f72cc62f_1",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Jacuzzi & Steam",
+    "Beach Access",
+    "Infinity Pool",
+    "CCTV Security",
+    "Cycle track",
+    "Cinema",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.0268282024,
+    "lng": 55.30288254233
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

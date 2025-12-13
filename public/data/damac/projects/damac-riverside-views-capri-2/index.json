@@ -1,0 +1,41 @@
+{
+  "slug": "damac-riverside-views-capri-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Riverside Views Capri 2",
+    "ar": "DAMAC Riverside Views Capri 2"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/24c770a6-0148-42c3-801a-fb7d8608509b/gallery/image/zgiCIcbZnS3-u3ssoEAwsxIZATdt8eVS5wFC9Uplldc=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/24c770a6-0148-42c3-801a-fb7d8608509b/gallery/image/zgiCIcbZnS3-u3ssoEAwsxIZATdt8eVS5wFC9Uplldc=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.9734294813,
+    "lng": 55.2307538307
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "damac-riverside-olive",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Riverside - Olive",
+    "ar": "Damac Riverside - Olive"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/473cce9c-15e9-4382-a5e6-93e6267452bb/gallery/image/SEvR-u4i-DQZz7jwS3vk3zuZupQuS-V4GhzgLXXrH_U=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/473cce9c-15e9-4382-a5e6-93e6267452bb/gallery/image/SEvR-u4i-DQZz7jwS3vk3zuZupQuS-V4GhzgLXXrH_U=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.972467,
+    "lng": 55.234744
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

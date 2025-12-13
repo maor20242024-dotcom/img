@@ -1,0 +1,48 @@
+{
+  "slug": "seychelles",
+  "developer": "damac",
+  "projectName": {
+    "en": "Seychelles",
+    "ar": "Seychelles"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/aDYy8-kEIF2ieD1UlDEMoohhVe9Jc58_wSJ2nxXg72o=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/aDYy8-kEIF2ieD1UlDEMoohhVe9Jc58_wSJ2nxXg72o=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/98gsYRirVJKE42D4xs-7R4YS2wRuDBxQL65dX2ThGT8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/C8oyois2hIcQD_nqaXsRO7R9ZFoWKzLK514XWtOouFk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/8zq9euIEKlx1vlTbx47jiJpFc1S7vFlOoAw68nHQv1o=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/78870ca0-0ebb-4dd4-a02e-1381c40c1c7e/gallery/image/z7MRlClo8BTmRMgsBr19mxJ8Py7Af1DyqUYY4-MRhcY=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Valet Parking",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Infinity Pool",
+    "Cycle track",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Shared Spa"
+  ],
+  "coordinates": {
+    "lat": 25.02765318696,
+    "lng": 55.29464754233
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

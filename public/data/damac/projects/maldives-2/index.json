@@ -1,0 +1,41 @@
+{
+  "slug": "maldives-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "Maldives 2",
+    "ar": "Maldives 2"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/66d2a664-9a46-497f-b431-7082b8169f80/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/66d2a664-9a46-497f-b431-7082b8169f80/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.02805652825,
+    "lng": 55.30246183069
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

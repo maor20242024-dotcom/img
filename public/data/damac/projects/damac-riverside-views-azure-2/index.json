@@ -1,0 +1,44 @@
+{
+  "slug": "damac-riverside-views-azure-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Riverside Views Azure 2",
+    "ar": "Damac Riverside Views Azure 2"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/b8f3da94-bf83-4826-8077-784fc12fc3d7/gallery/image/HvZseepZMeu8654bSzfqlopZihqgBbllTqKzL_vKO6c=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/b8f3da94-bf83-4826-8077-784fc12fc3d7/gallery/image/HvZseepZMeu8654bSzfqlopZihqgBbllTqKzL_vKO6c=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b8f3da94-bf83-4826-8077-784fc12fc3d7/gallery/image/n0-tJQVAD8Gqq1-ZTPLJVU4yG8h9n9mlDPJWZ6awsh4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b8f3da94-bf83-4826-8077-784fc12fc3d7/gallery/image/XvcHfYW04_nImBANhs54kgl_8LPk2Dc8a5Bdb3uIvGE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b8f3da94-bf83-4826-8077-784fc12fc3d7/gallery/image/cGDI9Iumo9Wnkefg5lhmJF6qkykbjWBJu_c4h1fVk7k=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.980984,
+    "lng": 55.225788
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

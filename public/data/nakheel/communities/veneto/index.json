@@ -1,0 +1,146 @@
+{
+  "slug": "veneto",
+  "developer": "Nakheel",
+  "name_en": "Veneto",
+  "name_ar": "فينيتو",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto46857bb0-e4c5-4497-bc5e-142121a72f88.jpg?sfvrsn=2ded3bef_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto46857bb0-e4c5-4497-bc5e-142121a72f88.jpg?sfvrsn=2ded3bef_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto90875de3-c238-46a6-bd11-f86cfbb00ef2.jpg?sfvrsn=a8abe8f4_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto22689f18-eabe-4c24-a361-e60ef9af3fd2.jpg?sfvrsn=786862fa_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto4b5c177e-8f60-436b-afed-0f8978396fdc.jpg?sfvrsn=7818470d_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/veneto355dddf7-8991-430a-b9da-b2accc518e04.jpg?sfvrsn=d64def0c_1"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/projects/veneto.mp4?sfvrsn=b4e173a_3",
+  "coordinates": {
+    "lat": 24.955362104654377,
+    "lng": 54.996796841533765
+  },
+  "master_location_en": "Dubai Waterfront",
+  "master_location_ar": "فيلات فينيتو",
+  "district_en": "Dubai Waterfront",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Discover Veneto at Dubai Waterfront, offering spacious 3-5 bedroom villas and townhouses with exceptional design, privacy, and a truly exclusive lifestyle. As the ultra chic enclave within Dubai Waterfront, Veneto is a private escape from the hustle and bustle of Dubai, offering a distinctive quality of life that is unequalled within the city. Uncrowded and expansive, the limited number of contemporary villas and low rise townhouses make Veneto a true status address.",
+  "description_ar": "مجتمع مستوحى من إيطاليا.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Retail Centres",
+      "ar": ""
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة ألعاب أطفال"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Jebel Ali Beach",
+      "name_ar": "",
+      "distance": "13 minutes",
+      "category": "Beach"
+    },
+    {
+      "name_en": "Dubai Parks and Resorts",
+      "name_ar": "",
+      "distance": "19 minutes",
+      "category": "Theme Park"
+    },
+    {
+      "name_en": "UAE Exchange Metro Station",
+      "name_ar": "",
+      "distance": "20 minutes",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "Ibn Battuta Mall",
+      "name_ar": "",
+      "distance": "21 minutes",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "Palm Jumeirah",
+      "name_ar": "",
+      "distance": "26 minutes",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "Al Maktoum International Airport (DWC)",
+      "name_ar": "",
+      "distance": "28 minutes",
+      "category": "Airport"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "https://nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/veneto.pdf?sfvrsn=586e8888_1",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/veneto"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.870362Z"
+}

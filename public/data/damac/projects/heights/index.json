@@ -1,0 +1,53 @@
+{
+  "slug": "heights",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Heights",
+    "ar": "DAMAC Heights"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3VkbkR33jbCjnhKneNXn7F/872cad678abcd72d6ab8f0232d980fe0/Homepage_Hero_16x9-1__13__1.webp",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3VkbkR33jbCjnhKneNXn7F/872cad678abcd72d6ab8f0232d980fe0/Homepage_Hero_16x9-1__13__1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/2GOzI0AOKnmcwhKs2K2f8y/1eed0d33e257cc53b7fb355275223ed1/Canal_Heights-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3d3H8Ee2XrN1LeJicPmPKX/83b41c792fa2bcf3c790566f1caf4b8b/Canal_Heights-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6o3iLvnb92o0RXQkhsldRK/db3bd99b4dc76c73d8c48d46fa379ac5/Canal_Heights-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7sAwzvDhfn1HbGsopQQlJ4/7c3faaf3f72ee98612af9be6299333b5/Canal_Heights-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1RSjAyMGaH7QXuBTRQrNba/dc5cceacca3057cb047c0a63ea97f2c2/Canal_Heights-Gallery-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2oybUxViDyQHYBlNeo6tY9/01de46e8be98b2abdae1017d72ae7b19/Canal_Heights-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5wDMgPkZtxNF2nPGlD7cWH/b8489a6af98c8c42fe11c4b6632374c5/Canal_Heights-Gallery-06-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2oyuJovKSJK89UGPKtzfNE/538caf318671416026d0074df575f546/Canal_Heights-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/28mk0oGpFr7ILNwI8VuxaW/250cf632166143a7cdd7d6009c7cffe8/Canal_Heights-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5Lrlj4njnCSn2HWqoDrPal/966681c04f87ffbb34c51f57ac43e2ae/Canal_Heights-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6DZXm0KwwqmmVXnWzr22UH/868d972f933ea711c29ad55b1c652909/Canal_Heights-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fmOYLqTkwhptQ50fZMly3/ba458fd607c0afc042c16f70f0384f75/Canal_Heights-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/LyaYtcE4tdf9SVHyEynZy/1d4ea22f60e61a3440513f8366fa7e93/Canal_Heights-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5rtessG8DgSLcWgPF7RbMl/d9d93c1a5bf166b8298c9196d19a6a0a/Canal_Heights-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3Vy4jN5EOIxqFS8ylrkpmM/4718139b34aaab14d5da9c7bb5b28a38/Canal_Heights-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/46cUjDRKmtxUPXv3O5zVl/5bb61e94d097f603f8d6d2d91a1138a6/Canal_Heights-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2jeIXbgYZXKjuiOsUV6WJu/6d62b33d5dbcbfb695e94eeb3c2b417c/Canal_Heights-Gallery-16-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1K4aVlVmyaXdJCcpQkGNz6/4815b2167bd0e62b59015bba21d0d0cc/Canal_Heights-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4WjNsWVfO9MCrcKtgdZlxE/2489f6b92870b2504006745df59312b5/Canal_Heights-Gallery-18.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/3O6QxtDJbsqYQTKK2EbgFo/9c9269b75664f082d70ce77a0f29ad14/Compressed_CANAL_HEIGHTS_DP_website_Hero_video_16x9_73041162.mp4",
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/67444e88ce8c642b77e9e5b2/67444f07ce8c642b77e9e6ef",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": 25.183729,
+    "lng": 55.278555
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "the-world",
+  "developer": "Nakheel",
+  "name_en": "The World",
+  "name_ar": "العالم",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islandsb59c8bbb-db48-405f-9a0c-3e9bbe66cabf.jpg?sfvrsn=91a7683e_1",
+  "images_gallery": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islandsb59c8bbb-db48-405f-9a0c-3e9bbe66cabf.jpg?sfvrsn=91a7683e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x480.jpg?sfvrsn=27e259f4_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4802.jpg?sfvrsn=74d5e2c9_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4803.jpg?sfvrsn=289fcc54_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/the-world-islands-1240x4804.jpg?sfvrsn=3c599d71_3"
+  ],
+  "video_url": "https://www.nakheel.com/videos/nakheelcorporatelibraries/property-detail/the-world-islands.mp4?sfvrsn=fbc08792_1",
+  "coordinates": {
+    "lat": 25.2205602,
+    "lng": 55.1218846
+  },
+  "master_location_en": "The Heart of Europe",
+  "master_location_ar": "قلب أوروبا",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A Groundbreaking Global Destination The World Islands are an archipelago master-planned to mirror the world's continents. A collection of man-made islands that form a singular expression of exclusivity, they are modern in design yet timeless in appeal. This innovative development occupies a place beyond imagination—a collection of private islands where an unprecedented opportunity can be found that is almost as rare as the ambition required to envision it. This remarkable artificial archipelago has added nearly 232 kilometres of beachfront to Dubai’s coastline and offers unique opportunities for the development of exclusive leisure and residential projects.",
+  "description_ar": "مجموعة جزر اصطناعية على شكل خريطة العالم",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Private Beaches",
+      "ar": ""
+    },
+    {
+      "en": "Beach Clubs",
+      "ar": ""
+    },
+    {
+      "en": "Entertainment Venues",
+      "ar": ""
+    },
+    {
+      "en": "Hotels & Resorts",
+      "ar": ""
+    },
+    {
+      "en": "Restaurants & Cafés",
+      "ar": ""
+    },
+    {
+      "en": "Kids Club",
+      "ar": ""
+    },
+    {
+      "en": "Wellness Facilities",
+      "ar": ""
+    },
+    {
+      "en": "Luxury Marinas",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Anantara World Islands Dubai",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "The Heart of Europe",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "The Island",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-collections/theworld"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.871129Z"
+}

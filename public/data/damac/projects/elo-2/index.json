@@ -1,0 +1,32 @@
+{
+  "slug": "elo-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "Elo 2",
+    "ar": "إيلو 2"
+  },
+  "description": {
+    "en": "إيلو 2 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات. مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة، خطط سداد مرنة وميسرة.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1JaYgqMZQP4uqYslyJ0osF/9b91cc1e66174dee5618f2e5f7f57522/653x685-AR__24_.jpg",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

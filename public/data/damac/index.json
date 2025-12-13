@@ -1,0 +1,1234 @@
+{
+  "developer": "DAMAC",
+  "total_communities": 6,
+  "total_projects": 15,
+  "communities": [
+    {
+      "slug": "akoya-oxygen",
+      "name_en": "Akoya Oxygen",
+      "name_ar": "أكويا أوكسجين"
+    },
+    {
+      "slug": "damac-hills",
+      "name_en": "DAMAC Hills",
+      "name_ar": "داماك هيلز"
+    },
+    {
+      "slug": "damac-hills-2",
+      "name_en": "DAMAC Hills 2",
+      "name_ar": "داماك هيلز 2"
+    },
+    {
+      "slug": "damac-islands",
+      "name_en": "DAMAC Islands",
+      "name_ar": "داماك آيلاندز"
+    },
+    {
+      "slug": "damac-lagoons",
+      "name_en": "DAMAC Lagoons",
+      "name_ar": "داماك لاجونز"
+    },
+    {
+      "slug": "damac-riverside",
+      "name_en": "DAMAC Riverside",
+      "name_ar": "داماك ريفرسايد"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "aykon-city",
+      "name": {
+        "en": "DAMAC Aykon City",
+        "ar": "أيكون سيتي البرج B"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "bali-phase-2-at-damac-islands",
+      "name": {
+        "en": "Bali Phase 2 at Damac Islands",
+        "ar": "Bali Phase 2 at Damac Islands"
+      },
+      "status": "under_construction",
+      "price": 2100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "bali-phase-3-at-damac-islands",
+      "name": {
+        "en": "Bali Phase 3 at Damac Islands",
+        "ar": "Bali Phase 3 at Damac Islands"
+      },
+      "status": "under_construction",
+      "price": 2490000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "bali-phase-4-at-damac-islands",
+      "name": {
+        "en": "Bali Phase 4 at DAMAC Islands",
+        "ar": "Bali Phase 4 at DAMAC Islands"
+      },
+      "status": "under_construction",
+      "price": 2490000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "bay-by-cavalli",
+      "name": {
+        "en": "DAMAC Bay by Cavalli",
+        "ar": "داماك باي بتوقيع كافالي"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "belair",
+      "name": {
+        "en": "Bel Air",
+        "ar": "بيل إير"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "belair-phase-2",
+      "name": {
+        "en": "Belair Phase 2",
+        "ar": "بيل إير المرحلة 2"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "bora-bora-phase-4-by-damac",
+      "name": {
+        "en": "Bora Bora Phase 4 By Damac",
+        "ar": "Bora Bora Phase 4 By Damac"
+      },
+      "status": "under_construction",
+      "price": 2470000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "canvas-premium-plots",
+      "name": {
+        "en": "Canvas Premium Plots",
+        "ar": "كانفاس بريميوم بلوتس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "casa",
+      "name": {
+        "en": "DAMAC Casa",
+        "ar": "DAMAC Casa"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "cavalli-estates",
+      "name": {
+        "en": "Cavalli Estates",
+        "ar": "كافالي استيتس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "chelsea-residences",
+      "name": {
+        "en": "Chelsea Residences",
+        "ar": "تشيلسي ريزيدنسز"
+      },
+      "status": "Under Construction",
+      "price": 2320000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "chelsea-residences-2",
+      "name": {
+        "en": "Chelsea Residences 2",
+        "ar": "تشيلسي ريزيدنسز 2"
+      },
+      "status": "Under Construction",
+      "price": 2320000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "chelsea-residences-by-damac",
+      "name": {
+        "en": "Chelsea Residences By DAMAC",
+        "ar": "Chelsea Residences By DAMAC"
+      },
+      "status": "under_construction",
+      "price": 2320000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "chic-tower",
+      "name": {
+        "en": "Chic Tower",
+        "ar": "شيك تاور"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "communities",
+      "name": {
+        "en": "communities",
+        "ar": "communities"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "costa-brava",
+      "name": {
+        "en": "Costa Brava",
+        "ar": "كوستا برافا"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-altitude",
+      "name": {
+        "en": "DAMAC Altitude",
+        "ar": "داماك ألتيتيود"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-bay",
+      "name": {
+        "en": "DAMAC Bay",
+        "ar": "داماك باي"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "damac-bay-by-cavalli",
+      "name": {
+        "en": "DAMAC Bay by Cavalli",
+        "ar": "داماك باي باي كافالي"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-district",
+      "name": {
+        "en": "DAMAC District",
+        "ar": "داماك ديستريكت"
+      },
+      "status": "not_started",
+      "price": 1200000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-islands-seychelles-2",
+      "name": {
+        "en": "Damac Islands - Seychelles 2",
+        "ar": "Damac Islands - Seychelles 2"
+      },
+      "status": "under_construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-lagoon-lagoon-views-11",
+      "name": {
+        "en": "Damac Lagoon - Lagoon Views 11",
+        "ar": "Damac Lagoon - Lagoon Views 11"
+      },
+      "status": "under_construction",
+      "price": 1512000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-lagoon-views-13",
+      "name": {
+        "en": "Damac Lagoon Views 13",
+        "ar": "Damac Lagoon Views 13"
+      },
+      "status": "under_construction",
+      "price": 1447000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-lagoons-lagoon-views-12",
+      "name": {
+        "en": "Damac Lagoons - Lagoon Views 12",
+        "ar": "Damac Lagoons - Lagoon Views 12"
+      },
+      "status": "under_construction",
+      "price": 1100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-maison-aykon-city",
+      "name": {
+        "en": "DAMAC Maison Aykon City",
+        "ar": "داماك ميزون أيكون سيتي"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-riverside-olive",
+      "name": {
+        "en": "Damac Riverside - Olive",
+        "ar": "Damac Riverside - Olive"
+      },
+      "status": "under_construction",
+      "price": 1956000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-riverside-views-azure-2",
+      "name": {
+        "en": "Damac Riverside Views Azure 2",
+        "ar": "Damac Riverside Views Azure 2"
+      },
+      "status": "under_construction",
+      "price": 748000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "0",
+        "1"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-riverside-views-capri-2",
+      "name": {
+        "en": "DAMAC Riverside Views Capri 2",
+        "ar": "DAMAC Riverside Views Capri 2"
+      },
+      "status": "under_construction",
+      "price": 1191000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-riverside-views-marine-1",
+      "name": {
+        "en": "Damac Riverside Views - Marine 1",
+        "ar": "Damac Riverside Views - Marine 1"
+      },
+      "status": "under_construction",
+      "price": 1308000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "damac-riverside-views-marine-2",
+      "name": {
+        "en": "Damac Riverside Views - Marine 2",
+        "ar": "Damac Riverside Views - Marine 2"
+      },
+      "status": "under_construction",
+      "price": 1293000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-riverside-views-marine-4",
+      "name": {
+        "en": "Damac Riverside Views - Marine 4",
+        "ar": "Damac Riverside Views - Marine 4"
+      },
+      "status": "under_construction",
+      "price": 1331000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "damac-riverside-views-royal-1",
+      "name": {
+        "en": "Damac Riverside Views - Royal 1",
+        "ar": "Damac Riverside Views - Royal 1"
+      },
+      "status": "under_construction",
+      "price": 1194000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "district",
+      "name": {
+        "en": "DAMAC District",
+        "ar": "داماك ديستريكت"
+      },
+      "status": "not_started",
+      "price": 1200000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "duo-villas",
+      "name": {
+        "en": "Duo Villas",
+        "ar": "ديو فلل"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "elo-2",
+      "name": {
+        "en": "Elo 2",
+        "ar": "إيلو 2"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "elo-3",
+      "name": {
+        "en": "Elo 3",
+        "ar": "إيلو 3"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "evergreens",
+      "name": {
+        "en": "Evergreens",
+        "ar": "إيفرجرينز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "fiora",
+      "name": {
+        "en": "Fiora",
+        "ar": "فيورا"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "golf-gate",
+      "name": {
+        "en": "Golf Gate",
+        "ar": "جولف جيت"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "green-acres",
+      "name": {
+        "en": "Green Acres",
+        "ar": "جرين أكرز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "greenwoods",
+      "name": {
+        "en": "Greenwoods",
+        "ar": "جرينوودز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "heights",
+      "name": {
+        "en": "DAMAC Heights",
+        "ar": "DAMAC Heights"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "islands",
+      "name": {
+        "en": "Damac Islands - Seychelles 2",
+        "ar": "باي فيو من أدريس ريزورتس في إعمار بيتشفرونت"
+      },
+      "status": "under_construction",
+      "price": 2407000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "kiara",
+      "name": {
+        "en": "Kiara",
+        "ar": "كيارا"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "majestine",
+      "name": {
+        "en": "DAMAC Majestine",
+        "ar": "داماك ماجستين"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "maldives-2",
+      "name": {
+        "en": "Maldives 2",
+        "ar": "Maldives 2"
+      },
+      "status": "under_construction",
+      "price": 2400000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "maldives-3",
+      "name": {
+        "en": "Maldives 3",
+        "ar": "Maldives 3"
+      },
+      "status": "under_construction",
+      "price": 2407000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "maldives-5",
+      "name": {
+        "en": "Maldives 5",
+        "ar": "Maldives 5"
+      },
+      "status": "under_construction",
+      "price": 2341000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "maldives-at-damac-islands",
+      "name": {
+        "en": "Maldives At Damac Islands",
+        "ar": "Maldives At Damac Islands"
+      },
+      "status": "under_construction",
+      "price": 2407000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "malta",
+      "name": {
+        "en": "Malta",
+        "ar": "مالطا"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "mykonos",
+      "name": {
+        "en": "Mykonos",
+        "ar": "ميكونوس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "nice",
+      "name": {
+        "en": "Nice",
+        "ar": "نايس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "portofino",
+      "name": {
+        "en": "Portofino",
+        "ar": "بورتوفينو"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "projects",
+      "name": {
+        "en": "projects",
+        "ar": "projects"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "residenze",
+      "name": {
+        "en": "DAMAC Residenze",
+        "ar": "داماك ريزيدنزيه"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "reva-residences",
+      "name": {
+        "en": "Reva Residences",
+        "ar": "ريفا ريزيدنسز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "riverside",
+      "name": {
+        "en": "DAMAC Riverside",
+        "ar": "داماك ريفرسايد"
+      },
+      "status": "under_construction",
+      "price": 1293000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "riverside-views",
+      "name": {
+        "en": "Riverside Views",
+        "ar": "ريفرسايد فيوز"
+      },
+      "status": "Under Construction",
+      "price": 1191000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "riverside-views-marine-3",
+      "name": {
+        "en": "Riverside Views Marine",
+        "ar": "Riverside Views Marine"
+      },
+      "status": "under_construction",
+      "price": 888000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "riverside-views-marine-4",
+      "name": {
+        "en": "Riverside Views Marine 4",
+        "ar": "ريفرسايد فيوز مارين 4"
+      },
+      "status": "Under Construction",
+      "price": 888000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "safa-one",
+      "name": {
+        "en": "Safa One",
+        "ar": "صفا ون"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "safa-two",
+      "name": {
+        "en": "Safa Two de GRISOGONO",
+        "ar": "صفا تو دي جريسوغونو"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "types": []
+    },
+    {
+      "slug": "santorini",
+      "name": {
+        "en": "Santorini",
+        "ar": "سانتوريني"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "seacrest",
+      "name": {
+        "en": "seacrest",
+        "ar": "seacrest"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "seychelles",
+      "name": {
+        "en": "Seychelles",
+        "ar": "Seychelles"
+      },
+      "status": "under_construction",
+      "price": 2400000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "seychelles-2",
+      "name": {
+        "en": "Seychelles 2",
+        "ar": "سيشيلز 2"
+      },
+      "status": "Under Construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "silver-springs",
+      "name": {
+        "en": "Silver Springs",
+        "ar": "سيلفر سبرينغز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "sun-city",
+      "name": {
+        "en": "DAMAC Sun City",
+        "ar": "DAMAC Sun City"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "venice",
+      "name": {
+        "en": "Venice",
+        "ar": "فينيس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "volta",
+      "name": {
+        "en": "DAMAC Volta Tower",
+        "ar": "داماك فولتا تاور"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        4
+      ],
+      "types": []
+    }
+  ],
+  "updated_at": "2025-11-30T19:55:10.051295Z",
+  "stats": {
+    "projectCount": 71,
+    "updatedAt": "2025-12-13T08:44:49.566Z"
+  }
+}

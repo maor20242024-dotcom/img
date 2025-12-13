@@ -1,0 +1,44 @@
+{
+  "slug": "bali-phase-2-at-damac-islands",
+  "developer": "damac",
+  "projectName": {
+    "en": "Bali Phase 2 at Damac Islands",
+    "ar": "Bali Phase 2 at Damac Islands"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/9e303cc3-3933-417b-91e6-eb3182057414/gallery/image/CTO-XgKba52KB0GDjQtQm4egV50G4lY0X0VV8di5eXo=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/9e303cc3-3933-417b-91e6-eb3182057414/gallery/image/CTO-XgKba52KB0GDjQtQm4egV50G4lY0X0VV8di5eXo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/9e303cc3-3933-417b-91e6-eb3182057414/gallery/image/Qvz4S6DYIXW5EOUt3mP5s7U51Q8upjht1ceykNVuNac=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/9e303cc3-3933-417b-91e6-eb3182057414/gallery/image/xjQ7tO8SXcwhpjjvYJtQN-bhCyMspmVzME8x_Gja5Rw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/9e303cc3-3933-417b-91e6-eb3182057414/gallery/image/DFBgzZSzD1hgfpjUVyArjibm15UI39nDWMpRygfvktc=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.03535162123,
+    "lng": 55.30315974603
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

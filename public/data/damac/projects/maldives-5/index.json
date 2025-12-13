@@ -1,0 +1,41 @@
+{
+  "slug": "maldives-5",
+  "developer": "damac",
+  "projectName": {
+    "en": "Maldives 5",
+    "ar": "Maldives 5"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/4a5503af-2aab-4ba4-8e1e-729aae688ceb/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/4a5503af-2aab-4ba4-8e1e-729aae688ceb/gallery/image/IeUkuTiaunVALAsEEAbtQ2BuE5Z2UJS4lP6Opy1SjFQ=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Beach Access",
+    "Infinity Pool",
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Dining in building",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.0230916432,
+    "lng": 55.2960410387
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

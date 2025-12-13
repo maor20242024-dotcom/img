@@ -1,0 +1,121 @@
+{
+  "slug": "international-city",
+  "developer": "Nakheel",
+  "name_en": "International City",
+  "name_ar": "إنترناشونال سيتي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://www.nakheel.com/images/nakheelcorporatelibraries/amenities/jumeirah-park2.jpg?sfvrsn=fef9c7dc_3",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.153634113224,
+    "lng": 55.40867712963
+  },
+  "master_location_en": "Silver Park Residency",
+  "master_location_ar": "سيلفر بارك ريزيدنسي",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "An affordable multicultural community.",
+  "description_ar": "مجتمع اقتصادي متعدد الثقافات.",
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    },
+    {
+      "en": "Double Glazed Windows",
+      "ar": "نوافذ زجاجية مزدوجة"
+    },
+    {
+      "en": "Centrally Air-Conditioned",
+      "ar": "نظام تبريد مركزي"
+    },
+    {
+      "en": "Cleaning Services",
+      "ar": "خدمات تنظيف"
+    },
+    {
+      "en": "Broadband Internet",
+      "ar": "انترنت واسع النطاق"
+    },
+    {
+      "en": "Satellite/Cable TV",
+      "ar": "كابل قنوات تلفزيونية"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.918620Z"
+}

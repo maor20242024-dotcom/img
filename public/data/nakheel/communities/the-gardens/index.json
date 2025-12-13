@@ -1,0 +1,57 @@
+{
+  "slug": "the-gardens",
+  "developer": "Nakheel",
+  "name_en": "The Gardens",
+  "name_ar": "ذا جاردنز",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/palm-jumeirah190d7ee8-1b0a-4dd3-9ea4-523de16fa3cc.jpg?sfvrsn=44556319_1",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.042292857481,
+    "lng": 55.127074354462
+  },
+  "master_location_en": "The Gardens",
+  "master_location_ar": "الحدائق",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A green residential community.",
+  "description_ar": "مجتمع سكني خضراء.",
+  "amenities": [
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    },
+    {
+      "en": "Centrally Air-Conditioned",
+      "ar": "نظام تبريد مركزي"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.925980Z"
+}

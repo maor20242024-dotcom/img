@@ -1,0 +1,60 @@
+{
+  "slug": "chelsea-residences",
+  "developer": "damac",
+  "projectName": {
+    "en": "Chelsea Residences",
+    "ar": "تشيلسي ريزيدنسز"
+  },
+  "description": {
+    "en": "Through a global partnership with Chelsea Football Club, DAMAC presents the first residential project bearing the signature of a football brand in Dubai. This sparkling project enjoys its location in Dubai Maritime City, with captivating waterfront views, and includes over 1,400 homes, all offering an exceptional living experience enriched by the rich legacy of Chelsea Club. Chelsea Residences by DAMAC is an address where passion, elegant details, and the magic of performance come together. From exclusive facilities inspired by the world of Chelsea to luxurious interior designs, everything in this project reflects the spirit of champions in the most beautiful way.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3ACFCoKPvL8GqiFqFx2OpS/d552a0e2d40ed28eb708aef5c36a5add/Chelsea_Residences-Homepage_Hero_16x9.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/1ekJe0zSQqUN4LwZB8Y7Ux/9ca4fca5b30bd47a406d380fbc7ee6cb/Chelsea_Residences-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6rz6wkmwR8pr62RIrbA7MF/1f580acb361240a9afdcfcd007273b80/AR_-_Chelsea_Residences-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7vk3lIXAcf11PkulJY7eUk/023660fd8104a872faf42515103d8423/Chelsea_Residences-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6prg9PTM3J2gtXbI8k7WFM/3084b96a8d451b96439c997957363bf5/Chelsea_Residences-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/52JLpZjAaKaAcFjGOYDbwE/95cbcfae54d447b04abf22f9e3955745/AR_-_Chelsea_Residences-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5e1IBtFxmlGuv2gaWhNAe/cc1582040e9af28d5193b762159b98ab/Chelsea_Residences-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7yiQUWu01nvecd71uYFFCv/89fd6a59559a122fdf4eaef6a1fbe782/Chelsea_Residences-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5CZ00dsgJXe33zJq4lnCc4/8ce7aacd2acb2e1cc8c500685c812a65/Chelsea_Residences-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1eUZX4kfxDvHvqpVsgjJEw/3d9d22c7837f8deeec5a2e422c30d754/AR_-_Chelsea_Residences-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4R3fLMZS78NKDCC2RJ68FY/2556fba71ce3ad1c2cab608ac1ff1518/Chelsea_Residences-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5vMitf7mTMSTG2xXhs6MYB/3f6cce5cd2bddd7f548c8fd387a89158/Chelsea_Residences-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fEYAShJlCoLT1gR0zDOol/271eae95912a12c55e8d9f802992bc0f/AR_-_Chelsea_Residences-Gallery-13-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/DcoIz9Y7uSpxTKEeGm9aT/de233f985620ddcd4aa3c1808dbaab95/Chelsea_Residences-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4zSc5lOu4Ved3YCFu4ojm1/ba1e48997acc9406dad1c30c4d912a10/Chelsea_Residences-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/56msdH4z9vhxDQv08DxMWi/9f7ad1f370b81645301b31ac445662be/AR_-_Chelsea_Residences-Gallery-16-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6xB9tOh6jcSIFFxR7kkNlG/646b3612b31e5315b2c01a2a9afbdd9d/Chelsea_Residences-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1moLdrptanHF6pSznZ8Tqd/4a8b0acb4ab2d39da56bc164acc584c7/Chelsea_Residences-Gallery-18.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/lUj3xuWW7yr7G00V0NIaa/56095c895dfbcef7a07d236c3f20f6e3/Chelsea_Residence_Hero_Video_16X9_English.mp4",
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/68199895becd789dc70cce7d/681ca3ed33edda4c1271a0ef",
+  "brochureUrl": "",
+  "amenities": [
+    "Chelsea Lion Beach",
+    "Stamford Summit, Rooftop Pitch",
+    "Chelsea Football Simulation Room",
+    "Chelsea Sports Performance Training Center",
+    "Coral Beach, Ocean's Jewel",
+    "Deep Sea Inspired Kids Play Area",
+    "Serenity Spa",
+    "Wellness Oasis Under the Stars",
+    "Rain Therapy"
+  ],
+  "coordinates": {
+    "lat": 25.27950984791,
+    "lng": 55.25994537116
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

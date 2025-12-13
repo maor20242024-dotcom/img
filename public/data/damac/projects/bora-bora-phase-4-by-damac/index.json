@@ -1,0 +1,42 @@
+{
+  "slug": "bora-bora-phase-4-by-damac",
+  "developer": "damac",
+  "projectName": {
+    "en": "Bora Bora Phase 4 By Damac",
+    "ar": "Bora Bora Phase 4 By Damac"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/e07cae8d-7b94-407b-984a-ae78a567bd1e/gallery/image/N6Wfs4LVa4-xErGver2qRWiNwB6fkqRa6Z-NDAhdrLk=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/e07cae8d-7b94-407b-984a-ae78a567bd1e/gallery/image/N6Wfs4LVa4-xErGver2qRWiNwB6fkqRa6Z-NDAhdrLk=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Gardens",
+    "Beach Access",
+    "Indoor Swimming Pool",
+    "Restaurants",
+    "CCTV Security",
+    "Gymnasium",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.03062909691,
+    "lng": 55.30888264418
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

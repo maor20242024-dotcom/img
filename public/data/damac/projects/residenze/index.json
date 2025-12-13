@@ -1,0 +1,63 @@
+{
+  "slug": "residenze",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Residenze",
+    "ar": "داماك ريزيدنزيه"
+  },
+  "description": {
+    "en": "DAMAC Residenze is an exclusive collection of luxury units shining on the upper floors of the 84-story DAMAC Heights project. The units in this project vary between luxurious apartments and penthouses with elegant interior designs and charming views. Light blue colors harmonize with marble floors and creative touches in gentle curves to give residents of these units a calm and unique atmosphere, amidst captivating views of Palm Jumeirah, the sea, and Marina towers. Here, luxury ascends to new horizons in an exceptional location and an unparalleled address.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5MBvocOWsMkp8rQtswSOG2/487cbe2a42abdfd7d6bd42923c7ee5d8/DAMAC_Residenze-Homepage_Hero_9x16.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/5MBvocOWsMkp8rQtswSOG2/487cbe2a42abdfd7d6bd42923c7ee5d8/DAMAC_Residenze-Homepage_Hero_9x16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3ayL6Sk0lMxYX7VN2XM15C/a96399266b7d152cd642d9ef2c4471d6/DAMAC_Residenze-01.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1uftgh2fVAhthzSc0Je9xl/dd8618d9e791fbd69f8db5a453bf70d7/DAMAC_Residenze-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5ZN8jSCrE3GjFAJXLFz07e/b348363e54b6e812674edf35b0d2ba5f/DAMAC_Residenze-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5RVKqeooNMB1aZKr2slhBH/56c42fc1e366e99c77245e73aa94ce15/DAMAC_Residenze-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2b20ELbHrGKLcHPNTcCNUh/c70c2d7410aeb5ce77fd07bb6dd28261/DAMAC_Residenze-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1Vq98rAJao26b5fWGnjKTf/261dd39a2a2ba8f9d73fc22a5aa544e3/DAMAC_Residenze-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7AM4v2P781besoIpTs9DA7/633b0cb9a0d1789c8595f204d5723e4f/DAMAC_Residenze-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6aetVYAuRaLF8izvsI99kC/6c1c9ec68db6fe4b0fa8f1e7faded622/DAMAC_Residenze-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6Fymknp8C0ZPqP4Q3s7NeE/e70cce583d191904dfa3f8414948cff3/DAMAC_Residenze-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2VNB3yUoU1sUIKCGfHhJYL/c402190fc2002e9b30b10440c838979e/DAMAC_Residenze-10.jpg"
+  ],
+  "videoUrl": "https://www.youtube.com/embed/htHzUPRtK1Q",
+  "3D_TourLink": "https://www.youtube.com/embed/htHzUPRtK1Q",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Swimming Pool",
+    "State-of-the-art Gymnasium",
+    "Spa & Sauna",
+    "24/7 Concierge Service",
+    "Valet Parking",
+    "High-speed Elevators",
+    "Retail Outlets",
+    "Restaurants & Cafes"
+  ],
+  "coordinates": {
+    "lat": 25.08726,
+    "lng": 55.145625
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

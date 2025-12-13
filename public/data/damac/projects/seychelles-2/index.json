@@ -1,0 +1,41 @@
+{
+  "slug": "seychelles-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "Seychelles 2",
+    "ar": "سيشيلز 2"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/be15312b-6cdd-4c05-8046-c9ad516de9e7/gallery/image/RAOmVcj_o2Kl2y7zgobxmC71U3A6AMj03NGR30QRQPg=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/be15312b-6cdd-4c05-8046-c9ad516de9e7/gallery/image/RAOmVcj_o2Kl2y7zgobxmC71U3A6AMj03NGR30QRQPg=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.02765318696,
+    "lng": 55.29464754233
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

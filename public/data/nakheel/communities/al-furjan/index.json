@@ -1,0 +1,154 @@
+{
+  "slug": "al-furjan",
+  "developer": "Nakheel",
+  "name_en": "Al Furjan",
+  "name_ar": "الفرجان",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480a.jpg?sfvrsn=e803fd6b_1",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.026727365671,
+    "lng": 55.139588882553
+  },
+  "master_location_en": "Murooj Al Furjan",
+  "master_location_ar": "مروج الفرجان",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "One of Dubai’s most popular residential districts, Al Furjan features four bedroom villas and three bedroom townhouses designed to satisfy every practical need with all modern comforts. Inspired urban planning distinguishes this residential district with distinctive and functional features designed for a comfortable lifestyle. This vibrant community has been developed to make even simple everyday pleasures truly memorable and encourage a more social way of life. It has community centres, the Al Furjan Pavilions, featuring a range of facilities, including a swimming pool, sports courts, restaurants, cafés and retail stores.",
+  "description_ar": "مجتمع سكني عائلي مع فلل وشقق.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Sports Courts",
+      "ar": ""
+    },
+    {
+      "en": "Shaded Children's Play Areas",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Large Swimming Pools",
+      "ar": ""
+    },
+    {
+      "en": "Al Furjan Pavilion",
+      "ar": ""
+    },
+    {
+      "en": "Al Furjan West Pavilion",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Al Furjan Metro Station \n                                        \n                                            6 minutes from  Al Furjan Metro Station \n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "Ibn Battuta Mall\n                                        \n                                            11 minutes from Ibn Battuta Mall\n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "Dubai Marina\n                                        \n                                            16 minutes from Dubai Marina\n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "Palm Jumeirah\n                                        \n                                            20 minutes from Palm Jumeirah\n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "Al Maktoum International Airport (DWC)\n                                        \n                                            25 minutes from Al Maktoum International Airport (DWC)\n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "Downtown Dubai\n                                        \n                                            28 minutes from Downtown Dubai\n                                        \n                                    ",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.931961Z"
+}

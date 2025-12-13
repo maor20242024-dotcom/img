@@ -1,0 +1,42 @@
+{
+  "slug": "maldives-at-damac-islands",
+  "developer": "damac",
+  "projectName": {
+    "en": "Maldives At Damac Islands",
+    "ar": "Maldives At Damac Islands"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/aa8169d7-6e70-46fd-92d0-89ca97df023a/gallery/image/B_Mrw05fa9zM3CUac7lqaH7PYKmO0-uUD18mTmK3n0Q=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/aa8169d7-6e70-46fd-92d0-89ca97df023a/gallery/image/B_Mrw05fa9zM3CUac7lqaH7PYKmO0-uUD18mTmK3n0Q=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Jacuzzi & Steam",
+    "Beach Access",
+    "Infinity Pool",
+    "CCTV Security",
+    "Cycle track",
+    "Cinema",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.0268282024,
+    "lng": 55.30288254233
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,100 @@
+{
+  "developerID": "damac",
+  "name": {
+    "ar": "داماك العقارية",
+    "en": "DAMAC Properties"
+  },
+  "logo": "",
+  "website": "https://www.damacproperties.com/",
+  "description": {
+    "ar": "داماك شركة تطوير فاخرة معروفة بمشاريعها المميزة مثل داماك هيلز، لاجونز، وأيكون سيتي.",
+    "en": "DAMAC is a luxury real estate developer known for DAMAC Hills, DAMAC Lagoons, and Aykon City."
+  },
+  "contact": {
+    "phone": "+971567022702",
+    "whatsapp": "+971567022702"
+  },
+  "providerID": "damac",
+  "title": {
+    "ar": "مصفوفة DAMAC: المطور الأيقوني للفخامة في دبي"
+  },
+  "definition": {
+    "ar": "DAMAC هي شركة تطوير عقاري رائدة في الشرق الأوسط، تأسست عام 2002 على يد حسين سجواني، وتُعد أكبر مطور خاص في دبي. إذا كنت جديدًا عليها، فهي الاسم الذي يحول الأحلام إلى واقع، متخصصة في المشاريع الفاخرة مثل الأبراج الشاهقة، الكوميونيتيز المتكاملة، والشراكات مع علامات عالمية مثل Cavalli وde GRISOGONO. تُعرف بابتكارها في دمج الرفاهية مع التصميم العصري، وتغطي أكثر من 100 مليون قدم مربع من التطورات في دبي."
+  },
+  "firstImpression": {
+    "ar": "عند زيارتك لأي مشروع من DAMAC، تشعر فورًا بالثراء والأناقة؛ كأنك دخلت عالمًا من الجمال اللامتناهي، حيث كل تفصيل ينبض بالإبداع والرقي، مما يجعلك تتخيل حياتك المريحة كملك في قصره الخاص."
+  },
+  "professionalism": {
+    "ar": "DAMAC تجسد الاحترافية العالية من خلال فرقها المتخصصة التي تضمن تسليم المشاريع في مواعيدها بدقة، مع شهادات عالمية في الاستدامة والجودة، مما يعكس التزامها بالمعايير الدولية لتحقيق أعلى مستويات الرضا."
+  },
+  "creativity": {
+    "ar": "إبداع DAMAC يظهر في تصاميمها الفريدة مثل دمج الطبيعة مع الفخامة في DAMAC Lagoons، حيث تحول الصحراء إلى جنة استوائية، مع شراكات إبداعية تجعل كل مشروع عمل فني."
+  },
+  "beautyElegance": {
+    "ar": "كل مشروع في DAMAC هو تحفة جمالية، مع أناقة مستوحاة من العلامات الراقية، مثل Cavalli Estates التي تجمع بين الجمال الإيطالي والأناقة الحديثة، لتخلق مساحات تعكس الرقي والذوق الرفيع."
+  },
+  "wealthComfort": {
+    "ar": "DAMAC تُمثل الثراء الحقيقي بحياة مريحة في كوميونيتيز مثل DAMAC Hills، حيث الجولف، السباحة، والخدمات الفاخرة تجعل يومك عطلة دائمة، مع استثمارات تعود بأرباح عالية."
+  },
+  "dreamFulfillment": {
+    "ar": "مع DAMAC، تحقق أحلامك في منزل يجسد طموحاتك، سواء في برج شاهق مثل Safa One أو فيلا فاخرة، حيث كل مشروع خطوة نحو حياة الأحلام الثرية والمريحة."
+  },
+  "famousCommunities": [
+    {
+      "slug": "damac-hills",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Hills"
+      }
+    },
+    {
+      "slug": "damac-lagoons",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Lagoons"
+      }
+    },
+    {
+      "slug": "damac-bay-by-cavalli",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Bay"
+      }
+    }
+  ],
+  "latestWorks": [
+    {
+      "slug": "altitude-de-grisogono",
+      "name": {
+        "ar": null,
+        "en": "Altitude de GRISOGONO"
+      },
+      "year": 2025
+    },
+    {
+      "slug": "canal-crown",
+      "name": {
+        "ar": null,
+        "en": "Canal Crown"
+      },
+      "year": 2024
+    }
+  ],
+  "supportingVideo": [
+    "https://videos.ctfassets.net/zoq5l15g49wj/74M6IoNAeWTuuFXiNZe031/6c563f86ff25ccba05ce2958a19ccb79/ALTITUDE_Hero_video_16x9.mp4"
+  ],
+  "images": [
+    "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3k7IRgPNmfANYHieS231if/f791876dd8a92c40f3f9631141e78881/Altitude_de_GRISOGONO-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/42Jyr1RiAJLqcKLbo6SRJX/8ba2c2f32f442cad54629e8a8070910f/Altitude_de_GRISOGONO-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4Xf0uM0noeJkTELKBFBRgy/7d70e5063c7eb31c563d8bfc20cd64ca/Altitude_de_GRISOGONO-Gallery-03-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/11DszuFQKEjjlUpbccdUuJ/d62007004c226d72d3e17f8443389dd9/Altitude_de_GRISOGONO-Gallery-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2U3sTKOUfVo6aadi4FtzlY/f8369ab4023400b942dd5d87732a7370/Altitude_de_GRISOGONO-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2xpflOXO9i0AfEUbQXTzb/b7d2077ed29ec834326ade81c535d06a/Altitude_de_GRISOGONO-Gallery-06-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7418bfy6A8PXRVaMJCbWAN/6959f441d8a4d839ecb52cf47a853476/Altitude_de_GRISOGONO-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7k0kZMkvP0xUHMMW7u5MZ4/feeadfc6544bcf30b068e895fbad24e8/Altitude_de_GRISOGONO-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/GCdDDfaDMWBM0qpaLjVAs/bc861e30fc75b7f0bc9a14af6bc54b34/Altitude_de_GRISOGONO-Gallery-09.jpg"
+  ],
+  "lastUpdated": "2025-11-04T00:00:00Z",
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg"
+}

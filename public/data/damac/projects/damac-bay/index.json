@@ -1,0 +1,71 @@
+{
+  "slug": "damac-bay",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC Bay",
+    "ar": "داماك باي"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2ejDmW4UsnMsg6qC1fxuS8/a875cfe057bf05e4419f9f7f7f1b6fc0/653x685-Ar__9_.jpg",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/2ejDmW4UsnMsg6qC1fxuS8/a875cfe057bf05e4419f9f7f7f1b6fc0/653x685-Ar__9_.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7tlyIssx1oppQMO9oNudMU/9b36c6f90c846863ed03c8bfb5fb01a7/Damac_Bay_2-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1J47r178FRudcQWiDwgouL/572e77f1894f4365a502b764cc5eb640/Damac_Bay_2-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/77YugEH634H5ckPkeH61w1/3f57c8f0a5bea6c80efed4944d588a59/Damac_Bay_2-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/74hMKQ1rmYcZpoFLcwJ9hd/1ef7a4586e8c6e7aac92ad23a9211a1e/Damac_Bay_2-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3iJr195NidVNADMdl8vgH3/d652d166c3b86137971e9dd0ae0ba236/Damac_Bay_2-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/55tPXw0wNzsnH7m87X4vtT/494431513174f673aff4aad629782b06/Damac_Bay_2-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/57hr0MbVEqSkiT9kSfErJf/9e160e281489671687165b95e17cb14f/Damac_Bay_2-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/JFGMoJTr1qF8lIrh1mrC5/28daca3e444a9cb3bce47d4917053327/Damac_Bay_2-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/57gMffpEDPQCNyJo11t3Fc/b330ad45da4dac85729537195e3dc78e/Damac_Bay_2-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6Oo2s59vGovfVfRq1h7QqK/a2d5e3e4efb30e676f6f97ac388c49b1/Damac_Bay_2-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4BFtKFwdzxaGWPjLrcLQU9/7bd313c1cdc57e20d589ecde54882c34/Damac_Bay_2-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2DgJbfohQU8cZNo59zoQSq/62af118f008e60d80a418573c3ad8e47/Damac_Bay_2-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5SKsodl1JI8bt0yr1AqX5G/24cd457a4bc200bf631863be964e05d5/Damac_Bay_2-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6jci0Z93zcTWmq8NdQmc88/acb175912d3fbea64c279d9cffb5621f/Damac_Bay_2-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2CYSFiKZnFryust2olgWi5/d1ba5653e09f0df589730a7776459d4e/Damac_Bay_2-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5pVuerRv7TdMOv7MVmZanG/206d67fe15c80802673f9f8874f77c72/Damac_Bay_2-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1yAlM24KmSfMQ7hYxM7HZu/a8d9d978d5231130039cb2ed456895df/Damac_Bay_2-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/412IH80nU9EyynuW9d5bcl/515eaefd40338fc917298b2471d14033/Damac_Bay_2-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/s9As6cOqcYEYM1saLbuLg/af37f72ff718125bdf28ac8f2f9fe16f/Damac_Bay_2-Gallery-18-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/60uePdIe41P2uBieQHOL3D/f4941dae76cfbb33ce025a3779e14de5/Damac_Bay_2-Gallery-19.jpg"
+  ],
+  "videoUrl": "https://videos.ctfassets.net/zoq5l15g49wj/1aZJBuhAUhFwDTAKkezbHh/954969894ccc4185f35e602c24df3f7b/Cavali_Couture_Project_video_16x9_Arabic__1_.mp4",
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/67441879ba15da9bc5cb8ba6/67441ccbba15da9bc5cb929c",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Floating Relaxation Pods",
+    "Infinity Pool",
+    "Sky Garden",
+    "Cavalli-Inspired Restaurant",
+    "Therapeutic Cabins",
+    "Hot Tubs in the Shape of Boats"
+  ],
+  "coordinates": {
+    "lat": 25.09144,
+    "lng": 55.145448
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

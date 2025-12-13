@@ -1,0 +1,32 @@
+{
+  "slug": "evergreens",
+  "developer": "damac",
+  "projectName": {
+    "en": "Evergreens",
+    "ar": "إيفرجرينز"
+  },
+  "description": {
+    "en": "إيفرغرينز استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2NFLwkvZi9w04y7Uc13ud7/3d55b8084862312f08b4095926759f8e/44_Evergreens_-_AR.jpg",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

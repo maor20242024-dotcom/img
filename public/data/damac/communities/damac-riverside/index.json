@@ -1,0 +1,48 @@
+{
+  "slug": "damac-riverside",
+  "developer": "DAMAC",
+  "name_en": "DAMAC Riverside",
+  "name_ar": "داماك ريفرسايد",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://images.ctfassets.net/zoq5l15g49wj/2RJ8qgMPFdsVqWlg6cbB9v/b065f78efae32c307f6ab2c44829b587/DAMAC_Riverside-Gallery-00.jpg",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0543,
+    "lng": 55.2142
+  },
+  "master_location_en": "",
+  "master_location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A riverside community with villas and river views.",
+  "description_ar": "مجتمع ساحلي مع فلل وإطلالات على النهر.",
+  "amenities": [],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.857197Z"
+}

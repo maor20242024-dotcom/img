@@ -1,0 +1,51 @@
+{
+  "slug": "damac-district",
+  "developer": "damac",
+  "projectName": {
+    "en": "DAMAC District",
+    "ar": "داماك ديستريكت"
+  },
+  "description": {
+    "en": "امتلك شقتك أو مكتبك في داماك ديستريكت في داماك هيلز نقداً أو بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ عوائد واعدة ✓ مشاريع فاخرة قيد الإنشاء في دبي للبيع ✓ خطط سداد مرنة وميسرة",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/51ZsvAURObohC2lhaXlvV6/b7795361f9bd48da5852ee189775a37e/DAMAC_District-Homepage_Hero_9x16.jpg",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/3b1YDAQHzZdPoTAvgPW76UgomBUmiFGsLkpQDxyXVbQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/h-858fJ_qKYSxV9WKZT4pz3zq3Wlv_XHqVVjP9Y4pI4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/LS9BQrdecMMDuhfH9XD4yR7sk9NS32ZYtLc_r5IlX5I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/hBBH0kxOG924VAj8FBxxt8EtERZIQPfSzkl4cBavksg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/XUwfVD8q8O4MsOX6LPWj5jbxSztLxA_6BW_kI-V6ugw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/yupyzUEw1omxsB6hP6dZjHliP6RjNFZ3BnHaNKs1Wu0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/FPvWuGgcFz5lRKPhGUhoTItbBSzk7QTxvSXRRXO3eds=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/7XQ3VOK0MVUpREJXBa-bI-rpGx3bwXbWwGDgqg87fqo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/1318afdf-9e0f-4c40-a0f8-ba20942311d5/gallery/image/chonuSOk06qE-pY7PplmzDrupcxlXX4EaC_Ekyip6bA=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Retail Facilities",
+    "Gymnasium",
+    "Restaurants",
+    "Indoor Swimming Pool",
+    "International School",
+    "Landscaped Gardens",
+    "Children's Play Area",
+    "Security"
+  ],
+  "coordinates": {
+    "lat": 25.015931,
+    "lng": 55.248559
+  },
+  "completionDate": "",
+  "status": "not_started"
+}

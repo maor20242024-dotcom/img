@@ -1,0 +1,170 @@
+{
+  "slug": "nad-al-sheba-villas",
+  "developer": "Nakheel",
+  "name_en": "Nad Al Sheba Villas",
+  "name_ar": "فلل ند الشبا",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasfa559c82-ad5e-4714-aa39-74299b18ea2f.jpg?sfvrsn=437026d_1",
+  "images_gallery": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasfa559c82-ad5e-4714-aa39-74299b18ea2f.jpg?sfvrsn=437026d_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasb0355c96-da2a-483f-abf4-63d9dfbb5255.jpg?sfvrsn=e52c005a_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_5.jpg?sfvrsn=9ad961a7_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_7.jpg?sfvrsn=cad5044c_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_9.jpg?sfvrsn=6b98805f_5"
+  ],
+  "video_url": "https://nakheel.com/videos/nakheelcorporatelibraries/projects/nad-al-sheba-villasd52e3f89-dda9-4509-a5bf-479e0c255096.mp4?sfvrsn=904f1f8d_1",
+  "coordinates": {
+    "lat": 25.15993449709849,
+    "lng": 55.377970933431804
+  },
+  "master_location_en": "null",
+  "master_location_ar": "",
+  "district_en": "null",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Nad Al Sheba Villas is a gated community with luxurious new four and five bedroom Mediterranean and Moroccan style villas surrounded by green outdoor spaces. The community provides excellent amenities, nearby schools and easy access via Sheikh Mohammed Bin Zayed Road. Enjoy an active outdoor lifestyle at the five kilometre cycling track and jogging routes that encircle the community. Nad Al Sheba Pavilion offers a supermarket, salons, a restaurant, a caf&eacute;, a swimming pool, a gym, a sports court and more. Discover the perfect blend of privacy, convenience and connectivity in this exclusive community.",
+  "description_ar": "فلل فاخرة في ند الشبا.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Community Pavilion",
+      "ar": ""
+    },
+    {
+      "en": "Cycling & Jogging Track",
+      "ar": ""
+    },
+    {
+      "en": "Gym",
+      "ar": "نادي رياضي"
+    },
+    {
+      "en": "Spacious Garden",
+      "ar": ""
+    },
+    {
+      "en": "Outdoor Terrace",
+      "ar": ""
+    },
+    {
+      "en": "Sports Courts",
+      "ar": ""
+    },
+    {
+      "en": "Restaurants",
+      "ar": ""
+    },
+    {
+      "en": "Shops",
+      "ar": ""
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "Dubai Silicon Oasis",
+      "name_ar": "",
+      "distance": "12 minutes from Dubai Silicon Oasis",
+      "category": "Destination"
+    },
+    {
+      "name_en": "Sheikh Mohammed Bin Zayed Road",
+      "name_ar": "",
+      "distance": "13 minutes from Sheikh Mohammed Bin Zayed Road",
+      "category": "Destination"
+    },
+    {
+      "name_en": "Dubai Metro Station",
+      "name_ar": "",
+      "distance": "15 minutes from Dubai Metro Station",
+      "category": "Metro Station"
+    },
+    {
+      "name_en": "International City",
+      "name_ar": "",
+      "distance": "16 minutes from International City",
+      "category": "Destination"
+    },
+    {
+      "name_en": "Downtown Dubai",
+      "name_ar": "",
+      "distance": "19 minutes from Downtown Dubai",
+      "category": "Downtown"
+    },
+    {
+      "name_en": "Dubai International Airport",
+      "name_ar": "",
+      "distance": "22 minutes from Dubai International Airport",
+      "category": "Airport"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "https://nakheel.com/docs/nakheelcorporatelibraries/default-document-library/nad-al-sheba-villas.pdf?sfvrsn=b430cf66_1",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [
+    "https://www.nakheel.com/en/developments/nakheel-projects/nad-al-sheba-villas"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:09.915557Z"
+}

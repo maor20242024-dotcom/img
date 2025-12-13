@@ -1,0 +1,524 @@
+{
+  "developerID": "damac",
+  "name": {
+    "ar": "داماك العقارية",
+    "en": "DAMAC Properties"
+  },
+  "logo": "/media/developers/damac.png",
+  "website": "https://www.damacproperties.com",
+  "description": {
+    "ar": "داماك العقارية - أكبر مطور عقاري خاص في دبي، متخصص في المشاريع الفاخرة والشراكات مع العلامات التجارية العالمية",
+    "en": "DAMAC Properties - Largest private developer in Dubai, specializing in luxury projects and partnerships with global brands"
+  },
+  "contact": {
+    "phone": "+971567022702",
+    "email": "customercare@damacproperties.com",
+    "whatsapp": "+971567022702"
+  },
+  "developer": {
+    "ar": "داماك",
+    "en": "DAMAC"
+  },
+  "slug": "damac",
+  "statistics": {
+    "totalProjects": 35,
+    "totalUnits": 4400,
+    "locations": [
+      "Sheikh Zayed Road",
+      "DAMAC Hills 2",
+      "DAMAC Hills (Al Hebiah Third)",
+      "DAMAC Hills",
+      "Business Bay"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "aykon-city",
+      "name": {
+        "ar": null,
+        "en": "Aykon City"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "canal-crown",
+      "name": {
+        "ar": null,
+        "en": "Canal Crown"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "chelsea-residences",
+      "name": {
+        "ar": "تشيلسي ريزيدنسز",
+        "en": "Chelsea Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "chic-tower",
+      "name": {
+        "ar": null,
+        "en": "Chic Tower"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "costa-brava",
+      "name": {
+        "ar": null,
+        "en": "Costa Brava"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "couture-by-cavalli",
+      "name": {
+        "ar": "كوتور بتوقيع كافالي",
+        "en": "Couture by Cavalli"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "slug": "damac-bay-by-cavalli",
+      "name": {
+        "ar": "داماك باي بتوقيع كافالي",
+        "en": "DAMAC Bay by Cavalli"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "slug": "damac-casa",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Casa"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "damac-district",
+      "name": {
+        "ar": "داماك ديستريكت",
+        "en": "DAMAC District"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "damac-heights",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Heights"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "damac-islands",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Islands"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "damac-majestine",
+      "name": {
+        "ar": "داماك ماجستين",
+        "en": "DAMAC Majestine"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "damac-residenze",
+      "name": {
+        "ar": "داماك ريزيدنزيه",
+        "en": "DAMAC Residenze"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        3
+      ]
+    },
+    {
+      "slug": "damac-riverside",
+      "name": {
+        "ar": "داماك ريفرسايد",
+        "en": "DAMAC Riverside"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "damac-seacrest",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Seacrest"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "damac-sun-city",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Sun City"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "damac-towers-by-paramount-hotels-and-resorts",
+      "name": {
+        "ar": null,
+        "en": "DAMAC Towers by Paramount Hotels and Resorts"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "damac-volta",
+      "name": {
+        "ar": "داماك فولتا تاور",
+        "en": "DAMAC Volta Tower"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        4
+      ],
+      "location": {
+        "ar": "شارع الشيخ زايد",
+        "en": "Sheikh Zayed Road"
+      }
+    },
+    {
+      "slug": "duo-villas",
+      "name": {
+        "ar": null,
+        "en": "Duo Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "elo-2",
+      "name": {
+        "ar": null,
+        "en": "Elo 2"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "داماك هيلز 2",
+        "en": "DAMAC Hills 2"
+      }
+    },
+    {
+      "slug": "elo-3",
+      "name": {
+        "ar": null,
+        "en": "Elo 3"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "evergreens",
+      "name": {
+        "ar": "إيفرغرينز",
+        "en": "Evergreens"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "fiora",
+      "name": {
+        "ar": null,
+        "en": "Fiora"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "location": {
+        "ar": "مدينة دبي البحرية",
+        "en": "DAMAC Hills (Al Hebiah Third)"
+      }
+    },
+    {
+      "slug": "golf-gate-2",
+      "name": {
+        "ar": null,
+        "en": "Golf Gate 2"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "داماك هيلز",
+        "en": "DAMAC Hills"
+      }
+    },
+    {
+      "slug": "kiara-at-damac-hills",
+      "name": {
+        "ar": "كيارا في داماك هيلز",
+        "en": "Kiara at DAMAC Hills"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "location": {
+        "ar": "داماك هيلز",
+        "en": "DAMAC Hills"
+      }
+    },
+    {
+      "slug": "malta",
+      "name": {
+        "ar": null,
+        "en": "Malta"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "mykonos",
+      "name": {
+        "ar": null,
+        "en": "Mykonos"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "nice",
+      "name": {
+        "ar": null,
+        "en": "Nice"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "portofino",
+      "name": {
+        "ar": null,
+        "en": "Portofino"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "riverside-views-marine-3",
+      "name": {
+        "ar": null,
+        "en": "Riverside Views Marine 3"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "safa-two",
+      "name": {
+        "ar": null,
+        "en": "Safa Two"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "santorini",
+      "name": {
+        "ar": null,
+        "en": "Santorini"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "venice",
+      "name": {
+        "ar": null,
+        "en": "Venice"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "vera-residences",
+      "name": {
+        "ar": "فيرا ريزيدنسز",
+        "en": "Vera Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2
+      ],
+      "location": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      }
+    },
+    {
+      "slug": "volta",
+      "name": {
+        "ar": null,
+        "en": "Volta"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "lastUpdated": "2025-11-10T19:01:18.102Z"
+}

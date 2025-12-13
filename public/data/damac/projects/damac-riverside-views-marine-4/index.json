@@ -1,0 +1,45 @@
+{
+  "slug": "damac-riverside-views-marine-4",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Riverside Views - Marine 4",
+    "ar": "Damac Riverside Views - Marine 4"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/d74d61c7-85be-499e-9cd5-26012139ee93/gallery/image/3f6rAS33d0N-qpKKENyQn67PKSGxnW6cl_D6oO8sW8w=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/d74d61c7-85be-499e-9cd5-26012139ee93/gallery/image/3f6rAS33d0N-qpKKENyQn67PKSGxnW6cl_D6oO8sW8w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/d74d61c7-85be-499e-9cd5-26012139ee93/gallery/image/EKExvRFD1GK0BPKEXyLnIYfFmy4cFR7no2988DytiUA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/d74d61c7-85be-499e-9cd5-26012139ee93/gallery/image/u83vxXPw7TnSRnIZX1JdtwFYLVgjg3sakBx0L00gnxQ=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Restaurants",
+    "Landscaped Gardens",
+    "Cinema",
+    "Gymnasium",
+    "Indoor Swimming Pool",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Security"
+  ],
+  "coordinates": {
+    "lat": 24.978976,
+    "lng": 55.198896
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

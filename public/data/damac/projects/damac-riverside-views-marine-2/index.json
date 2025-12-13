@@ -1,0 +1,47 @@
+{
+  "slug": "damac-riverside-views-marine-2",
+  "developer": "damac",
+  "projectName": {
+    "en": "Damac Riverside Views - Marine 2",
+    "ar": "Damac Riverside Views - Marine 2"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/e38fd919-e9d3-4f5f-a911-69bcf680587d/gallery/image/3f6rAS33d0N-qpKKENyQn67PKSGxnW6cl_D6oO8sW8w=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/e38fd919-e9d3-4f5f-a911-69bcf680587d/gallery/image/3f6rAS33d0N-qpKKENyQn67PKSGxnW6cl_D6oO8sW8w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e38fd919-e9d3-4f5f-a911-69bcf680587d/gallery/image/3MNIXDdBTZvO9839ZwJVXYYKRp1w6QF8svTTyXnJo1M=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e38fd919-e9d3-4f5f-a911-69bcf680587d/gallery/image/JKZVTEuZyjzOlW8MajglbT4-mA2ieWaNolwWh3K1hHQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e38fd919-e9d3-4f5f-a911-69bcf680587d/gallery/image/uXb1-EPy0M5BRC27fLX1HSwCMHyAvi3gEpu28XYLlvI=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Restaurants",
+    "Cinema",
+    "CCTV Security",
+    "Gymnasium",
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Shared Spa"
+  ],
+  "coordinates": {
+    "lat": 24.97621011789,
+    "lng": 55.22793182209
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}
