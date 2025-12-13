@@ -1,0 +1,47 @@
+{
+  "slug": "binghatti-circle",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Circle",
+    "ar": "Binghatti Circle"
+  },
+  "description": {
+    "en": "Studio, 1, 2 & 3 BR apartments for sale in Binghatti Circle, JVC Dubai. A premium residential project offering modern living in a prime family-friendly location.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/binghatti-circle-hero-banner.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-amenties-1.webp?auto=format,compress&q=65",
+    "https://binghattiweb.imgix.net/binghatti-circle-amenties-2.webp?auto=format,compress&q=65",
+    "https://binghattiweb.imgix.net/binghatti-circle-studio-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-one-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-two-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-three-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-11.webp",
+    "https://binghattiweb.imgix.net/binghatti-circle-footer.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Fitness Center",
+    "Landscaped Outdoor Areas",
+    "Family-friendly Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.060959105456625,
+    "lng": 55.179076345723516
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

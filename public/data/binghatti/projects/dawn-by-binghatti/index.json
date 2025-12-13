@@ -1,0 +1,46 @@
+{
+  "slug": "dawn-by-binghatti",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Dawn by Binghatti",
+    "ar": "Dawn by Binghatti"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/5ameFaYtdYT471511YPkaus8tCkrPq8mhlRGKfqjc-4=/medium.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/5ameFaYtdYT471511YPkaus8tCkrPq8mhlRGKfqjc-4=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/uHYpKLMEJtb17TFJAfzmi_d5b1CO__cpMflxE7dO2OU=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/zxeDPwhddABoIRjd2etQkF1G8KTSg670Og-9b1TfOoI=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/FMgrUUac7q7UiWP6HFmQGe_REXM8dsP08DOXNF0udmc=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/5xHhv9d42_U2TWy7hCicOd42Wjmk7McpKaePZj2v8_g=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/6a2fdcec-d726-4698-9bb5-56bfd83841d7/gallery/image/D_QuK3hFbXP0t6pIXOvmTwaj-FOS1BhEw9FQlVA0BMI=/medium.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Restaurants",
+    "Children's Play Area",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.06901677759,
+    "lng": 55.21318140947
+  },
+  "completionDate": "",
+  "status": "completed"
+}

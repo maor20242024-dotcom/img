@@ -1,0 +1,48 @@
+{
+  "slug": "binghatti-aurora",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Aurora",
+    "ar": "Binghatti Aurora"
+  },
+  "description": {
+    "en": "Nestled within the vibrant community of JVC, Binghatti Aurora presents a collection of 275 meticulously designed residences that offer a new level of luxury living. This boutique 6 floor project offers the perfect retreat from the skyscrapers, creating a more community focused living experience that you will not find anywhere else.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/aurora_swimming-pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/aurora_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/aurora_outdoor-gym.jpg",
+    "https://binghattiweb.imgix.net/aurora_play-area.jpg",
+    "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+    "https://binghattiweb.imgix.net/aurora_2D-layout-studio.jpg",
+    "https://binghattiweb.imgix.net/aurora_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/aurora_layout-2-bedroom.jpg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-aurora-2.webp",
+    "https://binghattiweb.imgix.net/aurora_footer-horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Gym",
+    "Spa",
+    "Infinity Pool"
+  ],
+  "coordinates": {
+    "lat": 25.071568936099666,
+    "lng": 55.16406391691182
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

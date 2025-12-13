@@ -1,0 +1,44 @@
+{
+  "slug": "binghatti-skyrise",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Skyrise",
+    "ar": "Binghatti Skyrise"
+  },
+  "description": {
+    "en": "Binghatti Skyrise is an architectural masterpiece consisting of three 48 story towers with distinctive diamond-shaped crowns, aiming to redefine luxury living in the heart of Business Bay. It is for those who discern the exceptional, as each unit in the project has its own magical charm and unique features that cater to different preferences and lifestyles.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/skyrise_swimming_pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/skyrise_swimming_pool.jpg",
+    "https://binghattiweb.imgix.net/skyrise_outdoor_sitting_area.jpg",
+    "https://binghattiweb.imgix.net/skyrise_two_d_layout_studio.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_one_bedroom.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_two_bedroom.jpg",
+    "https://binghattiweb.imgix.net/skyrise_layout_three_bedroom.jpg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/skyrise_footer_horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Spa",
+    "Infinity Pool"
+  ],
+  "coordinates": {
+    "lat": 25.127398658663875,
+    "lng": 55.210575159267094
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

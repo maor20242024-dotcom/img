@@ -1,0 +1,47 @@
+{
+  "slug": "binghatti-ruby",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Ruby",
+    "ar": "Binghatti Ruby"
+  },
+  "description": {
+    "en": "Binghatti Ruby's elegance is inspired by gemstones. This luxury development is designed for modern lifestyles, offering a one-of-a-kind, unique architectural design that is easily recognizable in the JVC area, making it perfect for both investors seeking strong return on investment and families looking for their dream home. Experience Binghatti Ruby, a masterpiece of light and fire in Dubai. A sanctuary of brilliance and calm.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/ruby_swimmingpooldeck.jpg?auto=format,compress&q=65",
+    "https://binghattiweb.imgix.net/ruby_swimming_pool.jpg?auto=format,compress&q=65",
+    "https://binghattiweb.imgix.net/ruby_play_area.jpg?auto=format,compress&q=65",
+    "https://binghattiweb.imgix.net/ruby_twod_layout_studio.jpg",
+    "https://binghattiweb.imgix.net/ruby_layout_one_bedroom.jpg",
+    "https://binghattiweb.imgix.net/ruby_layout_two_bedroom.jpg",
+    "https://binghattiweb.imgix.net/ruby_layout_three_bedroom.jpg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/ruby_footer_horizontal.jpg?auto=format,compress&q=65"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Parking",
+    "Spa",
+    "Infinity Pool"
+  ],
+  "coordinates": {
+    "lat": 25.044542432934065,
+    "lng": 55.146303764723946
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

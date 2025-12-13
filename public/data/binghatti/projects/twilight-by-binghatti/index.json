@@ -1,0 +1,43 @@
+{
+  "slug": "twilight-by-binghatti",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Twilight by Binghatti",
+    "ar": "Twilight by Binghatti"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/352e87eb-4ed4-4662-a4e1-f31a40e36cf8/gallery/image/iXOjnQ_YSKIytIrlX0haSIrzKVAtWeLiLmWzmcLaIpY=/medium.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/352e87eb-4ed4-4662-a4e1-f31a40e36cf8/gallery/image/iXOjnQ_YSKIytIrlX0haSIrzKVAtWeLiLmWzmcLaIpY=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/352e87eb-4ed4-4662-a4e1-f31a40e36cf8/gallery/image/I9LTi35qie091ntPEj4DHY0IoRgfa6eSJV_kKK3Tatk=/medium.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Parks",
+    "Golf Club and Clubhouse",
+    "Restaurants",
+    "Indoor Swimming Pool",
+    "Gymnasium",
+    "Children's Play Area",
+    "Dining in building"
+  ],
+  "coordinates": {
+    "lat": 25.224959239,
+    "lng": 55.34090530947
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

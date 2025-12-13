@@ -1,0 +1,105 @@
+{
+  "website": "https://www.binghatti.com",
+  "contact": {
+    "phone": "+971567022702",
+    "email": "info@binghatti.com",
+    "whatsapp": "+971567022702"
+  },
+  "providerID": "binghatti",
+  "title": {
+    "ar": "بن غاطي: مطور عقاري رائد في دبي",
+    "en": "Binghatti: Leading Real Estate Developer in Dubai"
+  },
+  "definition": {
+    "ar": "شركة بن غاطي العقارية - مطور عقاري رائد في دبي متخصص في المشاريع السكنية الفاخرة والمبتكرة",
+    "en": "Binghatti Properties - Leading Dubai real estate developer specializing in luxurious and innovative residential projects"
+  },
+  "firstImpression": {
+    "ar": "عند زيارتك لأي مشروع من بن غاطي، تشعر فورًا بالفخامة والأناقة والجودة العالية",
+    "en": "When visiting any Binghatti project, you immediately feel luxury, elegance and high quality"
+  },
+  "professionalism": {
+    "ar": "بن غاطي تجسد الاحترافية العالية من خلال فرقها المتخصصة",
+    "en": "Binghatti embodies high professionalism through specialized teams"
+  },
+  "creativity": {
+    "ar": "إبداع بن غاطي يظهر في تصاميمها الفريدة والمبتكرة",
+    "en": "Binghatti's creativity shows in unique and innovative designs"
+  },
+  "beautyElegance": {
+    "ar": "كل مشروع من بن غاطي هو تحفة جمالية وأناقة",
+    "en": "Every Binghatti project is a masterpiece of beauty and elegance"
+  },
+  "wealthComfort": {
+    "ar": "بن غاطي تُمثل الثراء الحقيقي والحياة المريحة",
+    "en": "Binghatti represents true wealth and comfortable living"
+  },
+  "dreamFulfillment": {
+    "ar": "مع بن غاطي، تحقق أحلامك في منزل يجسد طموحاتك",
+    "en": "With Binghatti, fulfill your dreams in a home that embodies your aspirations"
+  },
+  "famousCommunities": [
+    {
+      "slug": "al-barasha-south-second",
+      "name": {
+        "ar": null,
+        "en": "Al Barasha South Second"
+      }
+    },
+    {
+      "slug": "al-hebiah-fourth",
+      "name": {
+        "ar": null,
+        "en": "Al Hebiah Fourth"
+      }
+    },
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": null,
+        "en": "Business Bay"
+      }
+    },
+    {
+      "slug": "downtown-dubai",
+      "name": {
+        "ar": null,
+        "en": "Downtown Dubai"
+      }
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name": {
+        "ar": null,
+        "en": "Jumeirah Village Circle"
+      }
+    }
+  ],
+  "latestWorks": [
+    {
+      "slug": "al-barasha-south-second",
+      "name": {
+        "ar": "البرشاء الجنوبية الثانية",
+        "en": "Al Barasha South Second"
+      },
+      "year": 2025
+    },
+    {
+      "slug": "al-hebiah-fourth",
+      "name": {
+        "ar": "البيئة الرابعة",
+        "en": "Al Hebiah Fourth"
+      },
+      "year": 2025
+    },
+    {
+      "slug": "business-bay",
+      "name": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      },
+      "year": 2025
+    }
+  ],
+  "lastUpdated": "2025-11-10T19:01:18.078Z"
+}

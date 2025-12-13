@@ -1,0 +1,48 @@
+{
+  "slug": "binghatti-dusk",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Dusk",
+    "ar": "Binghatti Dusk"
+  },
+  "description": {
+    "en": "Binghatti Dusk's concept is based on the captivating changes of daylight, creating an exclusive community atmosphere that feels more like a boutique residence than a typical apartment building. The project represents a unique investment opportunity for anyone looking for a modern and stylish living space in a prime location",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/dusk_swimming-pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/dusk_swimming-pool.jpg",
+    "https://binghattiweb.imgix.net/dusk_swimming-pool-deck.jpg",
+    "https://binghattiweb.imgix.net/grove_private-pool.jpg",
+    "https://binghattiweb.imgix.net/grove_tennis_basketball-courts.jpg",
+    "https://binghattiweb.imgix.net/dusk_2D-layout-studio.jpg",
+    "https://binghattiweb.imgix.net/dusk_layout-1-bedroom.jpg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/dusk_footer-horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Parking",
+    "Spa",
+    "Lounge",
+    "Infinity Pool"
+  ],
+  "coordinates": {
+    "lat": 25.069873469269186,
+    "lng": 55.155936047283674
+  },
+  "completionDate": "",
+  "status": "Ready"
+}
