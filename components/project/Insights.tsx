@@ -1,0 +1,1 @@
+export default function Insights({ text }:{ text?:string }){ if(!text) return null; return (<div className="rounded-xl border border-gold/20 p-6 bg-black/50"><div className="text-gold font-semibold mb-2">تحليلات</div><p className="text-gray-300 whitespace-pre-wrap">{text}</p></div>); }
