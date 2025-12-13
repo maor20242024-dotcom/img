@@ -1,0 +1,9 @@
+{
+  "matrix": [
+    { "from": "Dubai Harbour", "to": "Mall of the Emirates", "km": 15, "min": 20 },
+    { "from": "Dubai Harbour", "to": "Palm Jumeirah", "km": 10, "min": 12 },
+    { "from": "Dubai Marina", "to": "Dubai International Airport", "km": 40, "min": 40 },
+    { "from": "DAMAC Hills", "to": "Dubai Marina", "km": 25, "min": 30 }
+  ]
+}
+

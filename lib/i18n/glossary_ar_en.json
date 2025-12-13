@@ -1,0 +1,10 @@
+{
+  "terms": [
+    { "en": "apartment", "ar": "شقة" },
+    { "en": "villa", "ar": "فيلا" },
+    { "en": "townhouse", "ar": "تاونهاوس" },
+    { "en": "community", "ar": "مجتمع" },
+    { "en": "landmark", "ar": "معلم" }
+  ]
+}
+

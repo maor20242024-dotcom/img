@@ -1,0 +1,11 @@
+{
+  "types": [
+    { "key": "apartment", "en": "Apartment", "ar": "شقة" },
+    { "key": "villa", "en": "Villa", "ar": "فيلا" },
+    { "key": "townhouse", "en": "Townhouse", "ar": "تاونهاوس" },
+    { "key": "tower", "en": "Tower", "ar": "برج" },
+    { "key": "community", "en": "Community", "ar": "مجتمع" }
+  ],
+  "bedrooms": [1, 2, 3, 4, 5, 6]
+}
+

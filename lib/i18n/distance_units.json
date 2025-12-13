@@ -1,0 +1,7 @@
+{
+  "units": {
+    "km": { "label": { "en": "km", "ar": "كم" }, "format": { "en": "{v} km", "ar": "{v} كم" } },
+    "min": { "label": { "en": "min", "ar": "دقيقة" }, "format": { "en": "{v} min", "ar": "{v} دقيقة" } }
+  }
+}
+

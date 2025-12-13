@@ -1,0 +1,100 @@
+{
+  "project": {
+    "video": "Video",
+    "brochure": "Brochure",
+    "contact": "Contact",
+    "tour3d": "3D Tour",
+    "location": "Location",
+    "otherProjectsByDeveloper": "Other Projects by this Developer",
+    "relatedProjects": "Related Projects",
+    "contactUs": "Contact Us",
+    "news": "News",
+    "minPrice": "Min Price",
+    "maxPrice": "Max Price",
+    "areaSqft": "Area (ft²)",
+    "areaSqm": "Area (m²)",
+    "handover": "Handover",
+    "paymentPlan": "Payment Plan",
+    "status": "Status"
+  },
+  "map": {
+    "location": "Location",
+    "viewFullMap": "View Full Map",
+    "projectLocation": "Project Location",
+    "locationNotAvailable": "Project location is currently unavailable",
+    "loading": "Loading...",
+    "error": "Error loading map"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "notFound": "Not Available",
+    "available": "Available",
+    "unavailable": "Unavailable"
+  },
+  "ai": {
+    "title": "AI Real Estate Concierge",
+    "subtitle": "Use our smart assistant to find the best real estate opportunities in Dubai",
+    "smartAssistant": "Smart Assistant",
+    "smartAssistantDesc": "Intelligent and personalized responses to your real estate queries",
+    "personalizedProjects": "Personalized Projects",
+    "personalizedProjectsDesc": "Recommendations based on your preferences and budget",
+    "investmentTips": "Investment Tips",
+    "investmentTipsDesc": "Smart analysis of expected investment returns",
+    "mapChat": "AI Map Chat",
+    "mapChatDesc": "Interactive map with AI-powered location insights"
+  },
+  "navigation": {
+    "about": "About",
+    "vision": "Vision",
+    "news": "News",
+    "projects": "Projects",
+    "developers": "Developers",
+    "favorites": "Favorites",
+    "ai": "AI",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Imperium Gate",
+    "subtitle": "Your trusted partner in Dubai real estate",
+    "description": "Imperium Gate is a leading real estate platform specializing in Dubai's luxury property market. We combine cutting-edge technology with deep market expertise to help you find the perfect investment opportunity.",
+    "valuesTitle": "Our Values",
+    "excellence": "Excellence",
+    "excellenceDesc": "We maintain the highest standards in everything we do",
+    "innovation": "Innovation",
+    "innovationDesc": "We leverage the latest technology to enhance your experience",
+    "trust": "Trust",
+    "trustDesc": "We build lasting relationships based on transparency and integrity",
+    "whyChooseTitle": "Why Choose Imperium Gate",
+    "whyChoose1": "Comprehensive database of 160+ premium projects",
+    "whyChoose2": "AI-powered recommendations tailored to your needs",
+    "whyChoose3": "Expert insights from Dubai's top real estate professionals",
+    "whyChoose4": "Seamless digital experience from search to purchase"
+  },
+  "vision": {
+    "title": "Our Vision",
+    "subtitle": "Shaping the future of real estate in Dubai",
+    "description": "We envision a future where finding your dream property in Dubai is effortless, transparent, and powered by intelligent technology.",
+    "roadmapTitle": "12-Month Roadmap",
+    "q1Title": "Q1 2025: Enhanced AI Capabilities",
+    "q1Desc": "Advanced AI concierge with predictive analytics and market insights",
+    "q2Title": "Q2 2025: Virtual Reality Tours",
+    "q2Desc": "Immersive VR experiences for all properties in our portfolio",
+    "q3Title": "Q3 2025: Blockchain Integration",
+    "q3Desc": "Secure, transparent transactions using blockchain technology",
+    "q4Title": "Q4 2025: Global Expansion",
+    "q4Desc": "Extending our platform to other major real estate markets"
+  },
+  "news": {
+    "title": "Latest News",
+    "subtitle": "Stay updated with the latest developments in Dubai real estate",
+    "readMore": "Read More",
+    "noNews": "No news articles available at the moment.",
+    "categories": {
+      "market": "Market",
+      "projects": "Projects",
+      "investment": "Investment",
+      "technology": "Technology"
+    }
+  }
+}

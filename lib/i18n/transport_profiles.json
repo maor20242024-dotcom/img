@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "urban": { "avgKph": 45 },
+    "highway": { "avgKph": 80 }
+  },
+  "phrases": {
+    "en": "~{km} km (≈{min} min) from {landmark}",
+    "ar": "يبعد ~{km} كم (≈{min} دقيقة) عن {landmark}"
+  }
+}
+

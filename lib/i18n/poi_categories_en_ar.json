@@ -1,0 +1,11 @@
+{
+  "categories": [
+    { "key": "shopping", "en": "Shopping", "ar": "تسوق" },
+    { "key": "landmark", "en": "Landmark", "ar": "معلم" },
+    { "key": "community", "en": "Community", "ar": "مجتمع" },
+    { "key": "airport", "en": "Airport", "ar": "مطار" },
+    { "key": "entertainment", "en": "Entertainment", "ar": "ترفيه" },
+    { "key": "education", "en": "Education", "ar": "تعليم" }
+  ]
+}
+

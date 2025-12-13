@@ -1,0 +1,9 @@
+{
+  "areas": [
+    { "slug": "dubai-harbour", "en": "Dubai Harbour", "ar": "ميناء دبي" },
+    { "slug": "dubai-marina", "en": "Dubai Marina", "ar": "دبي مارينا" },
+    { "slug": "palm-jumeirah", "en": "Palm Jumeirah", "ar": "نخلة جميرا" },
+    { "slug": "damac-hills", "en": "DAMAC Hills", "ar": "داماك هيلز" }
+  ]
+}
+

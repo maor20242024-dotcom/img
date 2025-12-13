@@ -1,0 +1,15 @@
+{
+  "landmarks": [
+    { "slug": "palm-jumeirah", "en": "Palm Jumeirah", "ar": "نخلة جميرا", "lat": 25.1120, "lon": 55.1386 },
+    { "slug": "dubai-marina-mall", "en": "Dubai Marina Mall", "ar": "دبي مارينا مول", "lat": 25.0780, "lon": 55.1400 },
+    { "slug": "mall-of-the-emirates", "en": "Mall of the Emirates", "ar": "مول الإمارات", "lat": 25.1180, "lon": 55.2000 },
+    { "slug": "jumeirah-village-circle", "en": "Jumeirah Village Circle", "ar": "جميرا فيليج سيركل", "lat": 25.0610, "lon": 55.2200 },
+    { "slug": "dubai-international-airport", "en": "Dubai International Airport", "ar": "مطار دبي الدولي", "lat": 25.2532, "lon": 55.3657 },
+    { "slug": "ibn-battuta-mall", "en": "Ibn Battuta Mall", "ar": "ابن بطوطة مول", "lat": 25.0450, "lon": 55.1180 },
+    { "slug": "img-worlds-of-adventure", "en": "IMG Worlds of Adventure", "ar": "عالم آي إم جي للمغامرات", "lat": 25.1384, "lon": 55.2866 },
+    { "slug": "skydive-dubai", "en": "Skydive Dubai", "ar": "سكاي دايف دبي", "lat": 25.0920, "lon": 55.1395 },
+    { "slug": "aud", "en": "American University of Dubai", "ar": "الجامعة الأمريكية في دبي", "lat": 25.0912, "lon": 55.1571 },
+    { "slug": "ain-dubai", "en": "Ain Dubai", "ar": "عين دبي", "lat": 25.0872, "lon": 55.1390 }
+  ]
+}
+

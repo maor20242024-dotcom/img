@@ -1,0 +1,102 @@
+{
+  "price": {
+    "ar": "السعر",
+    "en": "Price"
+  },
+  "area": {
+    "ar": "المساحة",
+    "en": "Area"
+  },
+  "bedrooms": {
+    "ar": "الغرف",
+    "en": "Bedrooms"
+  },
+  "poi": {
+    "ar": "نقاط الاهتمام",
+    "en": "Points of Interest"
+  },
+  "infinity pool": {
+    "ar": "مسبح إنفينيتي",
+    "en": "Infinity Pool"
+  },
+  "wet deck": {
+    "ar": "منصة مبللة",
+    "en": "Wet Deck"
+  },
+  "sun loungers": {
+    "ar": "كراسي استلقاء للتشمس",
+    "en": "Sun Loungers"
+  },
+  "shaded pool deck": {
+    "ar": "منصة مسبح مظللة",
+    "en": "Shaded Pool Deck"
+  },
+  "shaded kids’ pool area & play area": {
+    "ar": "منطقة مسبح ولعب مظللة للأطفال",
+    "en": "Shaded Kids’ Pool Area & Play Area"
+  },
+  "raised lawn": {
+    "ar": "عشب مرتفع",
+    "en": "Raised Lawn"
+  },
+  "shaded communal areas": {
+    "ar": "مناطق مشتركة مظللة",
+    "en": "Shaded Communal Areas"
+  },
+  "bbq pods": {
+    "ar": "أكواخ شواء",
+    "en": "BBQ Pods"
+  },
+  "ground-level boutiques & cafes": {
+    "ar": "بوتيكات ومقاهي مستوى الأرض",
+    "en": "Ground-Level Boutiques & Cafes"
+  },
+  "landscaped garden": {
+    "ar": "حديقة طبيعية",
+    "en": "Landscaped Garden"
+  },
+  "glass slide": {
+    "ar": "زحليقة زجاجية",
+    "en": "Glass Slide"
+  },
+  "fog forest": {
+    "ar": "غابة ضبابية",
+    "en": "Fog Forest"
+  },
+  "suspended walkway": {
+    "ar": "ممر معلق",
+    "en": "Suspended Walkway"
+  },
+  "kids play area": {
+    "ar": "منطقة لعب للأطفال",
+    "en": "Kids Play Area"
+  },
+  "swimming pool": {
+    "ar": "مسبح",
+    "en": "Swimming Pool"
+  },
+  "gym": {
+    "ar": "نادي رياضي",
+    "en": "Gym"
+  },
+  "retail outlets": {
+    "ar": "متاجر تجزئة",
+    "en": "Retail Outlets"
+  },
+  "restaurants": {
+    "ar": "مطاعم",
+    "en": "Restaurants"
+  },
+  "restaurants & cafes": {
+    "ar": "مطاعم ومقاهي",
+    "en": "Restaurants & Cafes"
+  },
+  "restaurants and cafes": {
+    "ar": "مطاعم ومقاهي",
+    "en": "Restaurants and Cafes"
+  },
+  "parks and leisure areas": {
+    "ar": "حدائق ومناطق ترفيهية",
+    "en": "Parks and Leisure Areas"
+  }
+}
