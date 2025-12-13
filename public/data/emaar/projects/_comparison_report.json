@@ -1,0 +1,3531 @@
+{
+  "timestamp": "2025-11-30T10:16:41.687Z",
+  "summary": {
+    "total": 135,
+    "improved": 116,
+    "total_improvements": 123
+  },
+  "stats": {
+    "video": 7,
+    "brochure": 116,
+    "tour3d": 0,
+    "coordinates": 0,
+    "bedrooms": 0,
+    "property_types": 0,
+    "price": 0,
+    "area": 0,
+    "amenities": 0
+  },
+  "projects": [
+    {
+      "slug": "17-icon-bay",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "acacia",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/Acacia-FP.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "address-grand-downtown-dubai",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/03/The-Address-Grand-Downtown.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "address-residences-at-dubai-creek-harbour",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "address-residences-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/08/ADDRESS_DHE_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "address-residences-zabeel",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/01/ADH_ZABEEL_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "address-villas-tierra",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "aeon",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/01/Aeon.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "alana",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/10/ALANA_TV_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "albero-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/04/ALBERO_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "altan-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/ALTAN_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "altus-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/07/ALTUS_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "anya",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/01/ANYA_ARIII_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "anya-2",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/03/ANYA_II_ARIII_Launch_AR_16x9.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/03/ANYA2_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "arlo-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/ARLO_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "aseel",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "avena-2-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/07/AVENA_THE_VALLEY_BROCHURE_AR-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "avena-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/07/AVENA_THE_VALLEY_BROCHURE_AR-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "avonlea",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/11/AVONLEA_RYM_BROCHURE-2.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "bayline",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/11/BAYLINE_RYM_BROCHURE-2.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "bliss",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/08/BLISS_ARIII_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "bliss-2",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/02/BLISS2_ARIII_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "blvd-crescent",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "boulevard-heights",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/05/BLVD-HEIGHTS-_-BROCHURE-_-V11.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "caya",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/05/BROCHURE_CAYA_ARIII_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "caya-2",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/08/BROCHURE_CAYA_ARIII_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "chevalia-estate-at-grand-polo",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/CHEVALIA_ESTATE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "clearpoint",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/09/CLEARPOINT_RYM_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "collective-2",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-collective-2-en.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creek-crescent",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creek-edge",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-creek-edge-en.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creek-gate",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creek-waters",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/04/WV_CreekWaters_DCH_EN_16x9-1.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/04/CREEK_WATERS_DCH_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creek-waters-2",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/05/WV_CREEKWATERS2_AR_16x9.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/05/CREEK_WATERS_2_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "creekside-18",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "dubai-hills-vista",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/09/DUBAI_HILLS_VISTA_LAMBROGHINI_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "elea-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/01/KAIA_ELEA_TV_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "elie-saab-at-arabian-ranches-iii",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/12/ELIE_SAAB_VILLAS_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "elora",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/01/ELORA_THE_VALLEY_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "elva-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/01/KAIA_ELEA_TV_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "expo-golf-villas-6",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/04/EXPO_GULF_6_ES_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-iii",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-expo-golf-villas-iii-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-iv",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-expo-golf-villas-phase-iv-en.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-v",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-expo-golf-villas-phase-v-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "fairway-villas-2",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/05/web-version_-Fairway-Villas-2_AR_16x9.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/05/FAIRWAY_VIllAS_2_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "fairway-villas-3",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/03/FAIRWAY_VILLAS_3_ES_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "farm-gardens-2",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/02/FARM_GARDENS2_BROCHURE_APPROVED_DRAFT.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "farm-grove-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/12/FARM_GROVE_THE_VALLEY_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-acres-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/12/GOLF_ACRES_ES_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-dale-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/12/GOLF_DALE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-edge-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/01/GOLF_EDGE_ES_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-hillside-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/09/GOLF_HILLSIDE_BROCHURE-FINAL.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-lane-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/GOLF_LANE_ES_BROCHURE_BACKGROUND.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-meadow-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/03/GOLF_MEADOW_ES_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-place-ii",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-golf-place2-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-place-terraces",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/04/GOLF_PLACE_TERRACES_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "golf-point-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/08/GOLF_POINT_ES_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "golf-verge-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/03/GOLF-VERGE_ES_BROCHURE-3.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "golf-views",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/GOLF_VIEWS_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "green-square",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-green-square-en.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "greenridge-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/09/GREENRIDGE_ES_BROPCHURE.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "greenside-residence",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/09/Green-Side-Webversion-AR-16x9-1.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/09/GREENSIDE_DHE_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "greenspoint-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/02/GREENSPOINT_ES_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "greenville-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/10/GREENVILLE-BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "greenway-at-emaar-south",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/04/GREENWAY_ES_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "grove",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/12/GROVE_CREEK_BEACH_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "harbour-views",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "hillsedge-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/12/HILLSEDGE_DHE_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "june",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/10/JUNE_ARIII_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "kaia-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/01/KAIA_ELEA_TV_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "lavita-at-the-oasis",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/09/LAVITA_OASIS_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "lillia",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/03/LILLIA_TV_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "lotus",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "mangrove-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/MANGROVE_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "marina-place-1-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/11/BROCHURE_MARINA_PLACE_RYM-.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "marina-place-2-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/11/BROCHURE_MARINA_PLACE_RYM-.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "marina-views-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/07/MARINA_VIEWS_RYM_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "may",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/05/MAY-ARIII_Launch_AR_16x9_Web.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/05/MAY_ARIII_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "mirage-at-the-oasis",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/MIRAGE_THE_OASIS_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "montiva-by-vida-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/08/MONTIVA_BY_VIDA_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "montura-2-at-grand-polo",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/MONTURA-BROCHURE-1-5.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "montura-3-at-grand-polo",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/MONTURA-BROCHURE-1-5.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "montura-at-grand-polo",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/MONTURA-BROCHURE-1-5.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "mulberry",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "nima",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/09/NIMA_THE_VALLEY_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "ocean-point",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/03/OCEAN_POINT_RYM_BROCHURE_EN-1.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "ocean-star-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/03/OCEAN_STAR_RYM.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "opera-grand",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/11/OPERA_GRAND_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "orania-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/05/ORANIA_THE_VALLEY_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "orchid",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "oria-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/02/ORIA_DCH_BROCHURE_FINAL.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palace-residences-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/PALACE_RESIDENCES_DHE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palace-residences-creek-blue",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/PALACE_RESIDENCES_CREEK_BLUE_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palace-villas-ostra-at-the-oasis",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palm-hills",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2021/09/DHE_PALM_HILLS_ELIE_SAAB_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palmiera-2-at-the-oasis",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/05/PALMIERA2_THE_OASIS_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "palmiera-3-at-the-oasis",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/08/PALMIERA3_THE_OASIS_FACT_SHEET.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-gate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/11/PARKGATE_BROCHURE-2.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-gate-2-at-dubai-hills-estate",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-heights-i",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-horizon",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/11/PARK_HORIZON_DHE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-lane",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/03/PARKLANE_DHE_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "park-point",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "parkland-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/08/PARKLAND_DHE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "parkside-hills",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "parkside-views-residence",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/10/PARKSIDE_VIEWS_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "pier-point-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/09/PIER_POINT_RYM_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "porto-view-at-rashid-yachts-marina",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/09/PORTOVIEW_RYM_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "raya",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "rivera-at-the-valley-phase-2",
+      "improved": false,
+      "count": 0,
+      "improvements": {
+        "video": "",
+        "brochure": "",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "rosehill-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/07/ROSEHILL_DHE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "rosewater",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/03/ROSEWATER_CREEK_BEACH_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "ruba",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-ruba-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "seagate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/06/SEAGATE_RYM_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": null,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": false
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": false
+      }
+    },
+    {
+      "slug": "seascape",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/12/SEASCAPE_RYM_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "selvara-3-at-grand-polo-club-and-resort",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/08/SELVARA3_GP_BROCHURE-4.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "selvara-4-at-grand-polo-club-and-resort",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/08/SELVARA4_GP_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "selvara-at-grand-polo-club-and-resort",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/06/SELVARA_GP_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "sidra",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/07/SIDRA_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "silva-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/06/SILVA_DCH_BROCHURE-1.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "spring",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-spring-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "sunridge",
+      "improved": true,
+      "count": 2,
+      "improvements": {
+        "video": "https://properties.emaar.com/wp-content/uploads/2023/06/202300711_Sunridge_RYM_Launch_Video_AR_16x9-WEB.mp4",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2023/06/SUNRIDGE_RYM_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": true,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "surf",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/03/brochure-surf-en.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "talia",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/01/TALIA_THE_VALLEY_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "terra-heights-at-expo-living",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/11/TERRA_HEIGHTS_XL_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "the-bristol-luxury-hotels-resorts-at-emaar-beachfront",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/01/THE_BRISTOL_EBF_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "the-farm-gardens",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2022/12/FARM_GARDENS_THE_VALLEY_BROCHURE_EN.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "urbana-iii",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/05/URBANA_III_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "valo-at-dubai-creek-harbour",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/04/VALO_DCH_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "velora-2-at-the-valley-phase-2",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/10/VELORA2_THE_VALLEY_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "velora-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/06/THEVALLEY_VELORA_VENERA.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "venera-at-the-valley",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/06/THEVALLEY_VELORA_VENERA.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "vida-residences-club-point-at-dubai-hills-estate",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2024/10/VIDA_RESIDENCES_CLUB_POINT_DHE_BROCHURE_AR.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "vida-residences-creek-beach",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2020/09/VIDA_RESIDENCES_CREEK-BEACH_AR.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    },
+    {
+      "slug": "vida-residences-hillside",
+      "improved": true,
+      "count": 1,
+      "improvements": {
+        "video": "",
+        "brochure": "https://properties.emaar.com/wp-content/uploads/2025/05/VIDA_HILLSIDE_DHE_BROCHURE.pdf",
+        "tour3d": "",
+        "coordinates": false,
+        "bedrooms": false,
+        "property_types": false,
+        "price": null,
+        "area": null,
+        "amenities": false
+      },
+      "before": {
+        "video": false,
+        "brochure": false,
+        "coordinates": true
+      },
+      "after": {
+        "video": false,
+        "brochure": true,
+        "coordinates": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "farm-gardens",
+  "developer": "emaar",
+  "projectName": {
+    "en": "Farm Gardens",
+    "ar": "فارم جاردنز"
+  },
+  "description": {
+    "en": "Experience green living at Discovery Gardens, a garden-inspired community with spacious studios and apartments surrounded by lush, themed courtyards. A sprawling residential community inspired by garden living, Discovery Gardens comprises six themed community clusters, featuring 300 buildings with more than 26,000 spacious apartments and a variety of amenities including the Discovery Gardens Pavilion. Including Zen, Mediterranean, Contemporary, Mogul, Mesoamerican and Cactus courtyard gardens, each community retains its own distinctive character, capturing different elements of nature’s rich diversity. Spanning a massive 26 million square foot plot, this development of spacious, multi sized apartments offers residents a beautiful home, set in exquisite surroundings.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens4f1c4a8d-5652-4285-ad14-2d946f207a88.jpg?sfvrsn=3eebfbd6_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens3aaea588-e528-4229-8ac4-862ab5eba971.jpg?sfvrsn=ca170e3a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_1.jpg?sfvrsn=99d6ae62_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_2.jpg?sfvrsn=4ead78b5_3"
+  ],
+  "videoUrl": "https://www.nakheel.com/videos/nakheelcorporatelibraries/default-video-library/project-video---discovery-gardens.mp4?sfvrsn=fcb07046_1",
+  "3D_TourLink": "Not available (only driving/walking tours found)",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pools",
+    "Gym",
+    "Mosques",
+    "Petrol Station",
+    "Recycling Stations",
+    "Clothes Donation Boxes",
+    "Community Pavilion",
+    "Sports Courts",
+    "Kids Play Area"
+  ],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

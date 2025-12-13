@@ -1,0 +1,77 @@
+{
+  "slug": "valo-at-dubai-creek-harbour",
+  "developer": "emaar",
+  "projectName": {
+    "en": "Valo",
+    "ar": "فالو"
+  },
+  "description": {
+    "en": "Imagine waking up to the sunrise over Dubai's iconic skyline, where modern design meets natural beauty. Located in the trendy Creek Beach district, Valo stands as a striking urban landmark, beautifully harmonising with the calming atmosphere of the waterfront and the lively pulse of Dubai’s heart. Discover Valo located in the trendy Creek Beach district, Valo stands as a striking urban landmark, beautifully harmonising with the calming atmosphere of the waterfront and the lively pulse of Dubai’s heart. Visit us online for more info. Valo embodies contemporary sophistication, providing an exclusive blend of luxury, convenience, and distinctive urban charm. Every aspect of Valo has been meticulously planned and executed with an eye towards sustainability, innovation, and aesthetic appeal. From dawn ’til dusk, Valo residents are treated to a visual feast. Located just next to the main plaza, Valo offers a blend of urban energy and peaceful nature. Living at Valo means having the city at your fingertips. From the enigmatic charm of Dubai Creek to the urban beaches and the city's bustling heart, you’re constantly plugged into the urban grid. Valo is nestled in a special district within Creek Beach, ideal for those looking for an active way of life. Explore the scenic waterfront promenade, enjoy play areas and an adventure playground, and go on thrilling adventures at the cycling track and skate park. Sports courts await your competitive spirit, and connections to the RTA ferry terminal and metro station promise seamless mobility.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_PALACE_DCH_HIGHLIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/HARBOUR_GATE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HILLCREST_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/CEDAR_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/DHE_PF_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/SAVANNA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/RIVANA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/ELVIRA_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/01_HERO_EMERALD_HILLS.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/09/PALACE_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/10/PARK_RIDGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/CREEK_RISE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/02/PALACE_RESIDENCES_NORTH_DCH_WEBSITE_MAIN_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/01/HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/CREEK_HORIZON.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/03/GOLF_GRAND_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/11/THE_COVE_DCH_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DCR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/06/ACT_ONE_ACT_TWO_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/eden_hero_banner.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/08/LANDING_PAGE_HERO_16200x832-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/HP_HERO_IMAGE.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_5.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/VALO_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_1-1-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_2-1-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_EXT_3-1-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_1-1-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_2-1-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/PRO_INT_3-1-670x500.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Flexible Lawn and Kids Play Area",
+    "Pool Area",
+    "Indoor and Outdoor Gym",
+    "Kids’ Pool Area",
+    "Kids’ Play Area",
+    "Multipurpose Room",
+    "BBQ + Picnic Area",
+    "Yoga Area",
+    "Common Garden"
+  ],
+  "coordinates": {
+    "lat": 25.1833,
+    "lng": 55.3519
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

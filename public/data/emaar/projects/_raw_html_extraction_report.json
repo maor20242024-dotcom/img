@@ -1,0 +1,1235 @@
+{
+  "timestamp": "2025-11-30T11:20:33.277Z",
+  "source": {
+    "projects": "/Users/rodolfmichail/tekon/_enriched_preview/final_enriched",
+    "emarfull": "/Users/rodolfmichail/tekon/_enriched_preview/emarfull"
+  },
+  "stats": {
+    "total": 135,
+    "enriched": 135,
+    "fields": {
+      "coordinates": 29,
+      "map_zoom": 0,
+      "nearby_landmarks": 0,
+      "amenities": 614
+    },
+    "total_enrichments": 643
+  },
+  "detailed_results": [
+    {
+      "slug": "17-icon-bay",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "acacia",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "address-grand-downtown-dubai",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "address-residences-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 8
+      }
+    },
+    {
+      "slug": "address-residences-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "address-residences-zabeel",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "address-villas-tierra",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "aeon",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "alana",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "albero-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "altan-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "altus-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "anya",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "anya-2",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "arlo-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "aseel",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "avena-2-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "avena-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "avonlea",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "bayline",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "bliss",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "bliss-2",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "blvd-crescent",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "boulevard-heights",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "caya",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "caya-2",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "chevalia-estate-at-grand-polo",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "clearpoint",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "collective-2",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "creek-crescent",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "creek-edge",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "creek-gate",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "creek-waters",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "creek-waters-2",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "creekside-18",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "dubai-hills-vista",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "elea-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "elie-saab-at-arabian-ranches-iii",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "elora",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "elva-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "expo-golf-villas-6",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-iii",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-iv",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "expo-golf-villas-phase-v",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "fairway-villas-2",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "fairway-villas-3",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "farm-gardens-2",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "farm-grove-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "golf-acres-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "golf-dale-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "golf-edge-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "golf-hillside-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "golf-lane-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "golf-meadow-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "golf-place-ii",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "golf-place-terraces",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "golf-point-at-emaar-south",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "golf-verge-at-emaar-south",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "golf-views",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "green-square",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "greenridge-at-emaar-south",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "greenside-residence",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "greenspoint-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "greenville-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "greenway-at-emaar-south",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "grove",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "harbour-views",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "hillsedge-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "june",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "kaia-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "lavita-at-the-oasis",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "lillia",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "lotus",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "mangrove-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "marina-place-1-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "marina-place-2-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "marina-views-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "may",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "mirage-at-the-oasis",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "montiva-by-vida-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "montura-2-at-grand-polo",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "montura-3-at-grand-polo",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "montura-at-grand-polo",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "mulberry",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "nima",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "ocean-point",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "ocean-star-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "opera-grand",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "orania-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 2
+      }
+    },
+    {
+      "slug": "orchid",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "oria-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "palace-residences-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "palace-residences-creek-blue",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "palace-villas-ostra-at-the-oasis",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "palm-hills",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "palmiera-2-at-the-oasis",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "palmiera-3-at-the-oasis",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "park-gate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "park-gate-2-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "park-heights-i",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "park-horizon",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "park-lane",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "park-point",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "parkland-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "parkside-hills",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 7
+      }
+    },
+    {
+      "slug": "parkside-views-residence",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "pier-point-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "porto-view-at-rashid-yachts-marina",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "raya",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "rivera-at-the-valley-phase-2",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "rosehill-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "rosewater",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "ruba",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "seagate",
+      "enrichments": {
+        "coordinates": true,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "seascape",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "selvara-3-at-grand-polo-club-and-resort",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "selvara-4-at-grand-polo-club-and-resort",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "selvara-at-grand-polo-club-and-resort",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "sidra",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "silva-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "spring",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 2
+      }
+    },
+    {
+      "slug": "sunridge",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "surf",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 2
+      }
+    },
+    {
+      "slug": "talia",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 2
+      }
+    },
+    {
+      "slug": "terra-heights-at-expo-living",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 6
+      }
+    },
+    {
+      "slug": "the-bristol-luxury-hotels-resorts-at-emaar-beachfront",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "the-farm-gardens",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "urbana-iii",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    },
+    {
+      "slug": "valo-at-dubai-creek-harbour",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "velora-2-at-the-valley-phase-2",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "velora-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "venera-at-the-valley",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "vida-residences-club-point-at-dubai-hills-estate",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 5
+      }
+    },
+    {
+      "slug": "vida-residences-creek-beach",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 3
+      }
+    },
+    {
+      "slug": "vida-residences-hillside",
+      "enrichments": {
+        "coordinates": false,
+        "map_zoom": false,
+        "nearby_landmarks": false,
+        "amenities": 4
+      }
+    }
+  ]
+}

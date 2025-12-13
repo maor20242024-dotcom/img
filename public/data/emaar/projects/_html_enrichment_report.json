@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-30T10:47:49.923Z",
+  "source": {
+    "projects": "/Users/rodolfmichail/tekon/_enriched_preview/final_enriched",
+    "emarfull": "/Users/rodolfmichail/tekon/_enriched_preview/emarfull"
+  },
+  "stats": {
+    "total": 135,
+    "enriched": 135,
+    "fields": {
+      "map_zoom": 135,
+      "seo_description": 14,
+      "seo_title": 14,
+      "payment_plan": 0
+    },
+    "total_enrichments": 163
+  }
+}

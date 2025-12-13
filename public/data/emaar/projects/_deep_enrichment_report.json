@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-11-30T10:16:00.526Z",
+  "source": {
+    "enriched": "/Users/rodolfmichail/tekon/_enriched_preview/enriched_projects",
+    "emarfull": "/Users/rodolfmichail/tekon/_enriched_preview/emarfull"
+  },
+  "output": "/Users/rodolfmichail/tekon/_enriched_preview/final_enriched",
+  "stats": {
+    "total": 135,
+    "enriched": 135,
+    "fields": {
+      "videos": 0,
+      "pdfs": 0,
+      "coordinates": 0,
+      "bedrooms": 0,
+      "property_types": 0,
+      "prices": 0,
+      "areas": 0,
+      "dates": 0,
+      "amenities": 0,
+      "features": 0,
+      "contact": 0,
+      "other": 0
+    }
+  }
+}
