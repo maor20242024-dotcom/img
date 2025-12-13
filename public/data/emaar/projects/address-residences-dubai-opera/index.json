@@ -1,0 +1,57 @@
+{
+  "slug": "address-residences-dubai-opera",
+  "developer": "emaar",
+  "projectName": {
+    "en": "Address Residences Dubai Opera",
+    "ar": "إقامات أدرس دبي أوبرا"
+  },
+  "description": {
+    "en": "Downtown Dubai, our flagship mega-development, aptly named The Centre of Now, spans two of the most prestigious square kilometres in the city. Positioned between Sheikh Zayed Road and Financial Centre Road, this dynamic hub has driven the economy and cemented Dubai’s reputation as a true global icon. At the heart of the emirate, Downtown Dubai offers a metropolitan lifestyle surrounded by world-class landmarks, entertainment, and glamour. One of the key attractions in the area is Dubai Mall, the world’s largest shopping mall, offering an unrivalled selection of retail and dining options. Properties in Downtown Dubai represent the pinnacle of luxury living, with a skyline dominated by contemporary high-rise residences, complemented by world-class amenities and a thriving cultural scene. From sleek condominiums with panoramic views of the iconic skyline to elegant townhouses nestled along tree-lined avenues, each home exudes sophistication and style. With premium amenities such as private pools, state-of-the-art fitness centres, and exclusive concierge services, these properties elevate the concept of urban living to new heights. Whether seeking a cosmopolitan penthouse or a family-friendly retreat, Downtown Dubai offers an unmatched opportunity to experience the epitome of opulent city living.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/POV02-G-706x385.jpg",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize-1620x832.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/ACT_ONE_ACT_TWO_HERO-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/BURJ_CROWN_HERO-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/FORTE_DOWNTOWN_DUBAI-2-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/V07-op2-resize-scaled-1-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_GrandeDowntown_CGI03-TheTower_07-edit-2-1-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/VIEW-04-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/706x385_Feat_Image-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/POV02-G-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BOULEVARD_POINT-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/OPERA_GRAND_BALCONY-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/03/706x385-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/02/ST_REGIS-HERO-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/10/THE_RESIDENCE_BK_WEBSITE_HERO-2-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_2-1-706x385.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Burj Khalifa",
+    "Dubai Opera",
+    "Souk Al Bahar",
+    "The Dubai Fountain",
+    "The Dubai Mall",
+    "Burj Khalifa Lake",
+    "5-star Hotels",
+    "Upscale Business Hub"
+  ],
+  "coordinates": {
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

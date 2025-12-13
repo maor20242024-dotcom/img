@@ -1,0 +1,32 @@
+{
+  "slug": "eden",
+  "developer": "emaar",
+  "projectName": {
+    "en": "Eden",
+    "ar": "عدن"
+  },
+  "description": {
+    "en": "Soaring above Dubai with unobstructed skyline views and seamless access to world-class amenities. Rising at the heart of the Sobha Central cluster, The Eden offers a refined urban lifestyle where nature and skyline converge. Featuring 1 and 2-bedroom apartments, each residence is designed to capture uninterrupted views of Dubai’s skyline and the beautifully landscaped podium below bringing calm and clarity to everyday living. Strategically positioned within the Sobha Central masterplan, The Eden offers residents seamless internal connectivity to the wider community through intelligently integrated lift lobbies. This direct, weather-protected access links residents to a full-scale shopping mall, multiplex cinema, state-of-the-art gym, grand prayer hall, medical clinic, supermarket, and a host of other essential lifestyle amenities all designed to enhance everyday living with unmatched convenience.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner%201440x618%20%E2%80%93%209_0.jpg.webp?itok=QBPM2iak",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

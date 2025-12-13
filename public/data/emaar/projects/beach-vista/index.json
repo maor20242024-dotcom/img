@@ -1,0 +1,32 @@
+{
+  "slug": "beach-vista",
+  "developer": "emaar",
+  "projectName": {
+    "en": "Beach Vista",
+    "ar": "بيتش فيستا"
+  },
+  "description": {
+    "en": "EMAAR Beachfront offers a luxurious, private island lifestyle at Dubai Harbour. This exclusive, gated community provides unparalleled access to the city’s premier attractions, including world-class malls, gourmet restaurants, and prestigious yacht clubs. It's an off-plan development by Emaar Properties, strategically located near Sheikh Zayed Road, ensuring a seamless commute to all parts of Dubai. Where the sea greets you every morning, and pristine white sand welcomes you home—on an island with a statement address in Dubai. Awaken your senses with every breath, as you redefine your premium lifestyle, overlooking the majestic Arabian Gulf at Emaar Beachfront. Emaar Beachfront brings world-class shopping and entertainment right to your doorstep, part of this meticulously planned off-plan development by Emaar Properties. Imagine waking up to the soothing sounds of the sea every morning and coming home to pristine white sand beaches. This masterfully planned development caters to every aspect of premium living, with proximity to prestigious yacht clubs, gourmet restaurants, and the best shopping malls Dubai has to offer, including those in Palm Jumeirah and Dubai Marina. Whether it's a relaxing day at the beach or a vibrant night out, Emaar Beachfront promises a lifestyle of unparalleled luxury and convenience in one of Dubai's most sought-after neighbourhoods.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BEACH_VISTA_HER-706x385.jpg",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}
