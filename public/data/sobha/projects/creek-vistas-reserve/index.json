@@ -1,0 +1,44 @@
+{
+  "slug": "creek-vistas-reserve",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Creek-Vistas-Reserve",
+    "ar": "Creek-Vistas-Reserve"
+  },
+  "description": {
+    "en": "Sobha Creek Vistas Reserve offers luxurious 1 to 3 bedroom apartments with stunning city views, ensuring green living in Mohammed Bin Rashid City. These apartments provide centrality, convenience, and comfort, with Downtown Dubai just a short drive away.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Creek%20Vistas%20Reserve-1440x618.jpg.webp?itok=tzAmjmFd",
+  "galleryImages": [],
+  "videoUrl": "",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "[object Object]"
+  ],
+  "coordinates": {
+    "lat": 25.179868578691,
+    "lng": 55.304122131253
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

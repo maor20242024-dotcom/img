@@ -1,0 +1,988 @@
+{
+  "meta": {
+    "generated_at": "2025-11-10T19:01:18.333Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Auto-generated manifest for developer projects"
+  },
+  "developer": "sobha",
+  "domain": "https://www.sobharealty.com",
+  "items": [
+    {
+      "line": 1,
+      "label": "310-Riverside-Crescent",
+      "path": "/projects/310-riverside-crescent/",
+      "segments": [
+        "projects",
+        "310-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/310-riverside-crescent/"
+    },
+    {
+      "line": 2,
+      "label": "320-Riverside-Crescent",
+      "path": "/projects/320-riverside-crescent/",
+      "segments": [
+        "projects",
+        "320-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/320-riverside-crescent/"
+    },
+    {
+      "line": 3,
+      "label": "330-Riverside-Crescent",
+      "path": "/projects/330-riverside-crescent/",
+      "segments": [
+        "projects",
+        "330-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/330-riverside-crescent/"
+    },
+    {
+      "line": 4,
+      "label": "340-Riverside-Crescent",
+      "path": "/projects/340-riverside-crescent/",
+      "segments": [
+        "projects",
+        "340-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/340-riverside-crescent/"
+    },
+    {
+      "line": 5,
+      "label": "350-Riverside-Crescent",
+      "path": "/projects/350-riverside-crescent/",
+      "segments": [
+        "projects",
+        "350-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/350-riverside-crescent/"
+    },
+    {
+      "line": 6,
+      "label": "360-Riverside-Crescent",
+      "path": "/projects/360-riverside-crescent/",
+      "segments": [
+        "projects",
+        "360-riverside-crescent"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/360-riverside-crescent/"
+    },
+    {
+      "line": 7,
+      "label": "Aquamarine-Residences",
+      "path": "/projects/aquamarine-residences/",
+      "segments": [
+        "projects",
+        "aquamarine-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/aquamarine-residences/"
+    },
+    {
+      "line": 8,
+      "label": "Aura",
+      "path": "/projects/aura/",
+      "segments": [
+        "projects",
+        "aura"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/aura/"
+    },
+    {
+      "line": 9,
+      "label": "Avenue",
+      "path": "/projects/avenue/",
+      "segments": [
+        "projects",
+        "avenue"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/avenue/"
+    },
+    {
+      "line": 10,
+      "label": "Bayfront Marina Residences",
+      "path": "/projects/bayfront-marina-residences/",
+      "segments": [
+        "projects",
+        "bayfront-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/bayfront-marina-residences/"
+    },
+    {
+      "line": 11,
+      "label": "Bayside Marina Residences",
+      "path": "/projects/bayside-marina-residences/",
+      "segments": [
+        "projects",
+        "bayside-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/bayside-marina-residences/"
+    },
+    {
+      "line": 12,
+      "label": "Canalside Marina Residences",
+      "path": "/projects/canalside-marina-residences/",
+      "segments": [
+        "projects",
+        "canalside-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/canalside-marina-residences/"
+    },
+    {
+      "line": 13,
+      "label": "Coral Beach Villas",
+      "path": "/projects/coral-beach-villas/",
+      "segments": [
+        "projects",
+        "coral-beach-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/coral-beach-villas/"
+    },
+    {
+      "line": 14,
+      "label": "Creek-Vistas",
+      "path": "/projects/creek-vistas/",
+      "segments": [
+        "projects",
+        "creek-vistas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/creek-vistas/"
+    },
+    {
+      "line": 15,
+      "label": "Creek Vistas Grande",
+      "path": "/projects/creek-vistas-grande/",
+      "segments": [
+        "projects",
+        "creek-vistas-grande"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/creek-vistas-grande/"
+    },
+    {
+      "line": 16,
+      "label": "Creek Vistas Heights",
+      "path": "/projects/creek-vistas-heights/",
+      "segments": [
+        "projects",
+        "creek-vistas-heights"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/creek-vistas-heights/"
+    },
+    {
+      "line": 17,
+      "label": "Creek-Vistas-Reserve",
+      "path": "/projects/creek-vistas-reserve/",
+      "segments": [
+        "projects",
+        "creek-vistas-reserve"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/creek-vistas-reserve/"
+    },
+    {
+      "line": 18,
+      "label": "Crest Grande",
+      "path": "/projects/crest-grande/",
+      "segments": [
+        "projects",
+        "crest-grande"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/crest-grande/"
+    },
+    {
+      "line": 19,
+      "label": "Delphine-Beach-Residences",
+      "path": "/projects/delphine-beach-residences/",
+      "segments": [
+        "projects",
+        "delphine-beach-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/delphine-beach-residences/"
+    },
+    {
+      "line": 20,
+      "label": "Downtown UAQ | Sobha Realty",
+      "path": "/projects/downtown-uaq-sobha-realty/",
+      "segments": [
+        "projects",
+        "downtown-uaq-sobha-realty"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/downtown-uaq-sobha-realty/"
+    },
+    {
+      "line": 21,
+      "label": "Florine-Beach-Residences",
+      "path": "/projects/florine-beach-residences/",
+      "segments": [
+        "projects",
+        "florine-beach-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/florine-beach-residences/"
+    },
+    {
+      "line": 22,
+      "label": "Forest-Villas",
+      "path": "/projects/forest-villas/",
+      "segments": [
+        "projects",
+        "forest-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/forest-villas/"
+    },
+    {
+      "line": 23,
+      "label": "Garden-House",
+      "path": "/projects/garden-house/",
+      "segments": [
+        "projects",
+        "garden-house"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/garden-house/"
+    },
+    {
+      "line": 24,
+      "label": "Gardenia-Villas",
+      "path": "/projects/gardenia-villas/",
+      "segments": [
+        "projects",
+        "gardenia-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/gardenia-villas/"
+    },
+    {
+      "line": 25,
+      "label": "Golf Ridges",
+      "path": "/projects/golf-ridges/",
+      "segments": [
+        "projects",
+        "golf-ridges"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/golf-ridges/"
+    },
+    {
+      "line": 26,
+      "label": "Golf Ridges at Sobha One",
+      "path": "/projects/golf-ridges-at-sobha-one/",
+      "segments": [
+        "projects",
+        "golf-ridges-at-sobha-one"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/golf-ridges-at-sobha-one/"
+    },
+    {
+      "line": 27,
+      "label": "Hartland-2-Villas",
+      "path": "/projects/hartland-2-villas/",
+      "segments": [
+        "projects",
+        "hartland-2-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/hartland-2-villas/"
+    },
+    {
+      "line": 28,
+      "label": "Hartland-Estates",
+      "path": "/projects/hartland-estates/",
+      "segments": [
+        "projects",
+        "hartland-estates"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/hartland-estates/"
+    },
+    {
+      "line": 29,
+      "label": "Hartland-Greens-Apartment",
+      "path": "/projects/hartland-greens-apartment/",
+      "segments": [
+        "projects",
+        "hartland-greens-apartment"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/hartland-greens-apartment/"
+    },
+    {
+      "line": 30,
+      "label": "Hartland-Quad-Homes",
+      "path": "/projects/hartland-quad-homes/",
+      "segments": [
+        "projects",
+        "hartland-quad-homes"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/hartland-quad-homes/"
+    },
+    {
+      "line": 31,
+      "label": "Hartland-Waterfront-Villas",
+      "path": "/projects/hartland-waterfront-villas/",
+      "segments": [
+        "projects",
+        "hartland-waterfront-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/hartland-waterfront-villas/"
+    },
+    {
+      "line": 32,
+      "label": "One Park Avenue",
+      "path": "/projects/one-park-avenue/",
+      "segments": [
+        "projects",
+        "one-park-avenue"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/one-park-avenue/"
+    },
+    {
+      "line": 33,
+      "label": "Palm Grove Villas",
+      "path": "/projects/palm-grove-villas/",
+      "segments": [
+        "projects",
+        "palm-grove-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/palm-grove-villas/"
+    },
+    {
+      "line": 34,
+      "label": "Pearlside Marina Residence",
+      "path": "/projects/pearlside-marina-residence/",
+      "segments": [
+        "projects",
+        "pearlside-marina-residence"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/pearlside-marina-residence/"
+    },
+    {
+      "line": 35,
+      "label": "Pearlside Marina Residences",
+      "path": "/projects/pearlside-marina-residences/",
+      "segments": [
+        "projects",
+        "pearlside-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/pearlside-marina-residences/"
+    },
+    {
+      "line": 36,
+      "label": "Pierside Marina Residences",
+      "path": "/projects/pierside-marina-residences/",
+      "segments": [
+        "projects",
+        "pierside-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/pierside-marina-residences/"
+    },
+    {
+      "line": 37,
+      "label": "Pristine Beach Residences",
+      "path": "/projects/pristine-beach-residences/",
+      "segments": [
+        "projects",
+        "pristine-beach-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/pristine-beach-residences/"
+    },
+    {
+      "line": 38,
+      "label": "Serene",
+      "path": "/projects/serene/",
+      "segments": [
+        "projects",
+        "serene"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/serene/"
+    },
+    {
+      "line": 39,
+      "label": "Skyscape Altius",
+      "path": "/projects/skyscape-altius/",
+      "segments": [
+        "projects",
+        "skyscape-altius"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyscape-altius/"
+    },
+    {
+      "line": 40,
+      "label": "Skyscape Aura",
+      "path": "/projects/skyscape-aura/",
+      "segments": [
+        "projects",
+        "skyscape-aura"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyscape-aura/"
+    },
+    {
+      "line": 41,
+      "label": "Skyscape Avenue",
+      "path": "/projects/skyscape-avenue/",
+      "segments": [
+        "projects",
+        "skyscape-avenue"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyscape-avenue/"
+    },
+    {
+      "line": 42,
+      "label": "Skyvue",
+      "path": "/projects/skyvue/",
+      "segments": [
+        "projects",
+        "skyvue"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyvue/"
+    },
+    {
+      "line": 43,
+      "label": "Skyvue Solair",
+      "path": "/projects/skyvue-solair/",
+      "segments": [
+        "projects",
+        "skyvue-solair"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyvue-solair/"
+    },
+    {
+      "line": 44,
+      "label": "Skyvue Spectra",
+      "path": "/projects/skyvue-spectra/",
+      "segments": [
+        "projects",
+        "skyvue-spectra"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyvue-spectra/"
+    },
+    {
+      "line": 45,
+      "label": "Skyvue Stellar",
+      "path": "/projects/skyvue-stellar/",
+      "segments": [
+        "projects",
+        "skyvue-stellar"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/skyvue-stellar/"
+    },
+    {
+      "line": 46,
+      "label": "Sobha AquaCrest",
+      "path": "/projects/sobha-aquacrest/",
+      "segments": [
+        "projects",
+        "sobha-aquacrest"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-aquacrest/"
+    },
+    {
+      "line": 47,
+      "label": "Sobha Aquamont",
+      "path": "/projects/sobha-aquamont/",
+      "segments": [
+        "projects",
+        "sobha-aquamont"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-aquamont/"
+    },
+    {
+      "line": 48,
+      "label": "Sobha Central",
+      "path": "/projects/sobha-central/",
+      "segments": [
+        "projects",
+        "sobha-central"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-central/"
+    },
+    {
+      "line": 49,
+      "label": "Sobha Creek Vistas",
+      "path": "/projects/sobha-creek-vistas/",
+      "segments": [
+        "projects",
+        "sobha-creek-vistas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-creek-vistas/"
+    },
+    {
+      "line": 50,
+      "label": "Sobha Elwood",
+      "path": "/projects/sobha-elwood/",
+      "segments": [
+        "projects",
+        "sobha-elwood"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-elwood/"
+    },
+    {
+      "line": 51,
+      "label": "Sobha Estates",
+      "path": "/projects/sobha-estates/",
+      "segments": [
+        "projects",
+        "sobha-estates"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-estates/"
+    },
+    {
+      "line": 52,
+      "label": "Sobha Garden Houses",
+      "path": "/projects/sobha-garden-houses/",
+      "segments": [
+        "projects",
+        "sobha-garden-houses"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-garden-houses/"
+    },
+    {
+      "line": 53,
+      "label": "Sobha Gardenia Villas",
+      "path": "/projects/sobha-gardenia-villas/",
+      "segments": [
+        "projects",
+        "sobha-gardenia-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-gardenia-villas/"
+    },
+    {
+      "line": 54,
+      "label": "Sobha Hartland",
+      "path": "/projects/sobha-hartland/",
+      "segments": [
+        "projects",
+        "sobha-hartland"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-hartland/"
+    },
+    {
+      "line": 55,
+      "label": "Sobha Hartland Forest Villas",
+      "path": "/projects/sobha-hartland-forest-villas/",
+      "segments": [
+        "projects",
+        "sobha-hartland-forest-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-hartland-forest-villas/"
+    },
+    {
+      "line": 56,
+      "label": "Sobha Hartland Greens",
+      "path": "/projects/sobha-hartland-greens/",
+      "segments": [
+        "projects",
+        "sobha-hartland-greens"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-hartland-greens/"
+    },
+    {
+      "line": 57,
+      "label": "Sobha Hartland II",
+      "path": "/projects/sobha-hartland-ii/",
+      "segments": [
+        "projects",
+        "sobha-hartland-ii"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-hartland-ii/"
+    },
+    {
+      "line": 58,
+      "label": "Sobha Hartland Townhouses",
+      "path": "/projects/sobha-hartland-townhouses/",
+      "segments": [
+        "projects",
+        "sobha-hartland-townhouses"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-hartland-townhouses/"
+    },
+    {
+      "line": 59,
+      "label": "Sobha One",
+      "path": "/projects/sobha-one/",
+      "segments": [
+        "projects",
+        "sobha-one"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-one/"
+    },
+    {
+      "line": 60,
+      "label": "Sobha Orbis",
+      "path": "/projects/sobha-orbis/",
+      "segments": [
+        "projects",
+        "sobha-orbis"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-orbis/"
+    },
+    {
+      "line": 61,
+      "label": "Sobha Reserve",
+      "path": "/projects/sobha-reserve/",
+      "segments": [
+        "projects",
+        "sobha-reserve"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-reserve/"
+    },
+    {
+      "line": 62,
+      "label": "Sobha SeaHaven",
+      "path": "/projects/sobha-seahaven/",
+      "segments": [
+        "projects",
+        "sobha-seahaven"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-seahaven/"
+    },
+    {
+      "line": 63,
+      "label": "Sobha Siniya Island",
+      "path": "/projects/sobha-siniya-island/",
+      "segments": [
+        "projects",
+        "sobha-siniya-island"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-siniya-island/"
+    },
+    {
+      "line": 64,
+      "label": "Sobha SkyParks",
+      "path": "/projects/sobha-skyparks/",
+      "segments": [
+        "projects",
+        "sobha-skyparks"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-skyparks/"
+    },
+    {
+      "line": 65,
+      "label": "Sobha Solis",
+      "path": "/projects/sobha-solis/",
+      "segments": [
+        "projects",
+        "sobha-solis"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-solis/"
+    },
+    {
+      "line": 66,
+      "label": "Sobha Verde",
+      "path": "/projects/sobha-verde/",
+      "segments": [
+        "projects",
+        "sobha-verde"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-verde/"
+    },
+    {
+      "line": 67,
+      "label": "Sobha Waves",
+      "path": "/projects/sobha-waves/",
+      "segments": [
+        "projects",
+        "sobha-waves"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/sobha-waves/"
+    },
+    {
+      "line": 68,
+      "label": "The Crest",
+      "path": "/projects/the-crest/",
+      "segments": [
+        "projects",
+        "the-crest"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-crest/"
+    },
+    {
+      "line": 69,
+      "label": "The Eden",
+      "path": "/projects/the-eden/",
+      "segments": [
+        "projects",
+        "the-eden"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-eden/"
+    },
+    {
+      "line": 70,
+      "label": "The Element",
+      "path": "/projects/the-element/",
+      "segments": [
+        "projects",
+        "the-element"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-element/"
+    },
+    {
+      "line": 71,
+      "label": "The Element at Sobha One",
+      "path": "/projects/the-element-at-sobha-one/",
+      "segments": [
+        "projects",
+        "the-element-at-sobha-one"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-element-at-sobha-one/"
+    },
+    {
+      "line": 72,
+      "label": "The Horizon",
+      "path": "/projects/the-horizon/",
+      "segments": [
+        "projects",
+        "the-horizon"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-horizon/"
+    },
+    {
+      "line": 73,
+      "label": "The S",
+      "path": "/projects/the-s/",
+      "segments": [
+        "projects",
+        "the-s"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-s/"
+    },
+    {
+      "line": 74,
+      "label": "The-S-Tower",
+      "path": "/projects/the-s-tower/",
+      "segments": [
+        "projects",
+        "the-s-tower"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-s-tower/"
+    },
+    {
+      "line": 75,
+      "label": "The Serene",
+      "path": "/projects/the-serene/",
+      "segments": [
+        "projects",
+        "the-serene"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-serene/"
+    },
+    {
+      "line": 76,
+      "label": "The Tranquil",
+      "path": "/projects/the-tranquil/",
+      "segments": [
+        "projects",
+        "the-tranquil"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/the-tranquil/"
+    },
+    {
+      "line": 77,
+      "label": "Verde by Sobha",
+      "path": "/projects/verde-by-sobha/",
+      "segments": [
+        "projects",
+        "verde-by-sobha"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/verde-by-sobha/"
+    },
+    {
+      "line": 78,
+      "label": "Waves",
+      "path": "/projects/waves/",
+      "segments": [
+        "projects",
+        "waves"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/waves/"
+    },
+    {
+      "line": 79,
+      "label": "Waves Grande",
+      "path": "/projects/waves-grande/",
+      "segments": [
+        "projects",
+        "waves-grande"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/waves-grande/"
+    },
+    {
+      "line": 80,
+      "label": "Waves-Opulence",
+      "path": "/projects/waves-opulence/",
+      "segments": [
+        "projects",
+        "waves-opulence"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/waves-opulence/"
+    },
+    {
+      "line": 81,
+      "label": "Yachtside Marina Residences",
+      "path": "/projects/yachtside-marina-residences/",
+      "segments": [
+        "projects",
+        "yachtside-marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.sobharealty.com/projects/yachtside-marina-residences/"
+    }
+  ],
+  "stats": {
+    "project": 81
+  },
+  "count": 81
+}

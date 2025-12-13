@@ -1,0 +1,59 @@
+{
+  "slug": "hartland-townhouses",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Hartland Townhouses",
+    "ar": "Sobha Hartland Townhouses"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/1440x618-townhouse.jpg.webp?itok=ZUG0oblD",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/1440x618-townhouse.jpg.webp?itok=ZUG0oblD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_6.jpg.webp?itok=ib7a5AYe",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_5.jpg.webp?itok=R17N8jmV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_2.jpg.webp?itok=cRA11cP9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_1.jpg.webp?itok=T-FGP4uX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_1.jpg.webp?itok=gz2lztT5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_2.jpg.webp?itok=04BPSuVa",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%20-1.jpg.webp?itok=0ipr_bMg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_6.jpg.webp?itok=Fs8a3-Gq"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "2 PRIVATE GARDENS",
+    "PRIVATE GARAGE",
+    "COMMUNITY TRIANGULAR PARK",
+    "INTERNATIONAL SCHOOLS",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": -1,
+    "lng": -1
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

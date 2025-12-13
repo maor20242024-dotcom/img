@@ -1,0 +1,79 @@
+{
+  "slug": "elwood",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Elwood",
+    "ar": "Sobha Elwood"
+  },
+  "description": {
+    "en": "Sobha Elwood, a massive development spanning 10 million Sq. Ft., is elegantly situated within a serene and sustainable environment, where 10,000+ trees adorn 26% of the site area. Embodying the ethos of ‘The Canvas of Nature,’ Sobha Elwood epitomises luxury living. Each residence is a meticulously designed masterpiece, seamlessly integrating with the lush surroundings.The landscape (with dedicated 47% open space and parks) and parks here are inspired by the world's seven largest forests - from the Baobab to the Amazon rainforest - showcasing an array of trees from the most mystical and enchanting woodlands. This exclusive community features premium villas in 4, 5, and 6-bedroom configurations, each crafted to envelop residents in a tranquil and natural environment.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-08/Banner-1440x619%20%CE%93%C3%87%C3%B4%201.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-08/Banner-1440x619%20%CE%93%C3%87%C3%B4%201.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2016.jpg.webp?itok=VmjAN-r6",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2015.jpg.webp?itok=-9WLfbrg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2017.jpg.webp?itok=BwunEMQR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2028.jpg.webp?itok=lPBQhw_J",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2029.jpg.webp?itok=23KZJDSE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2014.jpg.webp?itok=WotkdEdi",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2018.jpg.webp?itok=zfRRkmK4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2019.jpg.webp?itok=OzocxY6o",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2020.jpg.webp?itok=lNDquSoK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2022.jpg.webp?itok=5KYuzXGp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2023.jpg.webp?itok=ccA2SGsW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2024.jpg.webp?itok=uKzfQxyE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2025.jpg.webp?itok=URcVkKId",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2026.jpg.webp?itok=ttPpkkSJ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2027.jpg.webp?itok=Z0JpK5GQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Desktop-Visual%20symphony%20gallery%201-1440x922%20%CE%93%C3%87%C3%B4%2021.jpg.webp?itok=_LTYlDJh",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery1.jpg.webp?itok=7wtT1OEE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery2.jpg.webp?itok=AFXkyOnn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery3.jpg.webp?itok=_Yvg4-GD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery4.jpg.webp?itok=b_tdAx2l",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery5.jpg.webp?itok=Y2rLKKQk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Gallery6.jpg.webp?itok=9jEZS2mT"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Adventure Walk",
+    "Cycling Track",
+    "Cricket pitch",
+    "COMMUNITY GARDEN",
+    "Dog park",
+    "Massive Clubhouse",
+    "Fitness & Wellness Decks",
+    "Community pavillion",
+    "Hammock court",
+    "Treehouse",
+    "Wadi",
+    "Forest play park"
+  ],
+  "coordinates": {
+    "lat": 25.023187628421,
+    "lng": 55.447068814157
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

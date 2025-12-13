@@ -1,0 +1,74 @@
+{
+  "website": "https://www.sobha.com/",
+  "contact": {
+    "phone": "+971567022702",
+    "whatsapp": "+971567022702"
+  },
+  "providerID": "sobha",
+  "title": {
+    "ar": "مصفوفة Sobha: الجودة الحرفية والهدوء الفاخر"
+  },
+  "definition": {
+    "ar": "Sobha Realty مطور خاص معروف بالجودة الحرفية والدقة في التنفيذ، يقدم مجتمعات خضراء داخلية مثل Sobha Hartland ويتميز بالتشطيبات العالية والاعتمادية."
+  },
+  "firstImpression": {
+    "ar": "إحساس بالهدوء والرفاهية داخل مساحات خضراء وتصميم متقن يركز على التفاصيل."
+  },
+  "professionalism": {
+    "ar": "تحكم جودة صارم، تشطيب فاخر، وتسليم موثوق وفق المعايير الدولية."
+  },
+  "creativity": {
+    "ar": "دمج الطبيعة مع العمارة الحديثة، مسارات مائية وحدائق داخلية توفر تجربة سكنية متوازنة."
+  },
+  "beautyElegance": {
+    "ar": "أناقة التفاصيل والتشطيبات مع استخدام خامات عالية الجودة لخلق مساحات راقية."
+  },
+  "wealthComfort": {
+    "ar": "حياة مريحة ومرافق نادي صحي ومسطحات مائية وخدمات مجتمعية متكاملة."
+  },
+  "dreamFulfillment": {
+    "ar": "فلل وشقق راقية تحقق حلم السكن الهادئ الفاخر ضمن بيئة طبيعية."
+  },
+  "famousCommunities": [
+    {
+      "slug": "sobha-hartland",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland"
+      }
+    },
+    {
+      "slug": "sobha-hartland-ii",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name": {
+        "ar": null,
+        "en": "Sobha SeaHaven"
+      }
+    }
+  ],
+  "latestWorks": [
+    {
+      "slug": "sobha-seahaven",
+      "name": {
+        "ar": null,
+        "en": "Sobha SeaHaven"
+      },
+      "year": 2024
+    },
+    {
+      "slug": "sobha-one",
+      "name": {
+        "ar": null,
+        "en": "Sobha One"
+      },
+      "year": 2023
+    }
+  ],
+  "lastUpdated": "2025-11-04T00:00:00Z"
+}

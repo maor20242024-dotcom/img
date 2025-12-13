@@ -1,0 +1,49 @@
+{
+  "slug": "bayfront-marina-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Bayfront Marina Residences",
+    "ar": "Bayfront Marina Residences"
+  },
+  "description": {
+    "en": "Set along the serene marina, Bayfront Marina Residences offers more than a home it offers a lifestyle.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-06/Banner-1440x618-8_0.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-06/Banner-1440x618-8_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-73.jpg.webp?itok=LCuAL6tO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/350x483%20%E2%80%93%2035.jpg.webp?itok=bd-qjzK9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-74.jpg.webp?itok=fPH77UtZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/350x483%20%E2%80%93%2036.jpg.webp?itok=OS8Adkw_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-75.jpg.webp?itok=6WENa3dj",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/350x483-37.jpg.webp?itok=GjE7KbkV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-76.jpg.webp?itok=1HtBKMzL",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/350x483%20%E2%80%93%2038.jpg.webp?itok=80MJP8QN"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.604171,
+    "lng": 55.627719
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

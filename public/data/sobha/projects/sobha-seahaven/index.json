@@ -1,0 +1,64 @@
+{
+  "slug": "sobha-seahaven",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha SeaHaven",
+    "ar": "صبحة سيهافن"
+  },
+  "description": {
+    "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour with ultra-luxury 1–4-bedroom apartments. With exclusive amenities and lush landscaping, it is a retreat of luxury, peace, and beauty. Sobha SeaHaven is situated at the hub of a maritime gateway, making it easier to drop anchor and experience the most exclusive destinations.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Seaheaven.jpg.webp?itok=ndbfrUWS",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Seaheaven.jpg.webp?itok=ndbfrUWS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327.jpg.webp?itok=3c4f981W",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_2.jpg.webp?itok=8jkuf3dB",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015316.jpg.webp?itok=dK7G8HnG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_2.jpg.webp?itok=IjVPFIjA",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_1.jpg.webp?itok=Dvd62mDE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310.jpg.webp?itok=Q7jDNUm4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312.jpg.webp?itok=XQCUp5B5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314.jpg.webp?itok=-k_8Vz59"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://seahaven.sobharealty.com/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "infinity leisure pool overlooking the harbour",
+    "RETAIL SPACE",
+    "Marina & Yacht",
+    "Health club with Sauna & steam",
+    "Café with Dining area",
+    "INDOOR & OUTDOOR GYM",
+    "YOGA ZONE",
+    "Indoor Game Room",
+    "Family Zone with barbecue area",
+    "Pool Deck & Day Beds",
+    "Indoor & outdoor Cinema"
+  ],
+  "coordinates": {
+    "lat": 25.0888,
+    "lng": 55.1408
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

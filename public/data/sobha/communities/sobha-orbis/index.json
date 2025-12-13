@@ -1,0 +1,174 @@
+{
+  "slug": "sobha-orbis",
+  "developer": "Sobha",
+  "name_en": "Sobha Orbis",
+  "name_ar": "شوبا أوربيس",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.049376658636,
+    "lng": 55.248872019004
+  },
+  "master_location_en": "Sobha Orbis Tower A",
+  "master_location_ar": "شوبا أوربيس برج A",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Nestled amidst the dynamic cityscape, Sobha Orbis emerges as an emblem of refined living, beckoning those who crave the pinnacle of sophistication. It is the epitome of urban living located in Motor City, Dubai. The premium 7 towers with meticulously crafted 1, 1.5 and 2 bedroom apartments exude elegance and offer a lifestyle that transcends the ordinary.",
+  "description_ar": "مجتمع مع عناصر فاخرة.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "jacuzzi",
+      "ar": ""
+    },
+    {
+      "en": "kids play area",
+      "ar": ""
+    },
+    {
+      "en": "BBQ ZONE",
+      "ar": ""
+    },
+    {
+      "en": "RESORT STYLE POOL",
+      "ar": ""
+    },
+    {
+      "en": "Panoramic green views",
+      "ar": ""
+    },
+    {
+      "en": "Retail Zone",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "FIRST AVENUE MALL, MOTOR CITY",
+      "name_ar": "",
+      "distance": "2 MINUTES",
+      "category": "Shopping/Mall"
+    },
+    {
+      "name_en": "DUBAI AUTODROME",
+      "name_ar": "",
+      "distance": "5 MINUTES",
+      "category": "Leisure/Entertainment"
+    },
+    {
+      "name_en": "DUBAI POLO & EQUESTRIAN CLUB",
+      "name_ar": "",
+      "distance": "5 MINUTES",
+      "category": "Leisure/Sports"
+    },
+    {
+      "name_en": "AL KHAIL ROAD",
+      "name_ar": "",
+      "distance": "10 MINUTES",
+      "category": "Road/Transportation"
+    },
+    {
+      "name_en": "AL BARSHA",
+      "name_ar": "",
+      "distance": "10 MINUTES",
+      "category": "District/Area"
+    },
+    {
+      "name_en": "JUMEIRAH VILLAGE CIRCLE",
+      "name_ar": "",
+      "distance": "10 MINUTES",
+      "category": "District/Area"
+    },
+    {
+      "name_en": "AL BARARI",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "District/Area"
+    },
+    {
+      "name_en": "SHEIKH ZAYED ROAD",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Road/Transportation"
+    },
+    {
+      "name_en": "MALL OF THE EMIRATES",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Shopping/Mall"
+    },
+    {
+      "name_en": "DUBAI STUDIO CITY",
+      "name_ar": "",
+      "distance": "6 MINUTES",
+      "category": "District/Area"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.009858Z"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "sobha-skyparks",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha SkyParks",
+    "ar": "Sobha SkyParks"
+  },
+  "description": {
+    "en": "Rising over Sheikh Zayed Road, Sobha SkyParks brings together the best of city life and elevated calm. This 450-metre architectural icon places you at the heart of Dubai's most desired location, steps away from business districts, fine dining, designer labels, and vibrant cultural landmarks. Choose from 1–3-bedroom residences and elegant duplexes, each offering sweeping views of the Arabian Sea and Downtown Dubai skyline. Here, every moment flows seamlessly between movement and stillness, between the pulse of the city and the quiet above the clouds.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-10/1440%20x%20618%202x_0.png",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-10/1440%20x%20618%202x_0.png",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2081.jpg.webp?itok=tfQbd95z",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2082.jpg.webp?itok=tcA8tCxI",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2083.jpg.webp?itok=Ta-SLRG7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2084.jpg.webp?itok=yPTjzUbi",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2085.jpg.webp?itok=1XJNuyWK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2086.jpg.webp?itok=W2hVHdfV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2087.jpg.webp?itok=QmsOnGz_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%2099.jpg.webp?itok=nsJF4KsF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/1006x608%20%E2%80%93%20100.jpg.webp?itok=jQJ3q0gz"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Padel Court",
+    "INFINITY POOL",
+    "Yoga Zone & Meditation Deck",
+    "Calisthenics Zones",
+    "Floating Decks",
+    "ZEN GARDEN",
+    "KIDS PLAY AREA",
+    "RoofTop Lounge"
+  ],
+  "coordinates": {
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "motor-city",
+  "developer": "Sobha",
+  "name_en": "Motor City",
+  "name_ar": "موتور سيتي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.049668700526,
+    "lng": 55.238159084755
+  },
+  "master_location_en": "Ananda Residences Tower B",
+  "master_location_ar": "أناندا ريزيدنسز برج B",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Motor City is a vibrant mixed-use district centered around automotive-themed avenues, offering residential, retail, and leisure lifestyles. Includes Sobha Orbis.",
+  "description_ar": "موتور سيتي هي منطقة متعددة الاستخدامات نابضة بالحياة تتمحور حول طرق ذات طابع سيارات، وتوفر أساليب حياة سكنية وتجارية وترفيهية. تشمل مشروع صوبا أوربس.",
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
+    },
+    {
+      "en": "First Aid Medical Center",
+      "ar": "مركز للإسعافات الأولية"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Prayer Room",
+      "ar": "غرفة صلاة"
+    },
+    {
+      "en": "Laundry Room",
+      "ar": "غرفة غسيل"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Conference Room",
+      "ar": "غرفة اجتماعات"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "ATM Facility",
+      "ar": "توفر أجهزة السحب الآلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.006192Z"
+}

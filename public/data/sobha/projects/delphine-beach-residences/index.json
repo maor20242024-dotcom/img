@@ -1,0 +1,48 @@
+{
+  "slug": "delphine-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Delphine-Beach-Residences",
+    "ar": "Delphine-Beach-Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/qB2y-I7CcsqzvepYSjMmjvQzh9xnhSerHL7CG2Y0iXw=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/zH7AYnBREOYCZ--AZPF-iOA6wfi-FPkp2llorymSLJI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/c_NHlXF16RgxfT7th3ryTQ77PaR_YKERccVzYyULYEs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/FPEfaxwF3DPRFBEMMC9mwTg-_gn3lA7D0Q2BnDOwtro=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/7lSIzKR5BiJEnllTIhRcQavM2s_tHFAfpv69kwSd41Y=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/vuoA78Qx-LvKVsXeyAKiGWJM3fE32tLp5HUgc1ltRkA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/5NwluPq3rVYjexaa6h83OuUM0qIaRlmFbiJNmM5RJAw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/AQf8rxtmSUQyEk8g4aXwNwmAL6gVzNjgAWw0ufUHs8c=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8473dafb-2cbd-4726-95d8-7d8e4fa57cdf/gallery/image/qB2y-I7CcsqzvepYSjMmjvQzh9xnhSerHL7CG2Y0iXw=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Landscaped Gardens",
+    "Cycle track",
+    "CCTV Security",
+    "Gymnasium",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.60544198648,
+    "lng": 55.62224146701
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

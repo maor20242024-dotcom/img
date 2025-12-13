@@ -1,0 +1,59 @@
+{
+  "slug": "sobha-gardenia-villas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Gardenia Villas",
+    "ar": "فلل سوبها جاردينيا"
+  },
+  "description": {
+    "en": "Enjoy an ultra-exclusive way of life where your privacy is of paramount importance. This 4-bedroom villa development in Dubai by Sobha Hartland is placed amidst an integrated network of lush green corridors. Bask in the natural light emanating from floor-to-ceiling windows while enjoying myriads of luxurious amenities and grandiose features.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/sobha%20gardenia%20villas.jpg.webp?itok=1pof3zmK",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/sobha%20gardenia%20villas.jpg.webp?itok=1pof3zmK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_17.jpg.webp?itok=zCs-lXH1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_5.jpg.webp?itok=KtVxwYbP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%20-1_5.jpg.webp?itok=RLcgtxaP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_17.jpg.webp?itok=XCqpiwfZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_10.jpg.webp?itok=RLn55Xzv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_6.jpg.webp?itok=wLT_lDic",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_5.jpg.webp?itok=HdlAWQbv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_8.jpg.webp?itok=1BJbXmMh"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Private Access",
+    "Two-Level Villas",
+    "Private Swimming Pool",
+    "Private Rooftop Terraces",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.17607743939,
+    "lng": 55.306064130424
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

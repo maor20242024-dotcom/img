@@ -1,0 +1,63 @@
+{
+  "slug": "golf-ridges-at-sobha-one",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Golf Ridges at Sobha One",
+    "ar": "Golf Ridges at Sobha One"
+  },
+  "description": {
+    "en": "Golf Ridges at Sobha One redefines fine living with golf course facing villaments. The first of its kind in the region, it brings together the best of a luxury villa, duplex, and master community.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-06/Mask%20Group%2015272.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-06/Mask%20Group%2015272.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/1006x608.jpg.webp?itok=qWRcerDQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Balcony%20%281%29_5.jpg.webp?itok=81t-cgZV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-08/Sobha%20One%20-%20Morning%20Shot.jpg.webp?itok=TP6YQZgx",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Dining%20room%202.jpg.webp?itok=UwtczlGo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/living%20room.jpg.webp?itok=7SFE_LEu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/nightoverview01.jpg.webp?itok=brt1-T3B",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-01-PP-PPTP.jpg.webp?itok=B3f2GUUQ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-02-PP-PPTP.jpg.webp?itok=SWMU1Ctn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-03-PP-PPTP%20%281%29.jpg.webp?itok=EUmPHsEc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/SHOT-05-PP-01-PPTP.jpg.webp?itok=cqtZvjrG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/Side%20Shot%20-%20Dusk%20%281%29.jpg.webp?itok=TU8CbVQw"
+  ],
+  "videoUrl": "https://sobharealty.com/sites/default/files/2024-10/Sobha%201440x618.mp4",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "18 - Hole pitch & putt golf course",
+    "BBQ SPACES",
+    "GYM",
+    "SWIMMING POOL",
+    "4 THEMED COURTYARDS",
+    "SKY TERRACE",
+    "RETAIL SPACE"
+  ],
+  "coordinates": {
+    "lat": 25.165039,
+    "lng": 55.334752
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

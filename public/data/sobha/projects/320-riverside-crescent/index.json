@@ -1,0 +1,50 @@
+{
+  "slug": "320-riverside-crescent",
+  "developer": "sobha",
+  "projectName": {
+    "en": "320 Riverside Crescent",
+    "ar": "320 Riverside Crescent"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/QdimyDcULOMlgO7ZRafSQVBw-UQm3-lHo-lLJVVOXaY=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/QdimyDcULOMlgO7ZRafSQVBw-UQm3-lHo-lLJVVOXaY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/DdfAmBpypZn5NWmLlVbitCGgiJbO1GRXWm-dHLsInIo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/GjKbBw3V55JtQfzg447z1HjOqCe3GzSlyK5D90VGSzE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/XsHyVQoqhYtU6jrbwfFKnguTO5P594KRBeQ74Nzxbpk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/C0oX7C0kOcX3Q6wjRw1rJjoyQ7msk1RKmEhkZXUtkXI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/3dK_3CneBb4HpXLphhiM79XXDxcqKEPyg0KPXRPJfDM=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/CbjtegS-4NVvOGAFePgeDdfj5fBu1u7rjnYJELDlfZw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/BnsnMMUtI50yTcaJR01C7KwO52tMzyPwdcpnRdscDXE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b753df50-c160-4f06-bc76-8193454a9544/gallery/image/uhb6wjbvYnq6SGavP9N2aECPvLrihm7YsP5w6Ld2Hmg=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Well-being and Fitness",
+    "Landscaped Gardens",
+    "Health Club",
+    "Gymnasium",
+    "Security",
+    "Children's Play Area",
+    "Shared Pool"
+  ],
+  "coordinates": {
+    "lat": 25.17573572019,
+    "lng": 55.32565486954
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

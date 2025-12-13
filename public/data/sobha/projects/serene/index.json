@@ -1,0 +1,57 @@
+{
+  "slug": "serene",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Serene",
+    "ar": "Serene"
+  },
+  "description": {
+    "en": "Strategically located in the heart of Sobha Central, The Serene offers a modern urban lifestyle with a sense of calm and balance.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-08/Banner%201440x618%20%E2%80%93%2014.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-08/Banner%201440x618%20%E2%80%93%2014.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2087.jpg.webp?itok=S0KEmkNq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2086.jpg.webp?itok=ZZpycO-P",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2085.jpg.webp?itok=6h0htA5q",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2084.jpg.webp?itok=061OwMU4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2083.jpg.webp?itok=JaMNXarG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2082.jpg.webp?itok=IYL0KQZJ"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "LEISURE POOL",
+    "CALISTHENIC GYM",
+    "OUTDOOR CINEMA",
+    "OPEN AMPHITHEATRE",
+    "FAMILY BBQ & GATHERING SPACE",
+    "KIDS PLAY AREA"
+  ],
+  "coordinates": {
+    "lat": 25.039428419705,
+    "lng": 55.145628426103
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

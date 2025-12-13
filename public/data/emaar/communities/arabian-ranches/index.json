@@ -1,0 +1,125 @@
+{
+  "slug": "arabian-ranches",
+  "developer": "Emaar",
+  "name_en": "Arabian Ranches",
+  "name_ar": "أرابيان رانشز",
+  "website": "https://properties.emaar.com/ar/our-communities/arabian-ranches",
+  "canonical_url": "https://properties.emaar.com/ar/our-communities/arabian-ranches",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AR_DSC_6360.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/ARIII.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ARABIAN_RANCHES_MAP-e1676034520955.jpg"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0516,
+    "lng": 55.2708
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "Arabian Ranches",
+  "district_ar": "المرابع العربية",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "",
+  "description_ar": "نعم، يعتبر المرابع العربية 1 مكاناً رائعاً للعيش فيه. يوفّر هذا المجمّع الحصري المسوّر في دبي أسلوب حياة فخماً وهادئاً. يستمتع السكّان بتجربة عيش ممتازة، بفضل الفلل ومنازل التاون هاوس ذات التصميم الجميل والمَرافق الراقية، التي تشمل ملعب جولف مصمّماً على الطراز العالمي للبطولات وملاعب بولو وملاعب تنس ومساحات مفتوحة شاسعة. إنّ البنية التحتية للمجمّع المخطّط لها بعناية، إلى جانب بيئته المناسبة للعائلات، تجعله خياراً ممتازاً للأشخاص الذين يبحثون عن مستوى معيشة عالي الجودة في دبي.",
+  "amenities": [
+    {
+      "en": "Golf Club",
+      "ar": ""
+    },
+    {
+      "en": "Parks",
+      "ar": ""
+    },
+    {
+      "en": "Open Spaces",
+      "ar": ""
+    },
+    {
+      "en": "Swimming Pools",
+      "ar": ""
+    },
+    {
+      "en": "Children's Play Area",
+      "ar": ""
+    },
+    {
+      "en": "Tennis Courts",
+      "ar": ""
+    },
+    {
+      "en": "Basketball Courts",
+      "ar": ""
+    },
+    {
+      "en": "Skate Park",
+      "ar": ""
+    },
+    {
+      "en": "BBQ Areas",
+      "ar": ""
+    },
+    {
+      "en": "Community Center",
+      "ar": ""
+    },
+    {
+      "en": "Retail Outlets",
+      "ar": "منافذ بيع بالتجزئة"
+    },
+    {
+      "en": "Restaurants",
+      "ar": ""
+    },
+    {
+      "en": "Mosques",
+      "ar": ""
+    },
+    {
+      "en": "Medical Clinics",
+      "ar": ""
+    },
+    {
+      "en": "Community Events",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/our-communities/arabian-ranches"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T09:58:48.900Z",
+  "updated_at": "2025-11-30T18:47:07.690Z"
+}

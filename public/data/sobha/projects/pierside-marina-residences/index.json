@@ -1,0 +1,53 @@
+{
+  "slug": "pierside-marina-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Pierside Marina Residences",
+    "ar": "Pierside Marina Residences"
+  },
+  "description": {
+    "en": "Start your day with breathtaking open sea views, setting the stage for a tranquil and luxurious lifestyle. Unwind in the evening to the gentle rhythm of the waves at Pierside Marina Residences—designed for those who appreciate both elegance and comfort.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/GBjB99q6esBRe6WPhB_KHfz1H3jxPXGP4x0W1DhcZW0=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/jOYYEXcnzrbuWl-KoAqtH8InDNG2FHy1NwqY9Iu9d-w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/m4mT8Mi8sch6kN_Yh8XBmI4-1YR1NcJm3eUy7vflC58=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/PRenKVAZ7aGm_YUt7ekGHmCsZ3kzxCMjb0dlrMVNCoQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/GBjB99q6esBRe6WPhB_KHfz1H3jxPXGP4x0W1DhcZW0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/AsOLDzPzrPeZAV7ZYhCDTedtyf-fiD8BAsl1pQreJx0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/m_Gl0eHoY8XPMREERPGKUhwDF64JZKeptpeRD4E6Tvc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/-EnFOPygcZXKrcnyLY5ymDWI2F1DQmgdoxp11MnXWqc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/3L0odJjfgKCvD2UgWAr0MislZ0Vi30Wi6H2X1mxjN54=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/fTpfKGdGvFkaHFoSXzdq-mbM7f2zLxDL-jllnTkaeRA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/bwIccoihDN7gzqi44G0z0w5ua6aHCK8M78izvluBFcI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/zxtjvBI8pZQ9wBKIFr07REd6VsSq-mTbph5aR09bvD8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/olAvOP6lhHVIQFUSl1PwCsnPo_vF3spf4LVDxsfKlV8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5928e72b-26af-497f-98f0-63bb50ce0d17/gallery/image/gnI4_YmuIQUSvy5ncDl4hnOZHNRi4WfwTx2caVxRJiU=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.61187340534,
+    "lng": 55.62546395928
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

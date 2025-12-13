@@ -1,0 +1,61 @@
+{
+  "slug": "sobha-aquacrest",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha AquaCrest",
+    "ar": "Sobha AquaCrest"
+  },
+  "description": {
+    "en": "Set within the heart of Downtown UAQ, Sobha AquaCrest reimagines coastal life with a seamless blend of beachfront serenity and modern sophistication.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-10/Banner%201440x618%20%E2%80%93%2016.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-10/Banner%201440x618%20%E2%80%93%2016.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2059.jpg.webp?itok=kNK14cKY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2060.jpg.webp?itok=Sv9tteEc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2061.jpg.webp?itok=-umA4Pnn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2062.jpg.webp?itok=e_1GBcaO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2058.jpg.webp?itok=CgRJUEtC",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2057.jpg.webp?itok=ndET1QA1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2055.jpg.webp?itok=NZmP9Nhu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-10/Listing%20372x274%20%E2%80%93%2054.jpg.webp?itok=pek__hSG"
+  ],
+  "videoUrl": "Not available",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Infinity pool",
+    "Marina & Yacht",
+    "OPEN AMPHITHEATRE",
+    "Landscaped Courtyards",
+    "KIDS PLAY AREA",
+    "Fitness & Wellness Decks",
+    "Café Terraces & Waterfront Dining Nodes",
+    "Beachfront Promenade & Boardwalk"
+  ],
+  "coordinates": {
+    "lat": 25.556407,
+    "lng": 55.5362661
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

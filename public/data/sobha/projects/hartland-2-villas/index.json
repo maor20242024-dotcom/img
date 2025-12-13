@@ -1,0 +1,53 @@
+{
+  "slug": "hartland-2-villas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Hartland-2-Villas",
+    "ar": "Hartland-2-Villas"
+  },
+  "description": {
+    "en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "galleryImages": [],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Electricity Backup",
+    "Waste Disposal",
+    "First Aid Medical Center",
+    "Service Elevators",
+    "Gym or Health Club",
+    "Prayer Room",
+    "Laundry Room",
+    "Sauna",
+    "Swimming Pool",
+    "Maintenance Staff",
+    "Cafeteria or Canteen",
+    "Freehold",
+    "Furnished",
+    "Intercom",
+    "ATM Facility",
+    "Kids Play Area",
+    "Lawn or Garden",
+    "Reception/Waiting Room",
+    "Steam Room",
+    "Laundry Facility"
+  ],
+  "coordinates": {
+    "lat": 25.024769324449,
+    "lng": 55.359007938377
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

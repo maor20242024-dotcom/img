@@ -1,0 +1,48 @@
+{
+  "slug": "coral-beach-villas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Coral Beach Villas",
+    "ar": "فلل شاطئ المرجان"
+  },
+  "description": {
+    "en": "Coral Beach Villas offers luxurious 5-bedroom villas that blend modern elegance with nature's pristine beauty. These villas provide a serene lifestyle with private gardens, private pools, spacious outdoor areas, and easy access to boardwalks, lagoons, and stunning beaches.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015388.jpg.webp?itok=xKBhKP6I",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015388.jpg.webp?itok=xKBhKP6I",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015390.jpg.webp?itok=UBtsvxW8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015392.jpg.webp?itok=3ayBQAae",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015393.jpg.webp?itok=cSB294fT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015391.jpg.webp?itok=8a2lWiOi",
+    "https://new-projects-media.propertyfinder.com/project/585612d1-7ed7-4ca8-87ad-0367af284730/gallery/image/hcn5XEEBQLrK9hXcV7j08Y_6e0ni__QXxypV4Q3l_EM=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://app.sobhasiniyaisland.com/",
+  "brochureUrl": "",
+  "amenities": [
+    "Golf Club and Clubhouse",
+    "Health Club",
+    "Gymnasium",
+    "Indoor Swimming Pool",
+    "Jacuzzi & Steam",
+    "Cafe and Restaurants",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.61589956422,
+    "lng": 55.6212221999
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

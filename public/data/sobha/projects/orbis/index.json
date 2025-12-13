@@ -1,0 +1,47 @@
+{
+  "slug": "orbis",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Orbis",
+    "ar": "Sobha Orbis"
+  },
+  "description": {
+    "en": "Nestled amidst the dynamic cityscape, Sobha Orbis emerges as an emblem of refined living, beckoning those who crave the pinnacle of sophistication. It is the epitome of urban living located in Motor City, Dubai. The premium 7 towers with meticulously crafted 1, 1.5 and 2 bedroom apartments exude elegance and offer a lifestyle that transcends the ordinary.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Orbis_0.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Orbis_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/L%20%282%29-.jpg.webp?itok=O3UJMp8l",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/A%20%282%29-.jpg.webp?itok=61WZlm62",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/A%20%283%29-.jpg.webp?itok=tpW24eqP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%281%29-.jpg.webp?itok=jTXiSHmP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%282%29-.jpg.webp?itok=Ylu8aM7-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%283%29-.jpg.webp?itok=Egg_EAqT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-06/I%20%284%29-.jpg.webp?itok=FsDIYOyw"
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=R9IqCjR7d_Q",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "Cafe and Restaurants",
+    "Gymnasium",
+    "Retail Facilities"
+  ],
+  "coordinates": {
+    "lat": 25.04914258767,
+    "lng": 55.24962555126
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

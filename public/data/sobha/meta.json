@@ -1,0 +1,1545 @@
+{
+  "logo": "/media/developers/sobha.png",
+  "website": "https://www.sobharealty.com",
+  "description": {
+    "ar": "سوبها العقارية - مطور عقاري فاخر معروف بالجودة العالية والحرفية المتميزة",
+    "en": "Sobha Realty - Luxury real estate developer known for high quality and exceptional craftsmanship"
+  },
+  "contact": {
+    "phone": "+971567022702",
+    "email": "customercare@sobharealty.com",
+    "whatsapp": "+971567022702"
+  },
+  "developer": {
+    "ar": "سوبها",
+    "en": "Sobha"
+  },
+  "slug": "sobha",
+  "statistics": {
+    "totalProjects": 81,
+    "totalUnits": 12250,
+    "locations": [
+      "Unspecified Area",
+      "Sobha Siniya Island",
+      "Umm Al Quwain",
+      "Siniya Island",
+      "Mohammed Bin Rashid City",
+      "24 Million Sq. Ft.",
+      "Ras Al Khor",
+      "Sobha Hartland II",
+      "Downtown UAQ",
+      "Downtown Umm Al Quwain",
+      "Sheikh Zayed Road",
+      "10 Million Sq. Ft. Development",
+      "8,413.39 - 8,490.79 SQ.FT.",
+      "3,233 - 3,302 SQ.FT.",
+      "8 Million Sq. Ft. Total Land Area",
+      "8 Million Sq. Ft.",
+      "Motor City",
+      "Dubailand",
+      "Dubai Harbour",
+      "16 Million Sq. Ft. of the Land Area",
+      "Sobha Central",
+      "Jumeirah Lake Towers",
+      "Mohammed Bin Rashid Al Maktoum City",
+      "710.96 - 1957.96 sqft"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "310-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "310-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "320-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "320-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "330-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "330-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "340-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "340-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "350-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "350-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "360-riverside-crescent",
+      "name": {
+        "ar": null,
+        "en": "360-Riverside-Crescent"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "aquamarine-residences",
+      "name": {
+        "ar": null,
+        "en": "Aquamarine-Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "aura",
+      "name": {
+        "ar": null,
+        "en": "Aura"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "avenue",
+      "name": {
+        "ar": null,
+        "en": "Avenue"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "bayfront-marina-residences",
+      "name": {
+        "ar": null,
+        "en": "Bayfront Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Siniya Island"
+      }
+    },
+    {
+      "slug": "bayside-marina-residences",
+      "name": {
+        "ar": null,
+        "en": "Bayside Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Siniya Island"
+      }
+    },
+    {
+      "slug": "canalside-marina-residences",
+      "name": {
+        "ar": "مسكن كانالسايد مارينا",
+        "en": "Canalside Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "جزيرة شوبا سينيا",
+        "en": "Umm Al Quwain"
+      }
+    },
+    {
+      "slug": "coral-beach-villas",
+      "name": {
+        "ar": "فلل شاطئ المرجان",
+        "en": "Coral Beach Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "ar": "جزيرة صينية",
+        "en": "Siniya Island"
+      }
+    },
+    {
+      "slug": "creek-vistas",
+      "name": {
+        "ar": null,
+        "en": "Creek-Vistas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "creek-vistas-grande",
+      "name": {
+        "ar": "كريك فيستاس جراندي",
+        "en": "Creek Vistas Grande"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "مدينة محمد بن راشد",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "creek-vistas-heights",
+      "name": {
+        "ar": "مرتفعات فيستا كريك",
+        "en": "Creek Vistas Heights"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "مدينة محمد بن راشد",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "creek-vistas-reserve",
+      "name": {
+        "ar": null,
+        "en": "Creek-Vistas-Reserve"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "crest-grande",
+      "name": {
+        "ar": "كريست غراند",
+        "en": "Crest Grande"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "delphine-beach-residences",
+      "name": {
+        "ar": null,
+        "en": "Delphine-Beach-Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "downtown-uaq-sobha-realty",
+      "name": {
+        "ar": null,
+        "en": "Downtown UAQ | Sobha Realty"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "location": {
+        "ar": "",
+        "en": "24 Million Sq. Ft."
+      }
+    },
+    {
+      "slug": "florine-beach-residences",
+      "name": {
+        "ar": null,
+        "en": "Florine-Beach-Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "forest-villas",
+      "name": {
+        "ar": null,
+        "en": "Forest-Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "garden-house",
+      "name": {
+        "ar": null,
+        "en": "Garden-House"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "gardenia-villas",
+      "name": {
+        "ar": null,
+        "en": "Gardenia-Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "golf-ridges",
+      "name": {
+        "ar": "جولف ريدجز",
+        "en": "Golf Ridges"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "golf-ridges-at-sobha-one",
+      "name": {
+        "ar": null,
+        "en": "Golf Ridges at Sobha One"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": "Ras Al Khor"
+      }
+    },
+    {
+      "slug": "hartland-2-villas",
+      "name": {
+        "ar": null,
+        "en": "Hartland-2-Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "hartland-estates",
+      "name": {
+        "ar": null,
+        "en": "Hartland-Estates"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      }
+    },
+    {
+      "slug": "hartland-greens-apartment",
+      "name": {
+        "ar": null,
+        "en": "Hartland-Greens-Apartment"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "hartland-quad-homes",
+      "name": {
+        "ar": null,
+        "en": "Hartland-Quad-Homes"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "hartland-waterfront-villas",
+      "name": {
+        "ar": null,
+        "en": "Hartland-Waterfront-Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "one-park-avenue",
+      "name": {
+        "ar": "ون بارك أفينيو",
+        "en": "One Park Avenue"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "palm-grove-villas",
+      "name": {
+        "ar": null,
+        "en": "Palm Grove Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Siniya Island"
+      }
+    },
+    {
+      "slug": "pearlside-marina-residence",
+      "name": {
+        "ar": null,
+        "en": "Pearlside Marina Residence"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "pearlside-marina-residences",
+      "name": {
+        "ar": null,
+        "en": "Pearlside Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Siniya Island"
+      }
+    },
+    {
+      "slug": "pierside-marina-residences",
+      "name": {
+        "ar": null,
+        "en": "Pierside Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Siniya Island"
+      }
+    },
+    {
+      "slug": "pristine-beach-residences",
+      "name": {
+        "ar": null,
+        "en": "Pristine Beach Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "serene",
+      "name": {
+        "ar": null,
+        "en": "Serene"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "skyscape-altius",
+      "name": {
+        "ar": null,
+        "en": "Skyscape Altius"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "skyscape-aura",
+      "name": {
+        "ar": null,
+        "en": "Skyscape Aura"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "skyscape-avenue",
+      "name": {
+        "ar": null,
+        "en": "Skyscape Avenue"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "skyvue",
+      "name": {
+        "ar": null,
+        "en": "Skyvue"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "skyvue-solair",
+      "name": {
+        "ar": null,
+        "en": "Skyvue Solair"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "skyvue-spectra",
+      "name": {
+        "ar": null,
+        "en": "Skyvue Spectra"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "skyvue-stellar",
+      "name": {
+        "ar": null,
+        "en": "Skyvue Stellar"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Hartland II"
+      }
+    },
+    {
+      "slug": "sobha-aquacrest",
+      "name": {
+        "ar": null,
+        "en": "Sobha AquaCrest"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Downtown UAQ"
+      }
+    },
+    {
+      "slug": "sobha-aquamont",
+      "name": {
+        "ar": "سوبها أكوامونت",
+        "en": "Sobha Aquamont"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "وسط مدينة أم القيوين",
+        "en": "Downtown Umm Al Quwain"
+      }
+    },
+    {
+      "slug": "sobha-central",
+      "name": {
+        "ar": null,
+        "en": "Sobha Central"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sheikh Zayed Road"
+      }
+    },
+    {
+      "slug": "sobha-creek-vistas",
+      "name": {
+        "ar": null,
+        "en": "Sobha Creek Vistas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "sobha-elwood",
+      "name": {
+        "ar": null,
+        "en": "Sobha Elwood"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "ar": "",
+        "en": "10 Million Sq. Ft. Development"
+      }
+    },
+    {
+      "slug": "sobha-estates",
+      "name": {
+        "ar": "سوبها إستيتس",
+        "en": "Sobha Estates"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        5,
+        6
+      ],
+      "location": {
+        "ar": "٨,٤١٣.٣٩ - ٨,٤٩٠.٧٩ قدم مربع",
+        "en": "8,413.39 - 8,490.79 SQ.FT."
+      }
+    },
+    {
+      "slug": "sobha-garden-houses",
+      "name": {
+        "ar": null,
+        "en": "Sobha Garden Houses"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "3,233 - 3,302 SQ.FT."
+      }
+    },
+    {
+      "slug": "sobha-gardenia-villas",
+      "name": {
+        "ar": "فلل سوبها جاردينيا",
+        "en": "Sobha Gardenia Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4
+      ],
+      "location": {
+        "ar": "مدينة محمد بن راشد",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "sobha-hartland",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "ar": "",
+        "en": "8 Million Sq. Ft. Total Land Area"
+      }
+    },
+    {
+      "slug": "sobha-hartland-forest-villas",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland Forest Villas"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "sobha-hartland-greens",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland Greens"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "sobha-hartland-ii",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland II"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "ar": "",
+        "en": "8 Million Sq. Ft."
+      }
+    },
+    {
+      "slug": "sobha-hartland-townhouses",
+      "name": {
+        "ar": null,
+        "en": "Sobha Hartland Townhouses"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "sobha-one",
+      "name": {
+        "ar": null,
+        "en": "Sobha One"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "slug": "sobha-orbis",
+      "name": {
+        "ar": null,
+        "en": "Sobha Orbis"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Motor City"
+      }
+    },
+    {
+      "slug": "sobha-reserve",
+      "name": {
+        "ar": null,
+        "en": "Sobha Reserve"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "location": {
+        "ar": "",
+        "en": "Dubailand"
+      }
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name": {
+        "ar": "صبحة سيهافن",
+        "en": "Sobha SeaHaven"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "ميناء دبي",
+        "en": "Dubai Harbour"
+      }
+    },
+    {
+      "slug": "sobha-siniya-island",
+      "name": {
+        "ar": null,
+        "en": "Sobha Siniya Island"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "location": {
+        "ar": "",
+        "en": "16 Million Sq. Ft. of the Land Area"
+      }
+    },
+    {
+      "slug": "sobha-skyparks",
+      "name": {
+        "ar": null,
+        "en": "Sobha SkyParks"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "sobha-solis",
+      "name": {
+        "ar": null,
+        "en": "Sobha Solis"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Motor City"
+      }
+    },
+    {
+      "slug": "sobha-verde",
+      "name": {
+        "ar": null,
+        "en": "Sobha Verde"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "sobha-waves",
+      "name": {
+        "ar": null,
+        "en": "Sobha Waves"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "the-crest",
+      "name": {
+        "ar": null,
+        "en": "The Crest"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Mohammed Bin Rashid City"
+      }
+    },
+    {
+      "slug": "the-eden",
+      "name": {
+        "ar": "عدن",
+        "en": "The Eden"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Central"
+      }
+    },
+    {
+      "slug": "the-element",
+      "name": {
+        "ar": null,
+        "en": "The Element"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "slug": "the-element-at-sobha-one",
+      "name": {
+        "ar": null,
+        "en": "The Element at Sobha One"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "ar": "",
+        "en": "Ras Al Khor"
+      }
+    },
+    {
+      "slug": "the-horizon",
+      "name": {
+        "ar": null,
+        "en": "The Horizon"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sheikh Zayed Road"
+      }
+    },
+    {
+      "slug": "the-s",
+      "name": {
+        "ar": null,
+        "en": "The S"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        4,
+        5
+      ]
+    },
+    {
+      "slug": "the-s-tower",
+      "name": {
+        "ar": null,
+        "en": "The-S-Tower"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "the-serene",
+      "name": {
+        "ar": null,
+        "en": "The Serene"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ]
+    },
+    {
+      "slug": "the-tranquil",
+      "name": {
+        "ar": "الهادئ",
+        "en": "The Tranquil"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Central"
+      }
+    },
+    {
+      "slug": "verde-by-sobha",
+      "name": {
+        "ar": null,
+        "en": "Verde by Sobha"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "",
+        "en": "Jumeirah Lake Towers"
+      }
+    },
+    {
+      "slug": "waves",
+      "name": {
+        "ar": null,
+        "en": "Waves"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Mohammed Bin Rashid Al Maktoum City"
+      }
+    },
+    {
+      "slug": "waves-grande",
+      "name": {
+        "ar": "موجات جراند",
+        "en": "Waves Grande"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "710.96 - 1957.96 قدم مربع",
+        "en": "710.96 - 1957.96 sqft"
+      }
+    },
+    {
+      "slug": "waves-opulence",
+      "name": {
+        "ar": null,
+        "en": "Waves-Opulence"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "ar": "منطقة غير محددة",
+        "en": "Unspecified Area"
+      }
+    },
+    {
+      "slug": "yachtside-marina-residences",
+      "name": {
+        "ar": null,
+        "en": "Yachtside Marina Residences"
+      },
+      "status": {
+        "ar": null,
+        "en": "unknown"
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "location": {
+        "ar": "",
+        "en": "Sobha Siniya Island"
+      }
+    }
+  ],
+  "lastUpdated": "2025-11-10T19:01:18.313Z"
+}

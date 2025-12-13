@@ -1,0 +1,47 @@
+{
+  "slug": "palm-groove-villas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Palm Groove Villas",
+    "ar": "Palm Groove Villas"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/b24f25fe-26e2-48e4-a252-ea577703459a/gallery/image/tbUEO8DVZ5ZslF37nHwsMEJAN3niaP1L2PLe8o0RG2I=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/b24f25fe-26e2-48e4-a252-ea577703459a/gallery/image/tbUEO8DVZ5ZslF37nHwsMEJAN3niaP1L2PLe8o0RG2I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b24f25fe-26e2-48e4-a252-ea577703459a/gallery/image/_IfRBOJCj_XKwkFioJ-nYzHN5ni11ZUVU2JFhz9Tk-g=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b24f25fe-26e2-48e4-a252-ea577703459a/gallery/image/EsI4x2aOSbsoaBtEpVOPz48XpRnPkuVY5hihR-QlyGQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b24f25fe-26e2-48e4-a252-ea577703459a/gallery/image/Vo7_zrgTSQRW3uMNX4rszvYHnSpOlaSoyC6zQ94elr8=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Squash Court",
+    "Health Club",
+    "Golf Club and Clubhouse",
+    "Beach Club",
+    "Indoor Swimming Pool",
+    "Jacuzzi & Steam",
+    "Cafe and Restaurants",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.60417113763,
+    "lng": 55.62778316444
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

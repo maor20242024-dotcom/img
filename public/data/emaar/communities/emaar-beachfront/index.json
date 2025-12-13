@@ -1,0 +1,105 @@
+{
+  "slug": "beachfront",
+  "developer": "Emaar",
+  "name_en": "Emaar Beachfront",
+  "name_ar": "إعمار بيتشفرونت",
+  "website": "https://properties.emaar.com/ar/our-communities/emaar-beachfront",
+  "canonical_url": "https://properties.emaar.com/ar/our-communities/emaar-beachfront",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/06/EBF_ATB_WEBSITE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/08/BEACHGATE_EBF_LANDING_PAGE_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2021/10/1620X832_01.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/BEACH_VISTA_HER.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B05_Beachfront_Cam_10-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/mth_emaar_est_View-03_a08.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B16_Ext_Cam07-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/B16_Ext_Cam05-edit_brunette-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Dubai-Harbour-PLOT-18_cam_03-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EBF_MAP-1-e1676029760946.jpg"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0986,
+    "lng": 55.1316
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "Dubai Harbour",
+  "district_ar": "ميناء دبي",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Enjoy living in apartments and villas overlooking the beach in Dubai, featuring stunning views of the sea and white sands at Emaar Beachfront. Emaar Beachfront offers a luxurious beachfront lifestyle in Dubai Harbour, making it an excellent place to live. With stunning sea views, exclusive facilities, and proximity to major destinations like Dubai Marina and Jumeirah Beach Residence, Emaar Beachfront offers residents a vibrant and thriving living experience.",
+  "description_ar": "استمتع بتجربة العيش في شقق وفلل تطلُّ على الشاطئ في دبي، وتتميّز بإطلالات خلّابة على البحر والرمال البيضاء في إعمار بيتشفرونت. يقدّم إعمار بيتشفرونت أسلوب حياة فخم على الشاطئ في ميناء دبي، ما يجعله مكاناً ممتازاً للعيش. بفضل الإطلالات الخلّّابة على البحر، والمَرافق الحصرية، والقرب من الوجهات الرئيسية مثل مرسى دبي (دبي مارينا) وجميرا بيتش ريزيدنس، يقدّم إعمار بيتشفرونت للمقيمين فيه تجربة معيشة حيوية ومزدهرة.",
+  "amenities": [
+    {
+      "en": "1.5 km beach",
+      "ar": "شاطئ بطول 1.5 كم"
+    },
+    {
+      "en": "27 residential towers",
+      "ar": "27 برج سكني"
+    },
+    {
+      "en": "13,000 sqm shopping center",
+      "ar": "مركز تجاري 13,000 متر مربع"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/our-communities/emaar-beachfront"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T12:48:34.993Z",
+  "updated_at": "2025-11-30T18:47:07.693Z"
+}

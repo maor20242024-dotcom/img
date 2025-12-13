@@ -1,0 +1,60 @@
+{
+  "slug": "skyscape-altius",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Skyscape Altius",
+    "ar": "Skyscape Altius"
+  },
+  "description": {
+    "en": "Elevate your lifestyle to a new level of luxury at a paramount address. Skyscape Altius, an 85-storey tower of exceptional craftsmanship, offering exclusive residences with 1, 1.5, 2, 2.5, and 3-bedroom homes.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675.jpg.webp?itok=cpNPCiLY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%203.jpg.webp?itok=Mp99vAIk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/888%20x%20675%202.jpg.webp?itok=Hh0j5A2I"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "kids play area",
+    "INFINITY POOL",
+    "Library and Reading Room",
+    "YOGA ZONE",
+    "Sports Court",
+    "jacuzzi",
+    "Steam and Sauna",
+    "Indoor and Outdoor gym",
+    "Co-working space",
+    "Gardening zone",
+    "Submerged seating pool",
+    "ZEN GARDEN"
+  ],
+  "coordinates": {
+    "lat": 25.1325,
+    "lng": 55.2917
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

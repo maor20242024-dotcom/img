@@ -1,0 +1,43 @@
+{
+  "slug": "starline-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Starline Beach Residences",
+    "ar": "Starline Beach Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/9caff932-addf-401b-9c91-22f0142ee171/gallery/image/pRjn4HEs1JHwGZoAIqtqDCKdvCk0mlWXPrWlCk_uiY4=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/9caff932-addf-401b-9c91-22f0142ee171/gallery/image/pRjn4HEs1JHwGZoAIqtqDCKdvCk0mlWXPrWlCk_uiY4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/9caff932-addf-401b-9c91-22f0142ee171/gallery/image/z9hoVO6TOo6e7r7cC1kv36hDQ1HSMLLtbIfiOL_VVMI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/9caff932-addf-401b-9c91-22f0142ee171/gallery/image/u-ZNq6I92H1lpxdz2Ny7IzYXg2R_CVK95tiAIyqDGaw=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.60818727603,
+    "lng": 55.63268793414
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

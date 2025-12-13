@@ -1,0 +1,51 @@
+{
+  "slug": "310-riverside-crescent",
+  "developer": "sobha",
+  "projectName": {
+    "en": "310 Riverside Crescent",
+    "ar": "310 Riverside Crescent"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/-kQUSCxRDEmJHmxlxL9Yl7nWXdB1xwOVXA4I96a-1wc=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/-kQUSCxRDEmJHmxlxL9Yl7nWXdB1xwOVXA4I96a-1wc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/XW4YXnaNj8S0UzMbiRgKudEBDcLqaSU0c6N57IwPwbE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/322PdVVj83uNqi-NwOw68dLK-uZT7YoUuVSYaV_HxeY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/8-j3d36XxVe1FwwW7L8FOduGQkADz3ULFwxIRNZcu2w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/AI3POTCyUw2A4lWHmjX3jpZi67Ec3L89qeAtBVFHQzI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/ZLAIBgPk3dJG4-gBSXoSctG0XQDPdDjhVNEHEPMLktQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/BIHDQvZA0klFnKKgXUQ6-zgjwR1Fmr5mOBIhtO43hMI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2af91b87-060e-4533-b095-828459a82d6d/gallery/image/wF2iCYdg5-xFK58YypcNt8dspBxPUymi9Qp3ncWDQPw=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Yoga room",
+    "Entertainment Facilities",
+    "Mosque",
+    "Infinity Pool",
+    "Well-being and Fitness",
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.17638900587,
+    "lng": 55.32565022613
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

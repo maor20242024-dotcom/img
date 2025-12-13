@@ -1,0 +1,129 @@
+{
+  "slug": "sobha-central",
+  "developer": "Sobha",
+  "name_en": "Sobha Central",
+  "name_ar": "شوبا سنترال",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.061084814751,
+    "lng": 55.133272031063
+  },
+  "master_location_en": "The Eden",
+  "master_location_ar": "عدن",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A central community with luxury apartments.",
+  "description_ar": "مجتمع مركزي مع شقق فاخرة.",
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
+    },
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "CCTV Security",
+      "ar": "نظام كاميرات مراقبة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Balcony or Terrace",
+      "ar": "شرفة أو تراس"
+    },
+    {
+      "en": "Barbeque Area",
+      "ar": "مكان مخصص للشواء"
+    },
+    {
+      "en": "Lobby in Building",
+      "ar": "ردهة إستقبال"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.010979Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "aquamarine-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Aquamarine Beach Residences",
+    "ar": "Aquamarine Beach Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/0A7a0uDGKSSKOIBSd6c_OIOVqGs5k1bNEpHnLbqxMec=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/0A7a0uDGKSSKOIBSd6c_OIOVqGs5k1bNEpHnLbqxMec=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/_kHvyCiIx8v1tNLrgXD40m6luMmA5CeOg8VSgTyDyl0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/izzRc0R-E6bfm-HMutU4mew4CSJbYVRBC1tMzMC1hxA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/fPDR-wWYD2R8YmRo2X5BlPpTYCMS0YhETZgnM2AfdMI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/4BGWkBARXpnvpFX57TEmrjXj4mQQZ-jdBSU4hEemWYU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/8e5667f9-f48f-4d7c-a6df-f90d143be08a/gallery/image/baCh20fYZkqn1eT9_yO0Jy6g_yHVQsSyPQFupVPuF_0=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": 25.60786055582,
+    "lng": 55.61987278183
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

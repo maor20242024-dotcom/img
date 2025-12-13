@@ -1,0 +1,168 @@
+{
+  "slug": "sobha-elwood",
+  "developer": "Sobha",
+  "name_en": "Sobha Elwood",
+  "name_ar": "شوبا إلوود",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.023187628421,
+    "lng": 55.447068814157
+  },
+  "master_location_en": "Sobha Elwood",
+  "master_location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Sobha Elwood, a massive development spanning 10 million Sq. Ft., is elegantly situated within a serene and sustainable environment, where 10,000+ trees adorn 26% of the site area. Embodying the ethos of ‘The Canvas of Nature,’ Sobha Elwood epitomises luxury living. Each residence is a meticulously designed masterpiece, seamlessly integrating with the lush surroundings.The landscape (with dedicated 47% open space and parks) and parks here are inspired by the world's seven largest forests - from the Baobab to the Amazon rainforest - showcasing an array of trees from the most mystical and enchanting woodlands. This exclusive community features premium villas in 4, 5, and 6-bedroom configurations, each crafted to envelop residents in a tranquil and natural environment.",
+  "description_ar": "مجتمع سكني في دبي لاند.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "Adventure Walk",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Cricket pitch",
+      "ar": ""
+    },
+    {
+      "en": "COMMUNITY GARDEN",
+      "ar": ""
+    },
+    {
+      "en": "Dog park",
+      "ar": ""
+    },
+    {
+      "en": "Massive Clubhouse",
+      "ar": ""
+    },
+    {
+      "en": "Fitness & Wellness Decks",
+      "ar": ""
+    },
+    {
+      "en": "Community pavillion",
+      "ar": ""
+    },
+    {
+      "en": "Hammock court",
+      "ar": ""
+    },
+    {
+      "en": "Treehouse",
+      "ar": ""
+    },
+    {
+      "en": "Wadi",
+      "ar": ""
+    },
+    {
+      "en": "Forest play park",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "DUBAI RUGBY SEVENS",
+      "name_ar": "",
+      "distance": "5 MINUTES",
+      "category": "Recreation"
+    },
+    {
+      "name_en": "DUBAI OUTLET MALL",
+      "name_ar": "",
+      "distance": "8 MINUTES",
+      "category": "Shopping"
+    },
+    {
+      "name_en": "DOWNTOWN DUBAI",
+      "name_ar": "",
+      "distance": "20 MINUTES",
+      "category": "City Center"
+    },
+    {
+      "name_en": "DUBAI INTERNATIONAL AIRPORT",
+      "name_ar": "",
+      "distance": "25 MINUTES",
+      "category": "Airport"
+    },
+    {
+      "name_en": "AL MAKTOUM INTERNATIONAL AIRPORT",
+      "name_ar": "",
+      "distance": "30 MINUTES",
+      "category": "Airport"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.008714Z"
+}

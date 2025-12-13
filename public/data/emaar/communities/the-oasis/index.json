@@ -1,0 +1,125 @@
+{
+  "slug": "the-oasis",
+  "developer": "Emaar",
+  "name_en": "The Oasis",
+  "name_ar": "ذا أواسيس",
+  "website": "https://properties.emaar.com/ar/our-communities/the-oasis",
+  "canonical_url": "https://properties.emaar.com/ar/our-communities/the-oasis",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_1620-x-832.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_1620-x-832.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1-6.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/09/HERO_1620X832_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/08/HERO_1620X832_2-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/HERO_1620X832_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/HERO_1620X832_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/MicrosoftTeams-image-3-1.jpg",
+    "https://properties.emaar.com/wp-content/uploads/2023/06/MicrosoftTeams-image-3-1.jpg"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0842,
+    "lng": 55.3119
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "The Oasis is a unique residential development project featuring villas, townhouses, luxury mansions, and ultra-luxury mansions with 4 and 5 bedrooms, ranging in area from 7,940 to 8,260 square feet, designed to offer luxurious living with a new concept.",
+  "description_ar": "ذا أويسيس عبارة عن مشروع تطوير سكني فريد من نوعه يضمّ فللاً ومنازل تاون هاوس وقصوراً فخمة وقصوراً فائقة الفخامة مكوّنة من 4 و5 غرف نوم، تتراوح مساحتها من 7,940 إلى 8,260 قدماً مربّعة، مصمّمة لتقديم أسلوب الحياة الفخم بمفهوم جديد.",
+  "amenities": [
+    {
+      "en": "Community Gardens",
+      "ar": "حدائق داخل المجمّع"
+    },
+    {
+      "en": "Running Tracks",
+      "ar": "مسارات للركض"
+    },
+    {
+      "en": "Local Mosques",
+      "ar": "المساجد المحلية"
+    },
+    {
+      "en": "Beaches",
+      "ar": "الشواطئ"
+    },
+    {
+      "en": "54 km Cycling Track",
+      "ar": "مسار للدرّاجات يمتدّ لمسافة 54 كم"
+    },
+    {
+      "en": "Wide Range of Sports Facilities",
+      "ar": "مجموعة كبيرة من المَرافق الرياضية"
+    },
+    {
+      "en": "Multiple Parking Options",
+      "ar": "مواقف السيارات المتعدّدة"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/our-communities/the-oasis"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T13:43:47.683Z",
+  "updated_at": "2025-11-30T18:47:07.696Z"
+}

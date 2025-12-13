@@ -1,0 +1,56 @@
+{
+  "slug": "pearlside-marina-residence",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Pearlside Marina Residence",
+    "ar": "Pearlside Marina Residence"
+  },
+  "description": {
+    "en": "At Pearlside Marina Residences, life flows with clarity and purpose. Positioned at the water’s edge, this new cluster is designed for seamless connectivity, elevated comfort, and an enhanced marina lifestyle. This cluster offers a collection of refined 1 to 3-bedroom residences with direct access to the canal that opens to the Arabian Sea. Enjoy prime location with a dedicated footbridge connecting directly to the main Marina Residences community ensuring effortless access to retail, dining, and leisure zones. A wide podium filled with landscaped areas invites calm strolls, quiet gatherings, and open-air moments. Surrounded by water, greenery, and smooth connections, Pearlside Marina Residences is where everyday living feels open, balanced, and beautifully in tune with its island setting.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Banner%201440x618%20%E2%80%93%2013.jpg.webp?itok=CatkFxqS",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/Banner%201440x618%20%E2%80%93%2013.jpg.webp?itok=CatkFxqS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2077.jpg.webp?itok=zxdmVDL6",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2078.jpg.webp?itok=Ma8okaYf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2079.jpg.webp?itok=zjGPrvz9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-08/1006x608%20%E2%80%93%2080.jpg.webp?itok=5hdMqLNC"
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=7XG0Z6lH5_0",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "LAGOON BEACH",
+    "GOLF COURSE",
+    "YACHT CLUB WITH BOAT MOORING",
+    "LUSH PARKS & LANDSCAPED GARDENS",
+    "VIBRANT NIGHTLIFE",
+    "SHOPPING MALL",
+    "MOTORISED SEAWATER BODY"
+  ],
+  "coordinates": {
+    "lat": 25.614346820334,
+    "lng": 55.639352088773
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

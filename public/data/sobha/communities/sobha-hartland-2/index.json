@@ -1,0 +1,129 @@
+{
+  "slug": "sobha-hartland-2",
+  "developer": "Sobha",
+  "name_en": "",
+  "name_ar": "",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.024769324449,
+    "lng": 55.359007938377
+  },
+  "master_location_en": "Celesto Tower",
+  "master_location_ar": "برج سيليستو",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "",
+  "description_ar": "",
+  "amenities": [
+    {
+      "en": "Electricity Backup",
+      "ar": "نظام كهرباء احتياطي للطوارئ"
+    },
+    {
+      "en": "Waste Disposal",
+      "ar": "مكبّ نفايات"
+    },
+    {
+      "en": "First Aid Medical Center",
+      "ar": "مركز للإسعافات الأولية"
+    },
+    {
+      "en": "Service Elevators",
+      "ar": "خدمات المصاعد"
+    },
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Prayer Room",
+      "ar": "غرفة صلاة"
+    },
+    {
+      "en": "Laundry Room",
+      "ar": "غرفة غسيل"
+    },
+    {
+      "en": "Sauna",
+      "ar": "ساونا"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Maintenance Staff",
+      "ar": "خدمات صيانة"
+    },
+    {
+      "en": "Cafeteria or Canteen",
+      "ar": "كافيتيريا"
+    },
+    {
+      "en": "Freehold",
+      "ar": "التملك الحر"
+    },
+    {
+      "en": "Furnished",
+      "ar": "مفروشة"
+    },
+    {
+      "en": "Intercom",
+      "ar": "اتصال داخلي"
+    },
+    {
+      "en": "ATM Facility",
+      "ar": "توفر أجهزة السحب الآلي"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    },
+    {
+      "en": "Lawn or Garden",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Reception/Waiting Room",
+      "ar": "غرفة استقبال /انتظار"
+    },
+    {
+      "en": "Steam Room",
+      "ar": "غرفة بخار"
+    },
+    {
+      "en": "Laundry Facility",
+      "ar": "خدمة غسيل ملابس"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.007768Z"
+}

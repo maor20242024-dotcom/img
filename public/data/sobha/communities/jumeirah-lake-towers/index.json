@@ -1,0 +1,57 @@
+{
+  "slug": "jumeirah-lake-towers",
+  "developer": "Sobha",
+  "name_en": "Jumeirah Lake Towers",
+  "name_ar": "أبراج بحيرات الجميرا",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.071289705325,
+    "lng": 55.145272693198
+  },
+  "master_location_en": "Saba Tower 2",
+  "master_location_ar": "برج سابا 2",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Jumeirah Lake Towers (JLT) is a mixed-use district known for its cluster of high-rise towers around man-made lakes. This community includes The S Tower and complementary Sobha developments in JLT.",
+  "description_ar": "أبراج بحيرات الجميرا (JLT) هي منطقة متعددة الاستخدامات تضم مجموعة من الأبراج الشاهقة حول بحيرات صناعية. تشمل هذه المجتمع برج The S ومشاريع صوبا المرتبطة ضمن JLT.",
+  "amenities": [
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Kids Play Area",
+      "ar": "منطقة لعب للأطفال"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.009465Z"
+}

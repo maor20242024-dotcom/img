@@ -1,0 +1,43 @@
+{
+  "slug": "hartland-estates",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Hartland-Estates",
+    "ar": "Hartland-Estates"
+  },
+  "description": {
+    "en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "galleryImages": [],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden"
+  ],
+  "coordinates": {
+    "lat": 25.17670707839,
+    "lng": 55.302392694971
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

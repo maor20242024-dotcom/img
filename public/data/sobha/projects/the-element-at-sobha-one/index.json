@@ -1,0 +1,48 @@
+{
+  "slug": "the-element-at-sobha-one",
+  "developer": "sobha",
+  "projectName": {
+    "en": "The Element at Sobha One",
+    "ar": "The Element at Sobha One"
+  },
+  "description": {
+    "en": "The Element at Sobha One opens the gateway to nature's sanctuary, where tranquillity and harmony intertwine. Imagine standing at the pinnacle of architectural brilliance, where every detail has been crafted to elevate your living experience with breathtaking 270° panoramic views overlooking the Ras Al Khor Wildlife Sanctuary, Dubai Skyline & world-class golf course. The Element offers a curated collection of 1 to 4 bedroom residences that provide a harmonious blend of modern sophistication and timeless appeal, with each residence featuring unparalleled vistas.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20Desk.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20Desk.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2043.jpg.webp?itok=svv5xpCc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk_0.jpg.webp?itok=5u8NSAAq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2040.jpg.webp?itok=4Qpz0Gg8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/Gallerydesk.jpg.webp?itok=U4q2PnZ1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2041.jpg.webp?itok=Jx_ozWVO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2042_0.jpg.webp?itok=fuawaRdT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-02/1006x608%20%E2%80%93%2046.jpg.webp?itok=aTbM4JYa"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobharealty.com/digitalwalkthrough/sobha_the_element/1br/?v=1",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.18569993985,
+    "lng": 55.34048908966
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

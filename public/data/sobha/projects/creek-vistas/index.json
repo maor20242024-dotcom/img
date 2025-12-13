@@ -1,0 +1,50 @@
+{
+  "slug": "creek-vistas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Creek Vistas",
+    "ar": "Sobha Creek Vistas"
+  },
+  "description": {
+    "en": "Minimalist design inspired by the Louvre and the Museum of Modern Art. Phenomenal craftsmanship and sleek interiors are the epitome of luxurious living. Creek Vistas is a modern-day work of art in itself, comprising 28-storey twin towers that offer breathtaking views of the serene Dubai Canal and other iconic landmarks.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas.jpg.webp?itok=ZIJDT_Bd",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_8.jpg.webp?itok=WVRbznhD",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_8.jpg.webp?itok=l7Ft7yk7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_6.jpg.webp?itok=FTYw_VL_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_3.jpg.webp?itok=O0y5wgn5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_2.jpg.webp?itok=BVhN0Tn9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_2.jpg.webp?itok=6CuPYPFE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_4.jpg.webp?itok=tznoRaF2",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015346.jpg.webp?itok=rs8mu9M5"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Gym",
+    "SWIMMING POOL",
+    "24- concierge hour",
+    "Fine dining and retail",
+    "CHILDREN'S PLAYGROUND",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.1683,
+    "lng": 55.289
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

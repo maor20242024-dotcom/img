@@ -1,0 +1,61 @@
+{
+  "slug": "aura",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Aura",
+    "ar": "Aura"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Desktop_5.jpg.webp?itok=6QPBrXr_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/372x274.jpg.webp?itok=3HskIVSE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_17.jpg.webp?itok=mY2zhjfq",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015401.jpg.webp?itok=CyhjKag1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015398_0.jpg.webp?itok=hAHJ2DOs"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "kids play area",
+    "INFINITY POOL",
+    "Library and Reading Room",
+    "YOGA ZONE",
+    "Sports Court",
+    "jacuzzi",
+    "Steam and Sauna",
+    "Indoor and Outdoor gym",
+    "Co-working space",
+    "Gardening zone",
+    "Submerged seating pool",
+    "ZEN GARDEN"
+  ],
+  "coordinates": {
+    "lat": 25.1325,
+    "lng": 55.2917
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

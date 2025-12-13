@@ -1,0 +1,108 @@
+{
+  "slug": "the-s",
+  "developer": "Sobha",
+  "name_en": "The S",
+  "name_ar": "ذا إس",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.099537791109,
+    "lng": 55.168388041156
+  },
+  "master_location_en": "The S Tower",
+  "master_location_ar": "ذا اس تاور",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "The S tower is a signature residence on Sheikh Zayed Road with luxury 4 & 5 bedroom apartments and has stunning views of the sea and golf course.",
+  "description_ar": "برج فاخر.",
+  "amenities": [
+    {
+      "en": "Gym",
+      "ar": "نادي رياضي"
+    },
+    {
+      "en": "INFINITY POOL",
+      "ar": ""
+    },
+    {
+      "en": "Children's Daycare Centre",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "THE S CAFE",
+      "ar": ""
+    },
+    {
+      "en": "LIBRARY AND LOUNGE AREA",
+      "ar": ""
+    },
+    {
+      "en": "jacuzzi",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+      "name_ar": "",
+      "distance": "10 MINUTES",
+      "category": "Education"
+    },
+    {
+      "name_en": "DUBAI INTERNATIONAL AIRPORT",
+      "name_ar": "",
+      "distance": "22 MINUTES",
+      "category": "Airport"
+    },
+    {
+      "name_en": "THE DUBAI MALL",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Shopping Mall"
+    },
+    {
+      "name_en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+      "name_ar": "",
+      "distance": "15 MINUTES",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "PALM JUMEIRAH",
+      "name_ar": "",
+      "distance": "9 MINUTES",
+      "category": "Landmark"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.003136Z"
+}

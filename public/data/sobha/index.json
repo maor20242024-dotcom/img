@@ -1,0 +1,1530 @@
+{
+  "developer": "SOBHA",
+  "total_communities": 16,
+  "total_projects": 61,
+  "communities": [
+    {
+      "slug": "delphine-beach-residences",
+      "name_en": "Delphine Beach Residences",
+      "name_ar": "ديلفين بيتش ريزيدنسز"
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name_en": "Jumeirah Lake Towers",
+      "name_ar": "أبراج بحيرات الجميرا"
+    },
+    {
+      "slug": "meydan",
+      "name_en": "Meydan",
+      "name_ar": "ميدان"
+    },
+    {
+      "slug": "mohammed-bin-rashid-city",
+      "name_en": "Mohammed Bin Rashid City",
+      "name_ar": "مدينة محمد بن راشد"
+    },
+    {
+      "slug": "motor-city",
+      "name_en": "Motor City",
+      "name_ar": "موتور سيتي"
+    },
+    {
+      "slug": "sobha-central",
+      "name_en": "Sobha Central",
+      "name_ar": "شوبا سنترال"
+    },
+    {
+      "slug": "sobha-coraline",
+      "name_en": "Sobha Coraline",
+      "name_ar": "شوبا كورالين"
+    },
+    {
+      "slug": "sobha-elwood",
+      "name_en": "Sobha Elwood",
+      "name_ar": "شوبا إلوود"
+    },
+    {
+      "slug": "hartland",
+      "name_en": "Sobha Hartland",
+      "name_ar": "شوبا هارتلاند"
+    },
+    {
+      "slug": "sobha-hartland-2",
+      "name_en": "",
+      "name_ar": ""
+    },
+    {
+      "slug": "hartland-ii",
+      "name_en": "Sobha Hartland II",
+      "name_ar": "شوبا هارتلاند 2"
+    },
+    {
+      "slug": "sobha-orbis",
+      "name_en": "Sobha Orbis",
+      "name_ar": "شوبا أوربيس"
+    },
+    {
+      "slug": "sobha-privy-collection",
+      "name_en": "Sobha Privy Collection",
+      "name_ar": "شوبا بريفي كوليكشن"
+    },
+    {
+      "slug": "sobha-reserve",
+      "name_en": "Sobha Reserve",
+      "name_ar": "شوبا ريزيرف"
+    },
+    {
+      "slug": "sobha-selene",
+      "name_en": "Sobha Selene",
+      "name_ar": "شوبا سيلين"
+    },
+    {
+      "slug": "the-s",
+      "name_en": "The S",
+      "name_ar": "ذا إس"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "310-riverside-crescent",
+      "name": {
+        "en": "310 Riverside Crescent",
+        "ar": "310 Riverside Crescent"
+      },
+      "status": "under_construction",
+      "price": 1500000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "320-riverside-crescent",
+      "name": {
+        "en": "320 Riverside Crescent",
+        "ar": "320 Riverside Crescent"
+      },
+      "status": "under_construction",
+      "price": 1600000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "340-riverside-crescent",
+      "name": {
+        "en": "340 Riverside Crescent",
+        "ar": "340 Riverside Crescent"
+      },
+      "status": "under_construction",
+      "price": 1700000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "350-riverside-crescent",
+      "name": {
+        "en": "350 Riverside Crescent",
+        "ar": "350 Riverside Crescent"
+      },
+      "status": "under_construction",
+      "price": 1500000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "360-riverside-crescent",
+      "name": {
+        "en": "360 Riverside Crescent",
+        "ar": "360 Riverside Crescent"
+      },
+      "status": "under_construction",
+      "price": 1500000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "aquamarine-beach-residences",
+      "name": {
+        "en": "Aquamarine Beach Residences",
+        "ar": "Aquamarine Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 1180000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "aquamarine-residences",
+      "name": {
+        "en": "Aquamarine-Residences",
+        "ar": "Aquamarine-Residences"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "Celesto Tower",
+        "ar": "برج سيليستو"
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "aquamont",
+      "name": {
+        "en": "Sobha Aquamont",
+        "ar": "سوبها أكوامونت"
+      },
+      "status": "under_construction",
+      "price": 1112000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "aura",
+      "name": {
+        "en": "Aura",
+        "ar": "Aura"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "avenue",
+      "name": {
+        "en": "Avenue",
+        "ar": "Avenue"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "bayfront-marina-residences",
+      "name": {
+        "en": "Bayfront Marina Residences",
+        "ar": "Bayfront Marina Residences"
+      },
+      "status": "under_construction",
+      "price": 1334658,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "bayside-marina-residences",
+      "name": {
+        "en": "Bayside Marina Residences",
+        "ar": "Bayside Marina Residences"
+      },
+      "status": "under_construction",
+      "price": 1490191,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "canalside-marina-residences",
+      "name": {
+        "en": "Canalside Marina Residences",
+        "ar": "مسكن كانالسايد مارينا"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "central",
+      "name": {
+        "en": "Sobha Central",
+        "ar": "Sobha Central"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "coastline-beach-residences",
+      "name": {
+        "en": "Coastline Beach Residences",
+        "ar": "Coastline Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 1210000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "duplex",
+        "apartment"
+      ]
+    },
+    {
+      "slug": "communities",
+      "name": {
+        "en": "communities",
+        "ar": "communities"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "coral-beach-villas",
+      "name": {
+        "en": "Coral Beach Villas",
+        "ar": "فلل شاطئ المرجان"
+      },
+      "status": "under_construction",
+      "price": 17300000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "5"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "creek-vistas",
+      "name": {
+        "en": "Sobha Creek Vistas",
+        "ar": "Sobha Creek Vistas"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "creek-vistas-grande",
+      "name": {
+        "en": "Creek Vistas Grande",
+        "ar": "كريك فيستاس جراندي"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "creek-vistas-heights",
+      "name": {
+        "en": "Creek Vistas Heights",
+        "ar": "مرتفعات فيستا كريك"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "creek-vistas-reserve",
+      "name": {
+        "en": "Creek-Vistas-Reserve",
+        "ar": "Creek-Vistas-Reserve"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "crest-grande",
+      "name": {
+        "en": "Crest Grande",
+        "ar": "كريست غراند"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "delphine-beach-residences",
+      "name": {
+        "en": "Delphine-Beach-Residences",
+        "ar": "Delphine-Beach-Residences"
+      },
+      "status": "under_construction",
+      "price": 1100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "downtown-uaq-sobha-realty",
+      "name": {
+        "en": "Downtown UAQ | Sobha Realty",
+        "ar": "Downtown UAQ | Sobha Realty"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "elwood",
+      "name": {
+        "en": "Sobha Elwood",
+        "ar": "Sobha Elwood"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "florine-beach-residences",
+      "name": {
+        "en": "Florine-Beach-Residences",
+        "ar": "Florine-Beach-Residences"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "forest-villas",
+      "name": {
+        "en": "Forest-Villas",
+        "ar": "Forest-Villas"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "garden-house",
+      "name": {
+        "en": "Garden-House",
+        "ar": "Garden-House"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "garden-houses",
+      "name": {
+        "en": "Sobha Garden Houses",
+        "ar": "Sobha Garden Houses"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "golf-ridges",
+      "name": {
+        "en": "Golf Ridges",
+        "ar": "جولف ريدجز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "golf-ridges-at-sobha-one",
+      "name": {
+        "en": "Golf Ridges at Sobha One",
+        "ar": "Golf Ridges at Sobha One"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-2-villas",
+      "name": {
+        "en": "Hartland-2-Villas",
+        "ar": "Hartland-2-Villas"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-estates",
+      "name": {
+        "en": "Hartland-Estates",
+        "ar": "Hartland-Estates"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-forest-villas",
+      "name": {
+        "en": "Sobha Hartland Forest Villas",
+        "ar": "Sobha Hartland Forest Villas"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5,
+        7
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-greens",
+      "name": {
+        "en": "Sobha Hartland Greens",
+        "ar": "Sobha Hartland Greens"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-greens-apartment",
+      "name": {
+        "en": "Hartland-Greens-Apartment",
+        "ar": "Hartland-Greens-Apartment"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-ii",
+      "name": {
+        "en": "Sobha Hartland II",
+        "ar": "Sobha Hartland II"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-quad-homes",
+      "name": {
+        "en": "Hartland-Quad-Homes",
+        "ar": "Hartland-Quad-Homes"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-townhouses",
+      "name": {
+        "en": "Sobha Hartland Townhouses",
+        "ar": "Sobha Hartland Townhouses"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "hartland-waterfront-villas",
+      "name": {
+        "en": "Hartland-Waterfront-Villas",
+        "ar": "Hartland-Waterfront-Villas"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "one",
+      "name": {
+        "en": "Sobha One",
+        "ar": "Sobha One"
+      },
+      "status": "Under Construction",
+      "price": 1820000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "one-park-avenue",
+      "name": {
+        "en": "One Park Avenue",
+        "ar": "ون بارك أفينيو"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "orbis",
+      "name": {
+        "en": "Sobha Orbis",
+        "ar": "Sobha Orbis"
+      },
+      "status": "under_construction",
+      "price": 985000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "palm-groove-villas",
+      "name": {
+        "en": "Palm Groove Villas",
+        "ar": "Palm Groove Villas"
+      },
+      "status": "under_construction",
+      "price": 10500000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "4"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "palm-grove-villas",
+      "name": {
+        "en": "Palm Grove Villas",
+        "ar": "Palm Grove Villas"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "pearlside-marina-residence",
+      "name": {
+        "en": "Pearlside Marina Residence",
+        "ar": "Pearlside Marina Residence"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "pearlside-marina-residences",
+      "name": {
+        "en": "Pearlside Marina Residences",
+        "ar": "Pearlside Marina Residences"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "pierside-marina-residences",
+      "name": {
+        "en": "Pierside Marina Residences",
+        "ar": "Pierside Marina Residences"
+      },
+      "status": "under_construction",
+      "price": 1349617,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "pristine-beach-residences",
+      "name": {
+        "en": "Pristine Beach Residences",
+        "ar": "Pristine Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 1429272,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "projects",
+      "name": {
+        "en": "projects",
+        "ar": "projects"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "reserve",
+      "name": {
+        "en": "Sobha Reserve",
+        "ar": "Sobha Reserve"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "selene-beach-residences",
+      "name": {
+        "en": "Selene Beach Residences",
+        "ar": "Selene Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 1100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "serene",
+      "name": {
+        "en": "Serene",
+        "ar": "Serene"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "siniya-island",
+      "name": {
+        "en": "Sobha Siniya Island",
+        "ar": "Sobha Siniya Island"
+      },
+      "status": "under_construction",
+      "price": 10600000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "4",
+        "5",
+        "6"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "skyscape-altius",
+      "name": {
+        "en": "Skyscape Altius",
+        "ar": "Skyscape Altius"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "skyscape-aura",
+      "name": {
+        "en": "Skyscape Aura",
+        "ar": "Skyscape Aura"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "skyscape-avenue",
+      "name": {
+        "en": "Skyscape Avenue",
+        "ar": "Skyscape Avenue"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "skyvue",
+      "name": {
+        "en": "Skyvue",
+        "ar": "Skyvue"
+      },
+      "status": "under_construction",
+      "price": 1270000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "skyvue-solair",
+      "name": {
+        "en": "Skyvue Solair",
+        "ar": "Skyvue Solair"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "skyvue-spectra",
+      "name": {
+        "en": "Skyvue Spectra",
+        "ar": "Skyvue Spectra"
+      },
+      "status": "Under Construction",
+      "price": 1270000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "skyvue-stellar",
+      "name": {
+        "en": "Skyvue Stellar",
+        "ar": "Skyvue Stellar"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-aquacrest",
+      "name": {
+        "en": "Sobha AquaCrest",
+        "ar": "Sobha AquaCrest"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-coraline-beach-residences",
+      "name": {
+        "en": "Sobha Coraline Beach Residences",
+        "ar": "Sobha Coraline Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 10600000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "2"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "sobha-estates",
+      "name": {
+        "en": "Sobha Estates",
+        "ar": "سوبها إستيتس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-gardenia-villas",
+      "name": {
+        "en": "Sobha Gardenia Villas",
+        "ar": "فلل سوبها جاردينيا"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-hartland",
+      "name": {
+        "en": "Sobha Hartland",
+        "ar": "Sobha Hartland"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-seahaven",
+      "name": {
+        "en": "Sobha SeaHaven",
+        "ar": "صبحة سيهافن"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-skyparks",
+      "name": {
+        "en": "Sobha SkyParks",
+        "ar": "Sobha SkyParks"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "sobha-solis",
+      "name": {
+        "en": "Sobha Solis",
+        "ar": "Sobha Solis"
+      },
+      "status": "under_construction",
+      "price": 1040000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "sobha-verde",
+      "name": {
+        "en": "Sobha Verde",
+        "ar": "Sobha Verde"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "starline-beach-residences",
+      "name": {
+        "en": "Starline Beach Residences",
+        "ar": "Starline Beach Residences"
+      },
+      "status": "under_construction",
+      "price": 1307000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "the-element-at-sobha-one",
+      "name": {
+        "en": "The Element at Sobha One",
+        "ar": "The Element at Sobha One"
+      },
+      "status": "under_construction",
+      "price": 1820000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment"
+      ]
+    },
+    {
+      "slug": "verde-by-sobha",
+      "name": {
+        "en": "Verde by Sobha",
+        "ar": "Verde by Sobha"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "waves-grande",
+      "name": {
+        "en": "Waves Grande",
+        "ar": "موجات جراند"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    }
+  ],
+  "updated_at": "2025-11-30T19:55:10.061697Z",
+  "stats": {
+    "projectCount": 74,
+    "updatedAt": "2025-12-13T08:44:49.578Z"
+  }
+}

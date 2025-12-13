@@ -1,0 +1,55 @@
+{
+  "slug": "crest-grande",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Crest Grande",
+    "ar": "كريست غراند"
+  },
+  "description": {
+    "en": "Experience a Miami-inspired lifestyle at Crest Grande, offering spacious waterfront apartments from 1 to 4 bedrooms for an elegant living experience. Explore more!",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2097.jpg.webp?itok=dAiJJqjY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2096.jpg.webp?itok=2PStd_Ld",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2095.jpg.webp?itok=Y967mEsw",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2094.jpg.webp?itok=RWApF5mn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2093.jpg.webp?itok=EUiVECT4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2092.jpg.webp?itok=MBgNwLXZ"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "INDOOR & OUTDOOR GYM",
+    "ADULTS & KIDS SWIMMING POOL",
+    "RETAIL & RESTAURANTS",
+    "BBQ spaces"
+  ],
+  "coordinates": {
+    "lat": 25.177121,
+    "lng": 55.30743
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

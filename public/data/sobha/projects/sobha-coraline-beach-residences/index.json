@@ -1,0 +1,42 @@
+{
+  "slug": "sobha-coraline-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Coraline Beach Residences",
+    "ar": "Sobha Coraline Beach Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/5-E8zaN6dq8I-kV3geTGsJCybJrjNS28Ow3A56urR9o=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/5-E8zaN6dq8I-kV3geTGsJCybJrjNS28Ow3A56urR9o=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/TryM8BzJOnyMiqcwv8IhuH8bXBHJSSgpaG5mMzRECpc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/qZgZKsjoz5-OLQ9hBAwDoNatR2t2KJVYmGm0YWFfMLY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/a--7u7OTeDiVcz0WD7okWN4QFliTJ0VrmIAcBCezmO0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/zdPw8xGdAAb7rlOBBMuBWHRSkAAIePRPrbkthiD7VGg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/kusd83td-Lz3Xpd2kTbJl_vom-y-eFlFiVLR2OekDY8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/0Y-3pU2dFZk-oTiUxT5cIiBrLozHXcBXCHzrZfV-Iv4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/0gb6MKWBqrhehpDBsWD2lUVGzngF0-5bZhAl2s8TjUA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ec1892e-1d7b-403d-849d-bf4578dfa03f/gallery/image/Kdv9PCz6BpbUILfXb8Sr8opdqGg88NR23mt8_Uq20Ug=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [],
+  "coordinates": {
+    "lat": 25.60408889777,
+    "lng": 55.62743447724
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

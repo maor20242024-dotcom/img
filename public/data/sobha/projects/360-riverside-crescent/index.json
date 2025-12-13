@@ -1,0 +1,50 @@
+{
+  "slug": "360-riverside-crescent",
+  "developer": "sobha",
+  "projectName": {
+    "en": "360 Riverside Crescent",
+    "ar": "360 Riverside Crescent"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/0TiE5AcQ_F7TRKWjvohqsn4ieGStDS_APQzH6VIhqUk=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/0TiE5AcQ_F7TRKWjvohqsn4ieGStDS_APQzH6VIhqUk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/ScUfViQjf_EZLDsKxFhO8_dIlxqKAJiTGNtHsYGLjSI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/4e135S9wcGbKPCuXJ7sPkeWTCH_zeawJGtGGS5jWbHw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/JhuE9zdvAmJjbWHYqwM1digOlqn2TxXI1FD8AMc_-yc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/0OFmDYyI2pSQOu9Sjuabh8EiSJxcMaWRHWWix5eqoZI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/V0EVFCRpC8BA8xkaeuHQ2AsW9sI7KyB6VQ_FHtHDVyA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/fpouKsTTGElhNEhoUaaKId0p14Wa0blJzCTUpwvE7h8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/c8aa10bf-c413-4b50-8981-fa500e9856f4/gallery/image/ij4fV2AyS0hk9Fb6w-VKi5h04jgb7AUZMSYkd2gQCvA=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Valet Parking",
+    "Gymnasium",
+    "Restaurants",
+    "Infinity Pool",
+    "Well-being and Fitness",
+    "Landscaped Gardens",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.17878796614,
+    "lng": 55.32774507094
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

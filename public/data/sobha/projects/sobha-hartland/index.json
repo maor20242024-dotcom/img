@@ -1,0 +1,60 @@
+{
+  "slug": "sobha-hartland",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Hartland",
+    "ar": "Sobha Hartland"
+  },
+  "description": {
+    "en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img.jpg.webp?itok=Fc8Etbg8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile.jpg.webp?itok=HuZM3aqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283.jpg.webp?itok=2uXfiXOR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497.jpg.webp?itok=cGFG3ug3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479.jpg.webp?itok=OeaYeMA_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1.jpg.webp?itok=5JNgidMN",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_5.jpg.webp?itok=bp6a0gZU",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015254.jpg.webp?itok=4aQuEctS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_4.jpg.webp?itok=uc0HUGfs",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_8.jpg.webp?itok=jnm8qHHl",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banne%20mobile_0.jpg.webp?itok=8f6W3qwY"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Live",
+    "Learn",
+    "Entertainment",
+    "Dine"
+  ],
+  "coordinates": {
+    "lat": 25.1633,
+    "lng": 55.2894
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

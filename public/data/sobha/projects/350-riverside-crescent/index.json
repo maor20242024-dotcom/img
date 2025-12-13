@@ -1,0 +1,47 @@
+{
+  "slug": "350-riverside-crescent",
+  "developer": "sobha",
+  "projectName": {
+    "en": "350 Riverside Crescent",
+    "ar": "350 Riverside Crescent"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/NbvfCuyhioinb1BxdFb7TcYPPA04mNVzeYzu9_fzCvw=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/NbvfCuyhioinb1BxdFb7TcYPPA04mNVzeYzu9_fzCvw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/jQ6J_CL0M6Va3POUgvwiMMlJERHCElssBN38JPkh5OE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/Mb3J7ics1u-Nnbf_R0bnKCsPxF0vkt6xqYGTPvskawI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/cjZswbFELWJkd2rClHyn9YchLs1s_e-va8Yffec-5ik=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6508b5c6-a623-4e55-a459-9d9a7bdfa15f/gallery/image/N9MVxaJoGua3dTFxHgKuVN0V_VP7a8jAcTV54JyfCqo=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Gymnasium",
+    "Landscaped Gardens",
+    "Leisure Lounge",
+    "Health Club",
+    "Well-being and Fitness",
+    "Security",
+    "Children's Play Area",
+    "Shared Pool"
+  ],
+  "coordinates": {
+    "lat": 25.17785421413,
+    "lng": 55.32523053743
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

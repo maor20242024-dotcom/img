@@ -1,0 +1,59 @@
+{
+  "slug": "reserve",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Reserve",
+    "ar": "Sobha Reserve"
+  },
+  "description": {
+    "en": "A curvilinear villa community of 3.47 million sq. ft. located in Wadi Al Safa 2, Dubailand with 4 and 5 Bedroom villas. An exquisite abode with a niche set of exquisite villas situated in the heart of an idyllic green luxury gated community that encompasses bouldering walls, exotic flower-patterned clusters and tree-lined walkways. The size of each villa starts from 4,900 sq. ft.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20reserve.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20reserve.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_1.jpg.webp?itok=sYdXx2J7",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015318.jpg.webp?itok=RQ_IFId5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015248_1.jpg.webp?itok=Wft1Jn4O",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_1.jpg.webp?itok=gO5GXLe0",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015319.jpg.webp?itok=QrOB0WrZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015320.jpg.webp?itok=bgqpZiaZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015325.jpg.webp?itok=3Vnc7jiM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015326.jpg.webp?itok=jDIFZRau"
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=1F3dI7PzNds",
+  "3D_TourLink": "https://reserve.sobha.cloud/3d/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "SWIMMING POOL",
+    "BARBECUE AREA",
+    "Zen Garden",
+    "OUTDOOR CINEMA",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.0167,
+    "lng": 55.3167
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

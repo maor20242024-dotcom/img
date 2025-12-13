@@ -1,0 +1,65 @@
+{
+  "slug": "forest-villas",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Forest-Villas",
+    "ar": "Forest-Villas"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Hartland%20forest%20villas.jpg.webp?itok=K98v__vY",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Hartland%20forest%20villas.jpg.webp?itok=K98v__vY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_12.jpg.webp?itok=9VP2dK2a",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_11.jpg.webp?itok=PONJUYKT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_13.jpg.webp?itok=GjvSgP3b",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015395_2.jpg.webp?itok=qkUaJydb",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015397.jpg.webp?itok=FmJEmFzy",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015396.jpg.webp?itok=Jris2aLW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_6.jpg.webp?itok=TSpLWqmr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_8.jpg.webp?itok=xGHsB_c3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%20-1_3.jpg.webp?itok=v2SBAjY8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_10.jpg.webp?itok=Qj0m23Bv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_10.jpg.webp?itok=jqmqzZLe",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_5.jpg.webp?itok=qAyINOwu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_4.jpg.webp?itok=PZOiZ9mb",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_4.jpg.webp?itok=lamtDgZw"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Customisable facades",
+    "Private Swimming Pool",
+    "Ultra Luxe Features",
+    "300 Species of Trees & Plants",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.175910489929,
+    "lng": 55.30774729658
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

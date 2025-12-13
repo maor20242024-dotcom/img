@@ -1,0 +1,50 @@
+{
+  "slug": "pristine-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Pristine Beach Residences",
+    "ar": "Pristine Beach Residences"
+  },
+  "description": {
+    "en": "Pristine Beach Residences is a blend of contemporary elegance with the serenity of beachfront living. Positioned at the very entrance of Sobha Siniya Island, this last cluster of Beach Residences is seamlessly connected via the 1.7 km bridge to the mainland. Surrounded by stunning views of the Arabian Sea while being cocooned in lush greenery, Pristine Beach Residences is minutes away from 2 luxurious resorts. Discover effortless living in Tower A's exquisite 1 & 2-bedroom fully furnished residences. Each residence is thoughtfully designed for comfort and unparalleled style. Simply pack your bags and step into a life of pure sophistication and ease. Wake up to the rhythm of the waves, unwind on golden shores, or embrace the thrill of beachside adventures. Whether seeking tranquillity or connection, these beachfront residences offer a life where every sunrise inspires, and every sunset feels like home.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner-1440x618-7.jpg.webp?itok=sBrCDUco",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner-1440x618-7.jpg.webp?itok=sBrCDUco",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-69_0.jpg.webp?itok=qRaFZQ3-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2072.jpg.webp?itok=sg00si8w",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-44.jpg.webp?itok=rmaVIXQm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-45.jpg.webp?itok=20pwzJ3X",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-3-%282%29.jpg.webp?itok=_9LPURD-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-46-%282%29.jpg.webp?itok=h4M3hA-q",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-54.jpg.webp?itok=ZprtjS4U",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/1006x608-55.jpg.webp?itok=SYiep6jp"
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=sI91-e_HhS0",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Gardens",
+    "Beach Access",
+    "Indoor Swimming Pool",
+    "Restaurants",
+    "CCTV Security",
+    "Gymnasium",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.6031518435,
+    "lng": 55.6247722685
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

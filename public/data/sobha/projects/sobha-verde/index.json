@@ -1,0 +1,64 @@
+{
+  "slug": "sobha-verde",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Verde",
+    "ar": "Sobha Verde"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/1440x618_0.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/2.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/3.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/4_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/5.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/6_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/7_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015380_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015382_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015381_1.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015387.jpg.webp",
+    "https://sobharealty.com/sites/default/files/2024-07/Mask%20Group%2015383_15.jpg.webp"
+  ],
+  "videoUrl": "https://sobharealty.com/digitalwalkthrough/sobhaverde/1br/?v=1",
+  "3D_TourLink": "https://sobharealty.com/digitalwalkthrough/sobhaverde/1br/?v=1",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "SWIMMING POOL",
+    "GYMNASIUM",
+    "F&B AND RETAIL ARENA",
+    "BBQ SPACES",
+    "RELAXATION DECKS",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": -1,
+    "lng": -1
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

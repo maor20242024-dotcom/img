@@ -1,0 +1,149 @@
+{
+  "slug": "dubai-marina",
+  "developer": "Emaar",
+  "name_en": "Dubai Marina",
+  "name_ar": "دبي مارينا",
+  "website": "https://properties.emaar.com/ar/our-communities/dubai-marina",
+  "canonical_url": "https://properties.emaar.com/ar/our-communities/dubai-marina",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2022/07/HERO-IMAGE_1620X832_01-4.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/52_42_HERO_NIGHT.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/DUBAI_MARINA_MAP-1-e1676033567444.jpg"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0804,
+    "lng": 55.1403
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "Dubai Marina",
+  "district_ar": "مرسى دبي",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Dubai Marina is Emaar's unique waterfront community featuring modern Riviera aesthetics and luxury. Dubai Marina enjoys a strategic location near major destinations, business centers, and entertainment venues in Dubai. The area is famous for its luxurious residential towers that provide upscale apartments with modern facilities and stunning views of the marina or sea.",
+  "description_ar": "مرسى دبي (دبي مارينا) هو مجمّع إعمار مارينا الفريد على الواجهة المائية الذي يتميّز بجماليات الريفيرا العصرية والفخامة. يتمتّع مرسى دبي (دبي مارينا) بموقع استراتيجي بالقرب من الوجهات الرئيسية، ومراكز الأعمال، ووجهات التترفيه في دبي. تشتهر المنطقة بأبراجها السكنية الفخمة التي توفّر شققاً راقية مع مَرافق عصرية وإطلالات خلّابة على المرسى أو البحر.",
+  "amenities": [
+    {
+      "en": "Dubai Marina and Yacht Club",
+      "ar": "مرسى دبي (دبي مارينا) ونادي اليخوت"
+    },
+    {
+      "en": "Marina Beach",
+      "ar": "شاطئ مارينا"
+    },
+    {
+      "en": "Dubai Marina Mall",
+      "ar": "دبي مارينا مول"
+    },
+    {
+      "en": "Dubai Marina Walk",
+      "ar": "ممشى مرسى دبي (دبي مارينا)"
+    },
+    {
+      "en": "Supermarkets",
+      "ar": "متاجر سوبرماركت"
+    },
+    {
+      "en": "Mosques",
+      "ar": "مساجد"
+    },
+    {
+      "en": "Schools",
+      "ar": "مدارس"
+    },
+    {
+      "en": "Healthcare facilities",
+      "ar": "مرافق رعاية صحية"
+    },
+    {
+      "en": "Transportation",
+      "ar": "وسائل نقل"
+    },
+    {
+      "en": "Parking",
+      "ar": "مواقف سيارات"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/our-communities/dubai-marina"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T12:45:24.153Z",
+  "updated_at": "2025-11-30T18:47:07.692Z"
+}

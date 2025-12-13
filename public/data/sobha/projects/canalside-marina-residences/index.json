@@ -1,0 +1,58 @@
+{
+  "slug": "canalside-marina-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Canalside Marina Residences",
+    "ar": "مسكن كانالسايد مارينا"
+  },
+  "description": {
+    "en": "Embrace a lifestyle shaped by the flow of water and the charm of marina-front living.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-07/Desk%20banner%201440x618.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-07/Desk%20banner%201440x618.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-07/Gallery%20image%201.jpg.webp?itok=2I2fs9ZP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-07/Gallery%20image%202.jpg.webp?itok=RMFY8pJS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-07/Gallery%20image%203.jpg.webp?itok=jkf_6O7N",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-07/Gallery%20image%204.jpg.webp?itok=VS1df1tP"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "INFINITY POOL",
+    "LAGOON BEACH",
+    "GOLF COURSE",
+    "YACHT CLUB WITH BOAT MOORING",
+    "LUSH PARKS & LANDSCAPED GARDENS",
+    "Café and Retail",
+    "VIBRANT NIGHTLIFE",
+    "SHOPPING MALL",
+    "MOTORISED SEAWATER BODY"
+  ],
+  "coordinates": {
+    "lat": 25.61472,
+    "lng": 55.63444
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

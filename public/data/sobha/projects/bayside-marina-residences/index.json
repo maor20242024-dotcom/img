@@ -1,0 +1,51 @@
+{
+  "slug": "bayside-marina-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Bayside Marina Residences",
+    "ar": "Bayside Marina Residences"
+  },
+  "description": {
+    "en": "Experience effortless luxury at Tower C - Marina Residences. Each unit is fully furnished, with every detail meticulously crafted for immediate comfort and style",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/_a-Y9j5ImekeHUDK-tyP4aKJ_biYssaYGrNm_LLmPSw=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/VhseYZB3x6L8kuvIWrYI8yvfetnbVBgR9kdf8hCGSe8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/3-H4CMfbPSOW7NsIRtO0b1_iduOx0_QUaUpTPX12xxU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/BuFP_iuRYsTccCWZhrg7uON5LF4umctcaGfQWYSCLH4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/imMRqKf3gQrCSXZEKzsZi5qAfsnWG-baZhbbQF3-bMM=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/m3zbof6e3nbQtDJbvwe4Rh-siEKaq0sbAUH6x9xvNfQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/3EgooPxmkgtVf5-lzMuGcNhw77AX7vpzrDjB917aw5c=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/aKyt3AufPsVveNBBUbNrTTSYWnQMexkhbZVuHv77fmA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/4dIleG6-qrtrQg_ere4dVQ3GLT_X07Yk1-oZfe3frBw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/_a-Y9j5ImekeHUDK-tyP4aKJ_biYssaYGrNm_LLmPSw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/p1ZgX6zNGZ2KE4_y0wfpzRp2ixd9gagrUCefICrf6oc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f9879778-dbdd-46d5-8072-996030d0aa8e/gallery/image/RDr0hvV6QPzWA1kUTQgspzLxZ0pAMgcJ7Sa92vFGdkE=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.603197,
+    "lng": 55.627604
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

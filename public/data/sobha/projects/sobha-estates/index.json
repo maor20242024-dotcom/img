@@ -1,0 +1,64 @@
+{
+  "slug": "sobha-estates",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Estates",
+    "ar": "سوبها إستيتس"
+  },
+  "description": {
+    "en": "Sobha Estates is an exclusive, private gated villa community within the prestigious Sobha Hartland II, designed for those who seek the perfect blend of luxury, privacy, and nature. This exceptional community features a collection of meticulously crafted 5 and 6-bedroom villas, each spanning over 8,000 sq. ft. The villas are thoughtfully positioned to offer breathtaking views of expansive greenery, creating an environment that truly allows you to experience nature's bounty in its full glory, including a forest landscape with tree-lined walkways and shared streets. With three spacious floors, including a rooftop terrace and a grand entrance court, each villa provides an unparalleled living experience.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20estates.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20estates.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_9.jpg.webp?itok=dwOByWzf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_18.jpg.webp?itok=5_5qkdFu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_12.jpg.webp?itok=_83j5Vnf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_18.jpg.webp?itok=Z6pg1AcX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015365.jpg.webp?itok=fTobuQnr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015366_0.jpg.webp?itok=31czRYth",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015367_0.jpg.webp?itok=cFYcQIG9"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Lagoon",
+    "Parks",
+    "Boardwalk",
+    "GYM",
+    "Cycling Track",
+    "Sports Arena",
+    "Forest Walks",
+    "Skate Park",
+    "Seasonal Gardens",
+    "Tree lined walkways",
+    "Forest Landscapes",
+    "Jogging track"
+  ],
+  "coordinates": {
+    "lat": 25.1781064,
+    "lng": 55.3285028
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

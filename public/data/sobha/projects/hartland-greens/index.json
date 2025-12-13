@@ -1,0 +1,59 @@
+{
+  "slug": "hartland-greens",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Hartland Greens",
+    "ar": "Sobha Hartland Greens"
+  },
+  "description": {
+    "en": "Sobha Hartland Greens comprises a stunning bouquet of six mid-rise buildings set against the backdrop of plush greenery infused with the charms of city life. This residential masterpiece is located in close proximity to some of the estate's most vibrant districts and is home to a selection of exclusive boutiques.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20Greens.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20Greens.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Night%20Render.jpg.webp?itok=jxqaskiT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Dining%204%20bed.jpg.webp?itok=TlAOwIXI",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_Bldg%203%20Park%20View%20-%2001-01.jpg.webp?itok=133HkAt3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_BathRoom.jpg.webp?itok=_3Gv1qsF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8_4Bed%20Duplex-01-06.jpg.webp?itok=5ZatJREu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20Landscape%20Pool%20granite%20%281%29%20%281%29_6.jpg.webp?itok=D5bhkAHr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20landscape%20cam7_3.jpg.webp?itok=vADe6NEm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/G%2B8%20%20Bolevard%20view-012-04.jpg.webp?itok=QkWqBL4C"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "SWIMMING POOL",
+    "world-class gym",
+    "kids play area",
+    "retail space",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.1767078,
+    "lng": 55.3107527
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

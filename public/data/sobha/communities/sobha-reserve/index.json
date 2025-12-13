@@ -1,0 +1,174 @@
+{
+  "slug": "sobha-reserve",
+  "developer": "Sobha",
+  "name_en": "Sobha Reserve",
+  "name_ar": "شوبا ريزيرف",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.087012771661,
+    "lng": 55.338259146165
+  },
+  "master_location_en": "Sobha Reserve",
+  "master_location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A curvilinear villa community of 3.47 million sq. ft. located in Wadi Al Safa 2, Dubailand with 4 and 5 Bedroom villas. An exquisite abode with a niche set of exquisite villas situated in the heart of an idyllic green luxury gated community that encompasses bouldering walls, exotic flower-patterned clusters and tree-lined walkways. The size of each villa starts from 4,900 sq. ft.",
+  "description_ar": "مجتمع فلل في وادي الصفا.",
+  "amenities": [
+    {
+      "en": "Infinity Pool",
+      "ar": "مسبح إنفينيتي"
+    },
+    {
+      "en": "Wet Deck",
+      "ar": "منصة مبللة"
+    },
+    {
+      "en": "Shaded Pool Deck",
+      "ar": "منصة مسبح مظللة"
+    },
+    {
+      "en": "Sun Loungers",
+      "ar": "كراسي استلقاء للتشمس"
+    },
+    {
+      "en": "Shaded Kids’ Pool Area & Play Area",
+      "ar": "منطقة مسبح ولعب مظللة للأطفال"
+    },
+    {
+      "en": "Raised Lawn",
+      "ar": "عشب مرتفع"
+    },
+    {
+      "en": "Shaded Communal Areas",
+      "ar": "مناطق مشتركة مظللة"
+    },
+    {
+      "en": "BBQ Pods",
+      "ar": "أكواخ شواء"
+    },
+    {
+      "en": "Ground-Level Boutiques & Cafes",
+      "ar": "بوتيكات ومقاهي على مستوى الأرض"
+    },
+    {
+      "en": "Landscaped Garden",
+      "ar": "حديقة طبيعية"
+    },
+    {
+      "en": "SWIMMING POOL",
+      "ar": ""
+    },
+    {
+      "en": "BARBECUE AREA",
+      "ar": ""
+    },
+    {
+      "en": "Zen Garden",
+      "ar": ""
+    },
+    {
+      "en": "OUTDOOR CINEMA",
+      "ar": ""
+    },
+    {
+      "en": "Cycling Track",
+      "ar": ""
+    },
+    {
+      "en": "Sports Arena",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "SCHOOL",
+      "name_ar": "",
+      "distance": "21 MINUTES",
+      "category": "Education"
+    },
+    {
+      "name_en": "DUBAI INTERNATIONAL AIRPORT",
+      "name_ar": "",
+      "distance": "18 MINUTES",
+      "category": "Airport"
+    },
+    {
+      "name_en": "BUSINESS BAY",
+      "name_ar": "",
+      "distance": "17 MINUTES",
+      "category": "Business District"
+    },
+    {
+      "name_en": "THE DUBAI MALL",
+      "name_ar": "",
+      "distance": "19 MINUTES",
+      "category": "Shopping/Entertainment"
+    },
+    {
+      "name_en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+      "name_ar": "",
+      "distance": "21 MINUTES",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "MUSEUM OF THE FUTURE",
+      "name_ar": "",
+      "distance": "20 MINUTES",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "MEYDAN RACECOURSE",
+      "name_ar": "",
+      "distance": "19 MINUTES",
+      "category": "Sports/Entertainment"
+    },
+    {
+      "name_en": "RAS AL KHOR WILDLIFE SANCTUARY",
+      "name_ar": "",
+      "distance": "13 MINUTES",
+      "category": "Nature/Leisure"
+    },
+    {
+      "name_en": "DUBAI FRAME",
+      "name_ar": "",
+      "distance": "20 MINUTES",
+      "category": "Landmark"
+    },
+    {
+      "name_en": "DUBAI OPERA",
+      "name_ar": "",
+      "distance": "23 MINUTES",
+      "category": "Entertainment"
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.011323Z"
+}

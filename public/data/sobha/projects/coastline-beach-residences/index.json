@@ -1,0 +1,48 @@
+{
+  "slug": "coastline-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Coastline Beach Residences",
+    "ar": "Coastline Beach Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/PSxEhovxrNhSKbeaCoAb3whHPSXDM3Jus0gLdQJK4gk=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/PSxEhovxrNhSKbeaCoAb3whHPSXDM3Jus0gLdQJK4gk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/KdZ24E1iBxEquQsy0b7gEUK1HMdv5ZRC4RvX8XEpEQA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/bsLRwmeATJ6wzQEC-U3dZ9CAw4kzTzkpdzMa06PAtbk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/k95tDCKbCw31oKicu-41pcA7inaEejHW8abLXt7ljbQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/cb3deedc-7928-444f-87e6-0d9c260e3b95/gallery/image/QprBN_razQleYdr9xyOqjDVnBSS_amkFI5wWrHatuqY=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Retail Facilities",
+    "Beach Access",
+    "Infinity Pool",
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Security",
+    "View of Water",
+    "Children's Play Area",
+    "Shared Spa"
+  ],
+  "coordinates": {
+    "lat": 25.61472,
+    "lng": 55.629142
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "selene-beach-residences",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Selene Beach Residences",
+    "ar": "Selene Beach Residences"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/RnAGGPgIrq600KzeEOTiNcfkJu4MVjbCwJ8-fJ-AEIw=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/RnAGGPgIrq600KzeEOTiNcfkJu4MVjbCwJ8-fJ-AEIw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/qcyhLQswVDJE0L7J8T4dc1qg0zfvC8PirUT296k2W9I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/GaSz3TzivZ_B-7N907oIZHdkdXi7hAb4RSf2p-kS5xE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/dP3r9t3Q0x1aiLYmE7rYW35BN5944RS1sCGP0g-Gcl8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/0Bt95mcnWnjyQbv31I82wnJq0QnSYbFsD2Sfv4d-vug=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/BYzVY_Vx6DlUWcFxI_EcHHmSoRZJVDonB-SqgltThc8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/ejZMTbFs0meY_6QbZYoAmK0ksKg8NzWzQ5LO1nx2N08=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/b5510448-a3fe-4e87-9193-809b80d0705a/gallery/image/B35Mtu4iboWHS4G1SwReeW2Ujay_KKRG58a4HZISLQw=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Restaurants",
+    "Indoor Swimming Pool",
+    "CCTV Security",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.60641917494,
+    "lng": 55.63339945609
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

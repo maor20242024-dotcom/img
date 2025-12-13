@@ -1,0 +1,64 @@
+{
+  "slug": "skyvue-spectra",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Skyvue Spectra",
+    "ar": "Skyvue Spectra"
+  },
+  "description": {
+    "en": "Discover Skyvue Spectra, where luxury reaches new heights. Offering a selection of 1, 2, and 3-bedroom residences, Skyvue Spectra is designed to elevate your lifestyle with an array of world-class amenities and seamless connectivity.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/qs2w4MbAVwDwVW1I_9GkTANyY1fNfKklWvUr7BMeoE4=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/Fo0Gp6Om3eKXwRTq3lYIOM7PszbF92xwk4dREUEJ52Y=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/tWmwn6tqh31q_vJN89ZlSQAEnWzeXUgVFbjckJutkU8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/WdGDajBz2tjXJckRTUbR7_gyh7LG0bqOgWEQcUDwkDs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/BqkyJRNTWaYlU0Ry4aziNeaomEMTggfeEiAd8_vvxJw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/EaAn3LipAGwK_uLpuYFC7sotTptmBVI9RjvNDY2JX6k=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/jiaLYDfeHn8jf8h9_4nrFKpCM6-zvW2weogOTKiAFi4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/qs2w4MbAVwDwVW1I_9GkTANyY1fNfKklWvUr7BMeoE4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/p9eGfqduIVHu9ijqRT5U9W2rXMURPJHNi2HmlqqxqdI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/p27erfwppowUKD5BUuewWlvhF5vmWVXOKWD9ISnleww=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/e3d2776c-0712-4b51-95e3-3849919cd6ea/gallery/image/P901Vve-vq5LV7_-W0oOGHW2koXyodsnGsUPVmq7sm8=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Electricity Backup",
+    "Waste Disposal",
+    "First Aid Medical Center",
+    "Service Elevators",
+    "Gym or Health Club",
+    "Sauna",
+    "Swimming Pool",
+    "Maintenance Staff",
+    "Security Staff",
+    "CCTV Security",
+    "Cafeteria or Canteen",
+    "Freehold",
+    "Intercom",
+    "Kids Play Area",
+    "Lawn or Garden",
+    "Reception/Waiting Room",
+    "Steam Room",
+    "Facilities for Disabled",
+    "Balcony or Terrace",
+    "Barbeque Area"
+  ],
+  "coordinates": {
+    "lat": 25.175669,
+    "lng": 55.3242951
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

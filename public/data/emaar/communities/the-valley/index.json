@@ -1,0 +1,114 @@
+{
+  "slug": "the-valley",
+  "developer": "Emaar",
+  "name_en": "The Valley",
+  "name_ar": "ذا فالي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0543,
+    "lng": 55.2142
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A suburban community offering townhouses and villas in a serene environment.",
+  "description_ar": "مجتمع ضواحي يقدم تاونهاوس وفلل في بيئة هادئة.",
+  "amenities": [
+    {
+      "en": "Supermarkets",
+      "ar": "متاجر السوبرماركت"
+    },
+    {
+      "en": "Gym",
+      "ar": "صالة التمارين الرياضية"
+    },
+    {
+      "en": "Beach access",
+      "ar": "منفذ إلى الشاطئ"
+    },
+    {
+      "en": "Children's play area",
+      "ar": "منطقة لعب الأطفال"
+    },
+    {
+      "en": "Community center",
+      "ar": "مركز المجمّع"
+    },
+    {
+      "en": "Sports facilities",
+      "ar": "المرافق الرياضية"
+    },
+    {
+      "en": "Green spaces",
+      "ar": "المساحات الخضراء"
+    },
+    {
+      "en": "Schools",
+      "ar": "مدارس"
+    },
+    {
+      "en": "Healthcare facilities",
+      "ar": "مرافق رعاية صحية"
+    },
+    {
+      "en": "Transportation",
+      "ar": "وسائل النقل"
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-30T10:29:00.446Z",
+  "updated_at": "2025-11-30T18:47:07.697Z"
+}

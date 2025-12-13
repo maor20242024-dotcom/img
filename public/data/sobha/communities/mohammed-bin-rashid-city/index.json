@@ -1,0 +1,65 @@
+{
+  "slug": "mohammed-bin-rashid-city",
+  "developer": "Sobha",
+  "name_en": "Mohammed Bin Rashid City",
+  "name_ar": "مدينة محمد بن راشد",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.121581381234,
+    "lng": 55.299634603844
+  },
+  "master_location_en": "Elie Saab Vie at the Fields",
+  "master_location_ar": "ايلي صعب ڤي ات ذا فيلدز",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "A planned city with golf projects.",
+  "description_ar": "مدينة مخططة مع مشاريع غولف.",
+  "amenities": [
+    {
+      "en": "Gym or Health Club",
+      "ar": "صالة رياضية أو نادي صحي"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Security Staff",
+      "ar": "أمن و حماية"
+    },
+    {
+      "en": "Maids Room",
+      "ar": "غرفة خدم"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "whatsapp": null
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T19:55:10.005043Z"
+}

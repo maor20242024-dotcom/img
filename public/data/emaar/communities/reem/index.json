@@ -1,0 +1,184 @@
+{
+  "slug": "reem",
+  "developer": "Emaar",
+  "name_en": "Reem",
+  "name_ar": "ريم",
+  "website": "https://properties.emaar.com/ar/our-communities/reem",
+  "canonical_url": "https://properties.emaar.com/ar/our-communities/reem",
+  "image_hero": "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+  "images_gallery": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/DUBAI_CREEK_HARBOUR_HERO.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/ES_View_13.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiValley_CGI03_resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/MicrosoftTeams-image-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/02/EMAAR_MinaRashid_CGI19_06.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/AHD_BRAND_VIEW-FROM-ADDRESS-FOUNTAIN-VIEWS_AMBIENT_HR_01-resize.jpeg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/DUBAI_MARINA_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/EMAAR_DubaiRanchesMP_CGI07_04-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/Emirates-Hills-HR.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/REEM_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/05/THE_GREEN_COMMUNITY.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/03/REEM_MAP-e1676033473594.jpg",
+    "https://properties.emaar.com/wp-content/uploads/2020/03/REEM_MAP-e1676033473594.jpg"
+  ],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.0543,
+    "lng": 55.2142
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "UAE",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Reem is a community in close proximity to Arabian Ranches and located near the junction of Al Qudra Road (D63) and Sheikh Mohammed Bin Zayed Road (E311). Reem features stylish 3- and 4-bedroom villas and townhouses. These homes draw inspiration from Mediterranean and Arabic designs. Each one is carefully built with spacious layouts, modern kitchens, private gardens, and inviting natural finishes.",
+  "description_ar": "",
+  "amenities": [
+    {
+      "en": "Walking trails",
+      "ar": ""
+    },
+    {
+      "en": "Volleyball courts",
+      "ar": ""
+    },
+    {
+      "en": "Swimming pools",
+      "ar": ""
+    },
+    {
+      "en": "Tennis courts",
+      "ar": ""
+    },
+    {
+      "en": "Skate park",
+      "ar": ""
+    },
+    {
+      "en": "Dog park",
+      "ar": ""
+    },
+    {
+      "en": "Open-air amphitheatre",
+      "ar": ""
+    },
+    {
+      "en": "Children's play areas",
+      "ar": ""
+    }
+  ],
+  "nearby_landmarks": [
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    },
+    {
+      "name_en": "",
+      "name_ar": "",
+      "distance": "",
+      "category": ""
+    }
+  ],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [
+    "https://properties.emaar.com/ar/our-communities/reem"
+  ],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "2025-11-09T13:27:40.473Z",
+  "updated_at": "2025-11-30T18:47:07.695Z"
+}

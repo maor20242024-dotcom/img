@@ -1,0 +1,57 @@
+{
+  "slug": "aquamont",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Aquamont",
+    "ar": "سوبها أكوامونت"
+  },
+  "description": {
+    "en": "Sobha Aquamont ushers in a new era of refined coastal living in the heart of Downtown Umm Al Quwain. Set along an extraordinary 11-km shoreline—with 7 km of pristine beaches and curated beach parks—this exclusive waterfront enclave offers a rare sense of space, serenity, and sophistication.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery5_0.jpg.webp?itok=oZEHNp6P",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob5.jpg.webp?itok=9VpZAa-V",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery2_0.jpg.webp?itok=TDti8cT-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob2.jpg.webp?itok=AlLyu9wF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery1_0.jpg.webp?itok=2cfhvfRO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob1.jpg.webp?itok=MtXlTyqE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery6_0.jpg.webp?itok=U7ltm_dM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob6.jpg.webp?itok=CGenRuqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery3_0.jpg.webp?itok=l7MwHY0c",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob3.jpg.webp?itok=gPDdfgkW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery4_0.jpg.webp?itok=rCG6Nkvo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob4.jpg.webp?itok=6Q3b2LrB",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery7_0.jpg.webp?itok=tFHto4GO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob7.jpg.webp?itok=cYwUdaPz",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery8_0.jpg.webp?itok=zW491cXn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob8.jpg.webp?itok=m-Ik-gkQ"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.5930611623,
+    "lng": 55.5711374076
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

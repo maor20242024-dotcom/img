@@ -1,0 +1,55 @@
+{
+  "slug": "waves-grande",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Waves Grande",
+    "ar": "موجات جراند"
+  },
+  "description": {
+    "en": "Step into an ethereally beautiful way of life at Sobha Waves Grande. Built along the edge of one of the most coveted pieces of real estate in Dubai, this residential retreat is uniquely private while remaining close to the Downtown area. Barefoot elegance at its best, these waterfront apartments offer views that leave you speechless every time.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Waves%20grande.jpg",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/2024-11/Waves%20grande.jpg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-02%20_ENTRANCE.jpg.webp?itok=fdFoITdX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-03-04_3D%20RENDER%20copy.jpg.webp?itok=Xn-4TJR3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Render_1_Tower_Option_2B.jpg.webp?itok=AigGgCqe",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/WAVE-02-JC-ROUNDABOUT-DAY-02-03.jpg.webp?itok=rgKIYfVg"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "https://sobha.cloud/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "POOL & CABANAS",
+    "BARBECUE AREA",
+    "OUTDOOR CINEMA",
+    "ZEN GARDEN",
+    "Cycling Track",
+    "Sports Arena"
+  ],
+  "coordinates": {
+    "lat": 25.1788,
+    "lng": 55.2818
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

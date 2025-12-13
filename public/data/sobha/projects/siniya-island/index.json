@@ -1,0 +1,53 @@
+{
+  "slug": "siniya-island",
+  "developer": "sobha",
+  "projectName": {
+    "en": "Sobha Siniya Island",
+    "ar": "Sobha Siniya Island"
+  },
+  "description": {
+    "en": "Discover Sobha Siniya Island, an island paradise offering a collection of waterfront villas, mansions, resorts and apartments for sale. Experience the vibrant pulse of UAE's cosmopolitan life while enjoying the peaceful seclusion of island living, connected by a 1.7 km bridge.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/huD8Zg9rUlW_pAWW2zz8hyNlqJd6vjkESLVGfTp-h7s=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/EsI4x2aOSbsoaBtEpVOPz48XpRnPkuVY5hihR-QlyGQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/4gCkwSVOzF6eqESunURRfDRqSQBl1tVBDz-rns1oEZM=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/jMbnMHp-hp_l4zwOOPgRB2qY2wztkyT1LeATSfzr9_g=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/huD8Zg9rUlW_pAWW2zz8hyNlqJd6vjkESLVGfTp-h7s=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/4jH26-wFEckWzKsGnOPI249wywsUpbUj5KjrR-Bt_n4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/tbUEO8DVZ5ZslF37nHwsMEJAN3niaP1L2PLe8o0RG2I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/rnnjgAJ6ejx1QS11AScv_TbP2R_qXjVxFcct7Cihf-k=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/Vo7_zrgTSQRW3uMNX4rszvYHnSpOlaSoyC6zQ94elr8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/h374cRO94XGvr-hAR2RHVZQ_LsE9pnPhMdhhmAU-N_w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/N5Bt4ZYDOZb45qQK2QskUg2bS7AAGDbBYCn6w5MBFLU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/UTR9g_Z6FM6vvwqY__LOkxYEkVFdD955qxHtaTMFMWU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/bbae5ed5-7dee-4aaf-a45b-1ec2530076b0/gallery/image/8_eLMPyNBByjLvGbE34zBbQHgavfyanZRp-o3fJWy8M=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Restaurants",
+    "Indoor Swimming Pool",
+    "CCTV Security",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.60417113763,
+    "lng": 55.62778316444
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}
