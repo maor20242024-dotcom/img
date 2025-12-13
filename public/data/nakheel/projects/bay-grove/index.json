@@ -1,0 +1,49 @@
+{
+  "slug": "bay-grove",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Bay Grove",
+    "ar": "Bay Grove"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/1MH5orP5QnN1mjBQjf8-JYNdEcUKWvh6oNMI7DWi2G8=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/1MH5orP5QnN1mjBQjf8-JYNdEcUKWvh6oNMI7DWi2G8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/jC2V3WwBBo4jTfLyZS6Q_UBknDHN2d7raSut5jTaaEE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/HgaMVbrDU0wFtXWUJlqHWD0Cw2s_QncOhRUuNnuaAT4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/5oEQVU83JRqFB5HnOfpbzNdi0T7L41msHjxV3L8Mjv4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/zMPNHCGubN92gHy-4ria5bxR6uB7q_dbD5RzQ8VWbXE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/PIJ6YrdP9du30jesGOHqJAKAzfunST0VT0Yca-cVWdU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/zMPNHCGubN92gHy-4ria5bxR6uB7q_dbD5RzQ8VWbXE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/6bee2d2c-6177-4e2b-8bfd-103be2335890/gallery/image/PJxRQwqI3ZKiIYz8mMDm1au-yTiU--Hz8lYRcIif5MA=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Gymnasium",
+    "Yoga room",
+    "Beach Access",
+    "Landscaped Gardens",
+    "Children's Play Area",
+    "Children's Pool"
+  ],
+  "coordinates": {
+    "lat": 25.30529220268,
+    "lng": 55.31979691539
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

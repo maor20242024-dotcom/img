@@ -1,0 +1,47 @@
+{
+  "slug": "garden-apartments",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Garden Apartments",
+    "ar": "جاردن أبارتمنتس"
+  },
+  "description": {
+    "en": "Discover Shoreline Apartments, an exclusive complex, offering 1 to 3 bedroom residences and penthouses with stunning views and world-class amenities. Lining the trunk of Palm Jumeirah, Shoreline Apartments features four blocks of exclusive one, two, and three bedroom apartments, as well as four-bedroom penthouses. This twenty-building complex offers breathtaking views and boasts world-class amenities. Each of the four apartment blocks will have access to its own exclusive clubhouse, featuring the latest fitness equipment, large swimming pools, a children’s playground and restaurants. Whether relaxing or invigorating, Shoreline Apartments promise stunning Gulf views and experiences that can only be found on The Palm.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "",
+  "galleryImages": [],
+  "videoUrl": "/videos/nakheelcorporatelibraries/default-video-library/shoreline-apartments.mp4?sfvrsn=f0720cff_1",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Waste Disposal",
+    "First Aid Medical Center",
+    "Laundry Room",
+    "Swimming Pool",
+    "CCTV Security",
+    "Freehold",
+    "Kids Play Area",
+    "Lawn or Garden",
+    "Balcony or Terrace",
+    "Barbeque Area",
+    "Centrally Air-Conditioned",
+    "24 Hours Concierge",
+    "Broadband Internet",
+    "Jacuzzi"
+  ],
+  "coordinates": {
+    "lat": 25.311582874025,
+    "lng": 55.461936819905
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

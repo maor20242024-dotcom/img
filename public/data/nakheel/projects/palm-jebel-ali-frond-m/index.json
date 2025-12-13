@@ -1,0 +1,44 @@
+{
+  "slug": "palm-jebel-ali-frond-m",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Jebel Ali Frond M",
+    "ar": "Palm Jebel Ali Frond M"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/PctwZyrILDzHs9PBqrNN1xG6kbDVI-9sjU1nbXH9egs=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/PctwZyrILDzHs9PBqrNN1xG6kbDVI-9sjU1nbXH9egs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/aVoesrFHCglKyttMtGYFPTAIM_wyLvocVn-bBgDsEjE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/9GaUZkkA4DuB8OpGqqC7o06tkSbO3fFW8efjI_PMZ-U=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/TyiiXVkFTAkugITPLtaQwzfbzF9nhqTa_SxBrYLoqWo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/22c10066-d043-400f-b56e-6bf2e6cf762c/gallery/image/i__lUmL0iGHGoFd28KHO52fHAo_hHpwL6eX0YZrvjUo=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Well-being and Fitness",
+    "Cafe and Restaurants",
+    "Retail Facilities",
+    "Children's Play Area",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.00064784596,
+    "lng": 54.97457772752
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

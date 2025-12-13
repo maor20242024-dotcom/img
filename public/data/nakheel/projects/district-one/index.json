@@ -1,0 +1,47 @@
+{
+  "slug": "district-one",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "District One West",
+    "ar": "منطقة ون"
+  },
+  "description": {
+    "en": "District One offers a unique blend of living options for those who appreciate exclusivity and luxury. Choose from beautifully designed villas, stunning waterfront residences and opulent mansions that provide a lifestyle of unmatched luxury. If you prefer to breathe life on your own blueprint, District One offers bespoke plots giving you the opportunity to build your home exactly as you envisioned. Enjoy lush green surroundings, modern amenities and exclusive access to the stunning Crystal Lagoon, all within minutes of Dubai’s iconic landmarks. Experience the perfect combination of luxury, tranquility and the vibrant energy of city living at District One.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/district-one-west_banner.jpg?sfvrsn=5b3627e_1",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/district-one-west_banner.jpg?sfvrsn=5b3627e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery---district-one-west.jpg?sfvrsn=1cc4e49_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-mbr-west-1---district-one-west.jpg?sfvrsn=f7cff06f_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-2-mbr-west-1.jpg?sfvrsn=d80c14c3_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-district-one-west-ground.jpg?sfvrsn=2977ce76_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-03.jpg?sfvrsn=fdd1311b_5",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-02.jpg?sfvrsn=514f4d8f_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-01.jpg?sfvrsn=a91794b4_3"
+  ],
+  "videoUrl": "/videos/nakheelcorporatelibraries/nakheel-collection-video-library/mbrmediterraneandistrictone.mp4?sfvrsn=a1fbaba8_1",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Leisure Lounge",
+    "Gymnasium",
+    "Restaurants",
+    "Shared Pool",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.15733051371,
+    "lng": 55.28732467744
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

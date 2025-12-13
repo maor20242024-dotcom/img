@@ -1,0 +1,74 @@
+{
+  "slug": "palm-beach-towers",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Beach Towers",
+    "ar": "أبراج بالم بيتش"
+  },
+  "description": {
+    "en": "Discover exceptional living at Palm Beach Towers on Palm Jumeirah. Embrace a vibrant lifestyle with unrivaled location and inspiring amenities. Palm Beach Towers is an amalgam of style and luxury that inspires a fresh perspective, where each day is a life immersed in the best the city has to offer. Located at the gateway of Palm Jumeirah, it features fully furnished residences with stunning views and state of the art amenities, to complement ultra modern contemporary living.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/palm-beach-towers_banner.jpg?sfvrsn=5fae2987_1",
+  "galleryImages": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/palm-beach-towers_banner.jpg?sfvrsn=5fae2987_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-1-palm-beach-towers.jpg?sfvrsn=3299eb91_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-2-palm-beach-towers.jpg?sfvrsn=1d9aa465_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-3-palm-beach-tower.jpg?sfvrsn=fb915938_1",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/uIRFISzdkGiiCgUct7J8_Z3JljIrGIfRZSUZ4T72Nko=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/iXxbjPyuCYsP6QvidQ9mt3LGMuhWS5b6n4wZ7ECl6EU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/ty8BI4IR4BfOu2h0-c0-TW7QhKLu9w7NBxgMQj0BdVE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/nA49-7ZhVBd8Kl3IA_zcX5_2mSH43ECLtXpstXX0sZw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/Jx0rDSKJnVHV6y3wbDejXm3g-CpXD36LBEvCZEZiG7I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/0-3uxzMwqzemHu6A8JEnofA9RkWrhZdqR8JR9-PKd1o=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/MpxFyU9FXzgCoMBdHSlZ7CicP_dXSq-GhYeMmLpX8AA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/YYjk-_Azw9nwhhr3IMg9gGWjfvTo1e_llFTlUykEW4Q=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/190b405c-1071-4250-83a2-c8675eff1c00/gallery/image/ezJpOT1fluRW2ys9v019hWw6fZ1G82MLtuNEgUeE0Dw=/original.webp"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Parks",
+    "Gymnasium",
+    "Restaurants",
+    "Balcony",
+    "Private Garden",
+    "Private Gym",
+    "Private Jacuzzi",
+    "Shared Pool",
+    "Shared Spa",
+    "Security",
+    "Concierge",
+    "Maid Service",
+    "Covered Parking",
+    "Maids Room",
+    "Walk-in Closet",
+    "Kitchen Appliances",
+    "View of Water",
+    "View of Landmark",
+    "Pets Allowed",
+    "Shared Gym",
+    "Lobby in Building",
+    "Children's Pool",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Built in Wardrobes",
+    "Study",
+    "Central A/C"
+  ],
+  "coordinates": {
+    "lat": 25.101158,
+    "lng": 55.155286
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

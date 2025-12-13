@@ -1,0 +1,62 @@
+{
+  "slug": "bay-villas-dubai-islands",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Dubai Islands",
+    "ar": "فلل باي، جزر دبي"
+  },
+  "description": {
+    "en": "Bay Villas is the first step in sophisticated, connected living on Island B, combining natural beauty and prestigious amenities to create exceptional luxury in the heart of Dubai Islands. Select your contemporary design from five villa typologies in different locations. Bay Villas integrates these majestic properties with private gardens and well-designed parks and community spaces to complete an enriched lifestyle.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/main-dubai-islands-01.jpg",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/main-dubai-islands-01.jpg",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/main-dubai-islands-0217eaed95-3700-4cd4-ae39-f7e4130d8163.jpg",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands2.jpg",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands3.jpg",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/dubai-islands4.jpg",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-03-1003585b755-aa47-4c03-bc67-f241243683ac.jpg?sfvrsn=cbb79110_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-04-10016f6101c-ac26-4517-9954-ebd1bc34e3d1.jpg?sfvrsn=76aadf18_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-05-10022d90975-0328-44f2-ace6-47677bbda722.jpg?sfvrsn=ecaec5e9_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-06-1007dfd6754-dec7-4e40-8a22-5054800f6de2.jpg?sfvrsn=85ecdf36_1"
+  ],
+  "videoUrl": "https://www.nakheel.com/videos/nakheelcorporatelibraries/property-detail/dubai-islands.mp4",
+  "3D_TourLink": "https://bayvillas.dubaiislands.ae/",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Beaches",
+    "Entertainment Hubs",
+    "Golf Courses",
+    "Hotels & Resorts",
+    "Parks",
+    "Restaurants & Cafés",
+    "Shopping Centres",
+    "Souk Al Marfa",
+    "Wellness Facilities"
+  ],
+  "coordinates": {
+    "lat": 25.294777854734747,
+    "lng": 55.30273374243795
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

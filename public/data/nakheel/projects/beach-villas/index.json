@@ -1,0 +1,43 @@
+{
+  "slug": "beach-villas",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Beach Villas",
+    "ar": "فلل الشاطئ"
+  },
+  "description": {
+    "en": "Coral Beach Villas offers luxurious 5-bedroom villas that blend modern elegance with nature’s pristine beauty. These villas provide a serene lifestyle with private gardens, private pools, spacious outdoor areas, and easy access to boardwalks, lagoons, and stunning beaches.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015388.jpg.webp?itok=xKBhKP6I",
+  "galleryImages": [],
+  "videoUrl": "Not available through public search results.",
+  "3D_TourLink": "https://app.sobhasiniyaisland.com/",
+  "brochureUrl": "",
+  "amenities": [
+    "Gym or Health Club",
+    "Swimming Pool",
+    "Maintenance Staff",
+    "Security Staff",
+    "CCTV Security",
+    "Intercom",
+    "Kids Play Area",
+    "Lawn or Garden",
+    "Balcony or Terrace",
+    "Barbeque Area"
+  ],
+  "coordinates": {
+    "lat": 25.613128599272,
+    "lng": 55.621963013111
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

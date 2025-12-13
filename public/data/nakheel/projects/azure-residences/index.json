@@ -1,0 +1,57 @@
+{
+  "slug": "azure-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Azure Residences",
+    "ar": "أزور ريزيدنسز"
+  },
+  "description": {
+    "en": "Azure Residences is an idyllic beachfront development with luxury apartments offering exclusive beach access and spectacular views of the sea and the Dubai skyline.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences41557084-01b7-4fae-97ac-4fb72df490f3.jpg?sfvrsn=b8cb9788_1",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences41557084-01b7-4fae-97ac-4fb72df490f3.jpg?sfvrsn=b8cb9788_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residencesd4214546-1904-4390-b0fc-1a1401a05a5c.jpg?sfvrsn=8ccfc3df_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences1e7710b2-8da3-4d06-bd87-5e2862483f11.jpg?sfvrsn=7119a21e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences-interiors-(18).jpg?sfvrsn=8b56dfc4_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences4.jpg?sfvrsn=2cede5ba_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/azure-residences5.jpg?sfvrsn=c01ea03_3"
+  ],
+  "videoUrl": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/azure-residences.mp4?sfvrsn=b69e6648_1",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Sea-facing infinity pool",
+    "Rooftop gym",
+    "Supermarket",
+    "Ample car parking",
+    "Beach access",
+    "24/7 security",
+    "Concierge services",
+    "Tennis court",
+    "Playground",
+    "Barbecue area",
+    "Dining outlets/restaurants/cafés",
+    "Kids playing areas/Kids Pool",
+    "Free Wi-Fi",
+    "Private terraces/balconies",
+    "Pet-friendly",
+    "Built-in air conditioning",
+    "Washing machine"
+  ],
+  "coordinates": {
+    "lat": 25.107201838282503,
+    "lng": 55.152492937850944
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

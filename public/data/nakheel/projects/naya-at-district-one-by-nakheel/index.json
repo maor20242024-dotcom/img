@@ -1,0 +1,49 @@
+{
+  "slug": "naya-at-district-one-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Naya at District One By Nakheel",
+    "ar": "Naya at District One By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/mmELxiClRhPA1Mh7WqnIz0SnKeTIpdSKpxxim9rhzyc=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/mmELxiClRhPA1Mh7WqnIz0SnKeTIpdSKpxxim9rhzyc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/tU7piDP7QB3ZJm0LQ8QGcAJUqqHBYIGfl5WVYLs0RoE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/Zft0FODjd72Ii0Fw-qnudkaGQCpcQ74Q1E9SYy4LX1M=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/VR0fvYTKoZSjsR_BHJXqXLkXqwLwtP1LgVOsehT9Nwg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/KLfXC7ThiQZ_jiNfKUH6CjFISCwuOXocvqovDTn3F4U=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/Yd5tX8GbTnKGDRr76U5wvwig2Nfa7Neo_wzXwANLrlU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/Cvks74tvfYpLVIM7yL1b2qJAw_yUq5syEWBv6Dvbzr0=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/CRlK8b6Z4KOt39kz4P2vzCQDdDRY6tzS7He917BXkE8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/fa2-Wy-p41QU7ljQrZBnS4LMg9BI3QIbUdpaP51wALY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/98f155d4-da3b-45b8-a417-a32b96712bd6/gallery/image/nvXo9CQyUA8wwQTthKIzXJKUwZ_emQLQCw8yqoAl4VE=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Leisure Lounge",
+    "Gymnasium",
+    "Restaurants",
+    "Shared Pool",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.15733051371,
+    "lng": 55.28732467744
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

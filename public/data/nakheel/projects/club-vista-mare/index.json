@@ -1,0 +1,52 @@
+{
+  "slug": "club-vista-mare",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Club Vista Mare",
+    "ar": "كلوب فيستا ماري"
+  },
+  "description": {
+    "en": "One of Palm Jumeirah’s most popular destinations for both residents and tourists, Club Vista Mare spans almost 50,000 square feet at ground level, with an additional 30,000 square feet of residential space on the first floor. The contemporary style Club Vista Mare complex features seven upscale lifestyle and dining destinations, all with spectacular views of Palm Jumeirah’s eastern shoreline. Club Vista Mare is a premium waterfront residential community on Dubai’s Palm Jumeirah.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4802.jpg?sfvrsn=7e6ca66f_3",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4802.jpg?sfvrsn=7e6ca66f_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/club-vista-mare-new.jpg?sfvrsn=3170105a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4803.jpg?sfvrsn=b6b69b97_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4805.jpg?sfvrsn=fcb56e12_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4804.jpg?sfvrsn=571b9189_1"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Private Beach Access",
+    "Restaurants",
+    "Parking Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.1145972,
+    "lng": 55.1421662
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

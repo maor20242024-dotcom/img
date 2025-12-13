@@ -1,0 +1,52 @@
+{
+  "slug": "palm-jebel-ali-frond-j",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Jebel Ali Frond J",
+    "ar": "Palm Jebel Ali Frond J"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/eDJ-mzDOIAS_Mcj-zsWtE0TukQb0EyKA6db8aNcLXfg=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/eDJ-mzDOIAS_Mcj-zsWtE0TukQb0EyKA6db8aNcLXfg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/Ca0XpxPxevYcuml_f9nknoxzWJwAp0P9-8q8rxFufOA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/L8zslrNH8v1uyZBFiMYHvB0KAN5bywukaAs_gFK23oQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/64cOl46SwrEY5OVTBsODVYFI-ALoj8zzN68d7Q1tb8w=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/cxpMqP5tksDyaoUBJo654Vv0NPdxlXhSWItxBh_qxA4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/-5skj98jq586V53lbnnSfo2__6Bt-naJRAI34lEQONI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/RBPSX69x7IRoC_g863LpwITPxEkuLpXFVu5ZgxAT1Ao=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/5Oju2VZSvcxAtv8fZj21yD5Stjxae-NQadpDEWmM_gw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/5B5Mtmq4fFsTj5iXmz5n5FNILsC5pWYyEO4e0CUpTNw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/eLPT-PvQ_bVN9KQpFFWjSw6mPBrt3__Bq47dS14W3pw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/-5skj98jq586V53lbnnSfo2__6Bt-naJRAI34lEQONI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5bd558a8-f335-4c79-8f97-53b45a6ce7e2/gallery/image/QDuk3juuNMi2CLVHf8ysKjCloGJq_3_iRk1qrKgDwpQ=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.01428101039,
+    "lng": 54.97427945767
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

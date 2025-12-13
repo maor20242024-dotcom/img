@@ -1,0 +1,51 @@
+{
+  "slug": "como-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Como Residences",
+    "ar": "كومو ريزيدنسز"
+  },
+  "description": {
+    "en": "Como Residences is a new exclusive residential development set to redefine the skyline of Palm Jumeirah. It boasts 76 storeys of just 76 residences, standing at over 300 metres tall, featuring an innovative design that ensures each residence can take full advantage of the 180° to 360° views of Dubai and the Arabian Sea from wrap around balconies.This architectural marvel offers unrivalled luxurious living experiences with privacy, exclusivity and extensive premium amenities. Amenities include an elevated private sandy beach, a 25 metre lap pool and a rooftop infinity pool. Como Residences will also have extensive landscaped areas as well as a variety of recreational spaces. A 360-degree viewing deck will be located on the rooftop in addition to the roof top infinity pool. Families are catered for with a children’s wet and dry play areas, with additional amenities also including a private café lounge, a business centre and private residents’ lounge. Experience the ultimate in waterfront living where unbeatable panoramic views, opulent interiors and exclusive amenities come together to create an unmatched cosmopolitan lifestyle.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1",
+  "galleryImages": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/como-residences.jpg?sfvrsn=6940299b_1",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/fVw0Sq5Akh0p_KNVfAUo0V_fl_WcQb5khpXPTKaF330=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/-Y-kbV56pJhfVBbpc2hsT0hIe8Vxtsos3v2IBlwyUl4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/a2QYCSkYKQdSjQDWTca2kxWBogcNz4NKKk-Fqln4yyo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/aiBKtDcFGpzQSbq0DOYGyiG6ZytTARN45kxECDrOwAs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/2QDcSQH4wLZx-iCzqAG_s6GLjvjakI5s3I1Av0PlOAw=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/Y10ItJem2JV3_S4cgu4ed1NMD45cf86a0TIu38b6j7M=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/QtCEWQqJ6cmzj3OMySDLm0g1_D4xZnt5rVmttHCzhPk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/62SkWxHj0X2LmVa7ZgN0Ppc-s3oK6XTQ2Cdx05ai9zI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/f00bcc25-ca68-4fa9-adcc-0dff8f19e9f8/gallery/image/VqoMCSDft48bfZVnj38MKFi3gpusQXyeL_ia2gdhfvU=/original.webp"
+  ],
+  "videoUrl": "https://nakheel.com/videos/nakheelcorporatelibraries/home-video-banner/homepage-como.mp4?sfvrsn=c82ef9a1_1",
+  "3D_TourLink": "https://www.comobynakheel.com",
+  "brochureUrl": "",
+  "amenities": [
+    "Gymnasium",
+    "Restaurants",
+    "Retail Facilities",
+    "Balcony",
+    "Shared Pool",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.11118462678,
+    "lng": 55.14548203938
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

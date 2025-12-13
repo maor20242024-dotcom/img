@@ -1,0 +1,53 @@
+{
+  "slug": "marina-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Marina Residences",
+    "ar": "مارينا ريزيدنسز"
+  },
+  "description": {
+    "en": "Experience Nakheel's Marina Residences - Spectacular waterside living on Palm Jumeirah with two and three-bedroom apartments and luxurious penthouses.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+  "galleryImages": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480c.jpg?sfvrsn=88106499_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/marina-residences-1240x480a.jpg?sfvrsn=635c82e3_1"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Swimming Pools",
+    "Dog Parks",
+    "Gym",
+    "Parks",
+    "Parking Spaces",
+    "Kids Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.115037318459915,
+    "lng": 55.13614978650672
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

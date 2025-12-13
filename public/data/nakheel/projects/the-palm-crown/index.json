@@ -1,0 +1,51 @@
+{
+  "slug": "the-palm-crown",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "The Palm Crown",
+    "ar": "The Palm Crown"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/C4cw8kGjwD78Ln6WgcPO5L04XJtDZnbFizW-yLzMsoc=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/C4cw8kGjwD78Ln6WgcPO5L04XJtDZnbFizW-yLzMsoc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/LYLDLAX6GCzp5le7ZrPCFh7yOdUly7TVRyBuUj5eOaE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/CRIt8-BWPV-amCaSx8B-RhfXe5tS9g4BBXEADXxVbVI=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/cGBCPkh_BroRAKfIt27gqN-ecF59cQMyoiQQGw_HTFQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/HJtU4an4OQP6isQnxkKKhdiMpuT2qHbPGVX7cH8_FFg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/EIFdTzbK4Opg3OnmF_-5fsnuwZwKkTNvQskzmst9hrY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/6_i1EZ1usF9r3P9nKhTdcI1B2S-BrhdGDGVLSGDMYo8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/f7iumOF318powrTcw16XqDoC7QtfEXhdaELTi47qgeo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/Jgs23fFZcUDz60vnWgOQdMu7b07sn7j7k4iT2IyCLAc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/qIIj6zsd8hOYDttKyVJankgWIiNZ1wu-6XLTaMBGdvA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/cu4RKFVQCuLEYEKVSyZbDA8TrP4wF0rbQWCU6c7eTrQ=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/517df172-15ed-4906-9a7d-75ee77937a52/gallery/image/EiNTfVvV0i-LJtXHFjhDiLHBpU2L7y5Ij_pr5Btm5LE=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Beach Access",
+    "Well-being and Fitness",
+    "Retail Facilities",
+    "Shared Pool",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.126377,
+    "lng": 55.123634
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

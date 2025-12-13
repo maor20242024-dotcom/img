@@ -1,0 +1,64 @@
+{
+  "slug": "jebel-ali-village-townhouses-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Jebel Ali Village Townhouses By Nakheel",
+    "ar": "Jebel Ali Village Townhouses By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/6Q7sUiSf5sG448JjcYhsLWPWI7j5HnKuSZwjuiMx0R8=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/6Q7sUiSf5sG448JjcYhsLWPWI7j5HnKuSZwjuiMx0R8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/mwvbeLpgEfn9PqgKdhbmliYM8sSHpREFYOJdQu91Blc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/CTVXWEWtMYUNVA7-Cd11xOYYKjfv6XwCPjRyt54YXdo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/B5hOBL4ue2CyVn1q3zagcr28SVE7VArRfS5jXvAZpbo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/ATEgz1K24VUNCe2kv7CJuNj9dHk6AUlexlzt0y1Wotk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/c_-1SpuOAztcD_2Q3xFD05M0Zp5pikbjRmnBjzN9XiY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0bcb7938-4c55-4c5a-8a34-59239d7c44e7/gallery/image/E3N5YLL9yC9Poeyi64V4nquCJwvM8GdzwNvw0ZrXpS0=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Well-being and Fitness",
+    "Landscaped Gardens",
+    "Health Club",
+    "Gymnasium",
+    "Tennis Courts",
+    "Restaurants",
+    "Community Park",
+    "Covered Parking",
+    "Built in Wardrobes",
+    "Walk-in Closet",
+    "Kitchen Appliances",
+    "Maids Room",
+    "Shared Gym",
+    "Children's Pool",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Pets Allowed",
+    "Central A/C",
+    "Balcony",
+    "Private Garden",
+    "Shared Pool",
+    "Shared Spa",
+    "Security"
+  ],
+  "coordinates": {
+    "lat": 25.02942489731,
+    "lng": 55.1326714581
+  },
+  "completionDate": "",
+  "status": "completed"
+}

@@ -1,0 +1,1077 @@
+{
+  "developer": "NAKHEEL",
+  "total_communities": 19,
+  "total_projects": 27,
+  "communities": [
+    {
+      "slug": "al-furjan",
+      "name_en": "Al Furjan",
+      "name_ar": "الفرجان"
+    },
+    {
+      "slug": "badrah",
+      "name_en": "Badrah",
+      "name_ar": "بدرة"
+    },
+    {
+      "slug": "discovery-gardens",
+      "name_en": "Discovery Gardens",
+      "name_ar": "ديسكفري جاردنز"
+    },
+    {
+      "slug": "dubai-islands",
+      "name_en": "Dubai Islands",
+      "name_ar": "جزر دبي"
+    },
+    {
+      "slug": "international-city",
+      "name_en": "International City",
+      "name_ar": "إنترناشونال سيتي"
+    },
+    {
+      "slug": "jebel-ali-village",
+      "name_en": "Jebel Ali Village",
+      "name_ar": "قرية جبل علي"
+    },
+    {
+      "slug": "jumeirah-heights",
+      "name_en": "Jumeirah Heights",
+      "name_ar": "جميرا هايتس"
+    },
+    {
+      "slug": "jumeirah-islands",
+      "name_en": "Jumeirah Islands",
+      "name_ar": "جزر جميرا"
+    },
+    {
+      "slug": "jumeirah-lake-towers",
+      "name_en": "Jumeirah Lake Towers",
+      "name_ar": "أبراج بحيرات جميرا"
+    },
+    {
+      "slug": "jumeirah-park",
+      "name_en": "Jumeirah Park",
+      "name_ar": "جميرا بارك"
+    },
+    {
+      "slug": "jumeirah-village-circle",
+      "name_en": "Jumeirah Village Circle",
+      "name_ar": "جميرا فيليج سيركل"
+    },
+    {
+      "slug": "jumeirah-village-triangle",
+      "name_en": "Jumeirah Village Triangle",
+      "name_ar": "جميرا فيليج تريانغل"
+    },
+    {
+      "slug": "nad-al-sheba-villas",
+      "name_en": "Nad Al Sheba Villas",
+      "name_ar": "فلل ند الشبا"
+    },
+    {
+      "slug": "palm-jebel-ali",
+      "name_en": "Palm Jebel Ali",
+      "name_ar": "نخلة جبل علي"
+    },
+    {
+      "slug": "palm-jumeirah",
+      "name_en": "Palm Jumeirah",
+      "name_ar": "نخلة جميرا"
+    },
+    {
+      "slug": "the-gardens",
+      "name_en": "The Gardens",
+      "name_ar": "ذا جاردنز"
+    },
+    {
+      "slug": "the-world",
+      "name_en": "The World",
+      "name_ar": "العالم"
+    },
+    {
+      "slug": "veneto",
+      "name_en": "Veneto",
+      "name_ar": "فينيتو"
+    },
+    {
+      "slug": "warsan-village",
+      "name_en": "Warsan Village",
+      "name_ar": "وارسان فيليج"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "atlantis-the-royal-residences",
+      "name": {
+        "en": "Atlantis The Royal Residences",
+        "ar": "أتلانتس ذا رويال للمساكن"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "azure-residences",
+      "name": {
+        "en": "Azure Residences",
+        "ar": "أزور ريزيدنسز"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "bay-grove",
+      "name": {
+        "en": "Bay Grove",
+        "ar": "Bay Grove"
+      },
+      "status": "under_construction",
+      "price": 1850000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "bay-grove-residences",
+      "name": {
+        "en": "Bay Grove Residences",
+        "ar": "مساكن باي غروف"
+      },
+      "status": "under_construction",
+      "price": 2000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "duplex"
+      ]
+    },
+    {
+      "slug": "bay-grove-residences-phase-2-by-nakheel",
+      "name": {
+        "en": "Bay Grove Residences Phase 2 By Nakheel",
+        "ar": "Bay Grove Residences Phase 2 By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 1900000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "bay-grove-residences-phase-4",
+      "name": {
+        "en": "Bay Grove Residences Phase 4",
+        "ar": "مساكن باي غروف - المرحلة الرابعة"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "bay-grove-residences-phase-4-by-nakheel",
+      "name": {
+        "en": "Bay Grove Residences Phase 4 By Nakheel",
+        "ar": "Bay Grove Residences Phase 4 By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 2000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "bay-villas-by-nakheel",
+      "name": {
+        "en": "Bay Villas By Nakheel",
+        "ar": "Bay Villas By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 4000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "3",
+        "4",
+        "5"
+      ],
+      "types": [
+        "villa",
+        "townhouse"
+      ]
+    },
+    {
+      "slug": "bay-villas-dubai-islands",
+      "name": {
+        "en": "Dubai Islands",
+        "ar": "فلل باي، جزر دبي"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "bay-villas-phase-2",
+      "name": {
+        "en": "Bay Villas Phase 2",
+        "ar": "باي فيلاز - المرحلة الثانية"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "beach-villas",
+      "name": {
+        "en": "Beach Villas",
+        "ar": "فلل الشاطئ"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "canal-front-residences",
+      "name": {
+        "en": "Canal Front Residences",
+        "ar": "قناة فرونت ريزيدنسز"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "club-vista-mare",
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": "كلوب فيستا ماري"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "communities",
+      "name": {
+        "en": "communities",
+        "ar": "communities"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "como-residences",
+      "name": {
+        "en": "Como Residences",
+        "ar": "كومو ريزيدنسز"
+      },
+      "status": "under_construction",
+      "price": 33000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "district-one",
+      "name": {
+        "en": "District One West",
+        "ar": "منطقة ون"
+      },
+      "status": "under_construction",
+      "price": 1715238,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "villa"
+      ]
+    },
+    {
+      "slug": "district-one-west-by-nakheel",
+      "name": {
+        "en": "District One West By Nakheel",
+        "ar": "District One West By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 12781571,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "district-one-west-phase-2-by-nakheel",
+      "name": {
+        "en": "District One West Phase 2 By Nakheel",
+        "ar": "District One West Phase 2 By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 12996645,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "4",
+        "5",
+        "6"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "garden-apartments",
+      "name": {
+        "en": "Garden Apartments",
+        "ar": "جاردن أبارتمنتس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2
+      ],
+      "types": []
+    },
+    {
+      "slug": "garden-view-apartments",
+      "name": {
+        "en": "Garden View Apartments",
+        "ar": "جاردن فيو أبارتمنتس"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "garden-view-villas",
+      "name": {
+        "en": "Garden View Villas",
+        "ar": "جاردن فيو فلل"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "golden-mile",
+      "name": {
+        "en": "Golden Mile",
+        "ar": "جولدن مايل"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "jebel-ali-village-townhouses-by-nakheel",
+      "name": {
+        "en": "Jebel Ali Village Townhouses By Nakheel",
+        "ar": "Jebel Ali Village Townhouses By Nakheel"
+      },
+      "status": "completed",
+      "price": 2458800,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "3",
+        "4"
+      ],
+      "types": [
+        "townhouse"
+      ]
+    },
+    {
+      "slug": "marina-residences",
+      "name": {
+        "en": "Marina Residences",
+        "ar": "مارينا ريزيدنسز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "masakin-al-furjan",
+      "name": {
+        "en": "Masakin Al Furjan",
+        "ar": "مساكن الفرجان"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "meydan",
+      "name": {
+        "en": "Meydan",
+        "ar": "ميدان"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "murooj-al-furjan",
+      "name": {
+        "en": "Murooj Al Furjan",
+        "ar": "مروج الفرجان"
+      },
+      "status": "delivered",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        3,
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "naya-at-district-one-by-nakheel",
+      "name": {
+        "en": "Naya at District One By Nakheel",
+        "ar": "Naya at District One By Nakheel"
+      },
+      "status": "under_construction",
+      "price": 1715238,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "villa"
+      ]
+    },
+    {
+      "slug": "palm-beach-towers",
+      "name": {
+        "en": "Palm Beach Towers",
+        "ar": "أبراج بالم بيتش"
+      },
+      "status": "under_construction",
+      "price": 3701000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "types": [
+        "apartment",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "palm-central-private-residences",
+      "name": {
+        "en": "Palm Central Private Residences",
+        "ar": "Palm Central Private Residences"
+      },
+      "status": "under_construction",
+      "price": 2500000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "types": [
+        "apartment",
+        "townhouse",
+        "penthouse"
+      ]
+    },
+    {
+      "slug": "palm-jebel-ali-frond-b",
+      "name": {
+        "en": "Palm Jebel Ali Frond B",
+        "ar": "Palm Jebel Ali Frond B"
+      },
+      "status": "under_construction",
+      "price": 18100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "5",
+        "6"
+      ],
+      "types": [
+        "villa",
+        "apartment"
+      ]
+    },
+    {
+      "slug": "palm-jebel-ali-frond-c",
+      "name": {
+        "en": "Palm Jebel Ali Frond C",
+        "ar": "Palm Jebel Ali Frond C"
+      },
+      "status": "under_construction",
+      "price": 18100000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "5",
+        "6"
+      ],
+      "types": [
+        "apartment",
+        "villa"
+      ]
+    },
+    {
+      "slug": "palm-jebel-ali-frond-i",
+      "name": {
+        "en": "Palm Jebel Ali Frond I",
+        "ar": "Palm Jebel Ali Frond I"
+      },
+      "status": "under_construction",
+      "price": 18000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-jebel-ali-frond-j",
+      "name": {
+        "en": "Palm Jebel Ali Frond J",
+        "ar": "Palm Jebel Ali Frond J"
+      },
+      "status": "under_construction",
+      "price": 18000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-jebel-ali-frond-k",
+      "name": {
+        "en": "Palm Jebel Ali Frond K",
+        "ar": "Palm Jebel Ali Frond K"
+      },
+      "status": "under_construction",
+      "price": 18000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-jebel-ali-frond-l",
+      "name": {
+        "en": "Palm Jebel Ali Frond L",
+        "ar": "Palm Jebel Ali Frond L"
+      },
+      "status": "under_construction",
+      "price": 41748800,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "0"
+      ],
+      "types": [
+        "land"
+      ]
+    },
+    {
+      "slug": "palm-jebel-ali-frond-m",
+      "name": {
+        "en": "Palm Jebel Ali Frond M",
+        "ar": "Palm Jebel Ali Frond M"
+      },
+      "status": "under_construction",
+      "price": 34428800,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-jebel-ali-frond-n",
+      "name": {
+        "en": "Palm Jebel Ali - Frond N",
+        "ar": "Palm Jebel Ali - Frond N"
+      },
+      "status": "under_construction",
+      "price": 40428800,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-jebel-ali-frond-o",
+      "name": {
+        "en": "Palm Jebel Ali - Frond O",
+        "ar": "Palm Jebel Ali - Frond O"
+      },
+      "status": "under_construction",
+      "price": 38438800,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "0"
+      ],
+      "types": [
+        "land"
+      ]
+    },
+    {
+      "slug": "palm-jebel-ali-frond-p",
+      "name": {
+        "en": "Palm Jebel Ali – Frond P",
+        "ar": "Palm Jebel Ali – Frond P"
+      },
+      "status": "under_construction",
+      "price": 18000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "palm-views",
+      "name": {
+        "en": "Palm Views",
+        "ar": "بالم فيوز"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "palma-residences",
+      "name": {
+        "en": "Palma Residences",
+        "ar": "بالما ريزيدنسز"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4,
+        5
+      ],
+      "types": []
+    },
+    {
+      "slug": "paradise-one",
+      "name": {
+        "en": "Paradise One",
+        "ar": "Paradise One"
+      },
+      "status": "under_construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "projects",
+      "name": {
+        "en": "projects",
+        "ar": "projects"
+      },
+      "status": "unknown",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [],
+      "types": []
+    },
+    {
+      "slug": "rixos-dubai-islands-residences",
+      "name": {
+        "en": "Rixos Dubai Islands Residences",
+        "ar": "ريكسوس جزر دبي للمساكن"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "serenia-living",
+      "name": {
+        "en": "Serenia Living",
+        "ar": "سيرينيا ليفينج"
+      },
+      "status": "under-construction",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        2,
+        4
+      ],
+      "types": []
+    },
+    {
+      "slug": "shoreline-apartments",
+      "name": {
+        "en": "Shoreline Apartments",
+        "ar": "شقق شورلاين"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3
+      ],
+      "types": []
+    },
+    {
+      "slug": "the-palm-crown",
+      "name": {
+        "en": "The Palm Crown",
+        "ar": "The Palm Crown"
+      },
+      "status": "under_construction",
+      "price": 85000000,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        "7"
+      ],
+      "types": [
+        "villa"
+      ]
+    },
+    {
+      "slug": "the-palm-tower-residences",
+      "name": {
+        "en": "The Palm Tower",
+        "ar": "مساكن برج النخلة"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "types": []
+    },
+    {
+      "slug": "tilal-al-furjan",
+      "name": {
+        "en": "Tilal Al Furjan",
+        "ar": "تلال الفرجان"
+      },
+      "status": "completed",
+      "price": 0,
+      "location": {
+        "en": "",
+        "ar": ""
+      },
+      "bedrooms": [
+        4
+      ],
+      "types": []
+    }
+  ],
+  "updated_at": "2025-11-30T19:55:10.056157Z",
+  "stats": {
+    "projectCount": 50,
+    "updatedAt": "2025-12-13T08:44:49.586Z"
+  }
+}

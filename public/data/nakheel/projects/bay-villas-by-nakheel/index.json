@@ -1,0 +1,53 @@
+{
+  "slug": "bay-villas-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Bay Villas By Nakheel",
+    "ar": "Bay Villas By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/hgNcBsRLO_GYwweSrPWiSnietA8aYXjK4rLsiYc3TDU=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/hgNcBsRLO_GYwweSrPWiSnietA8aYXjK4rLsiYc3TDU=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/9x3YPT4-rhfjdCjWuw7FTVK9JCjnMCU5_lTXfGGcuzk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/JbE1f8IAiVXhkLy_dpI-ZChlASQCA6l4QcwdShmG-Tk=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/cT82-H-envstpWjxMZbmqtlLYJZ0SkEeWFUn0qTIkBY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/MsShOD5pm2yTw0pwgiaaEuk7NzLVI-rA-3dfNaGH4J8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/m32WV8e1njXdMa0ToXmk5NWpPAMLNSpazLRe9Zagqes=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/rKYk1dsyUQqPPRwSnQSdsbQseAVklcejZR_2UoS9Yvc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/vBiP3DQJBm9WNI35VW0QQu4AWwksh2bJ0RCTixou5JE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/--YFk947lBjGa_VdOHQ0fQMBBQU6JqhoXROnfFGdURg=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/2f11cbaf-3b9f-4acd-88d8-cc997ac6d351/gallery/image/l1Qsbf9XQSUR2rZ2laGa1ChaDZWV4hW7bzEimUUk32I=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Running Track",
+    "Cycle track",
+    "Gymnasium",
+    "Restaurants",
+    "Basement Parking",
+    "Well-being and Fitness",
+    "Security",
+    "Children's Play Area",
+    "Shared Pool"
+  ],
+  "coordinates": {
+    "lat": 25.31177733557,
+    "lng": 55.32711481969
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

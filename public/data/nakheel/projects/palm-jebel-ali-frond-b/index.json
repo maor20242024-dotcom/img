@@ -1,0 +1,41 @@
+{
+  "slug": "palm-jebel-ali-frond-b",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Jebel Ali Frond B",
+    "ar": "Palm Jebel Ali Frond B"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/ef493980-95a1-4ed4-ab02-a78253dfec0e/gallery/image/vEKImnATqSfBEL2T6Yz_fra6HRuxSNmryCEAvlm_aLM=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/ef493980-95a1-4ed4-ab02-a78253dfec0e/gallery/image/vEKImnATqSfBEL2T6Yz_fra6HRuxSNmryCEAvlm_aLM=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.00564206853,
+    "lng": 55.00135660172
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

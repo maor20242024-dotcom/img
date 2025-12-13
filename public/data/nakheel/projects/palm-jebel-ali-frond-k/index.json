@@ -1,0 +1,51 @@
+{
+  "slug": "palm-jebel-ali-frond-k",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Jebel Ali Frond K",
+    "ar": "Palm Jebel Ali Frond K"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/HsSfu0I3c-i_ObKOEYlga1G6Kwv7AKL7q_rZKaQ67VA=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/HsSfu0I3c-i_ObKOEYlga1G6Kwv7AKL7q_rZKaQ67VA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/Wox0f6lHOzHYkVoYkB2bAt-q7_S570wg4KLyIWdwhN4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/OWzOMlSSyEz0xKD-kUgfZUomuIa4C9Z0g9X0HtBtTUY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/mQp5a5W4lMJ0D2_fe7wiV3uKeTVOmXusSNPkWaI-ts8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/5SxUrov5UpEvQyFZ7icP6UU7ulrzwfrFHKg126V3BXs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/Jzj3z8l7kUCCBIXoYDHzsSg-jLn9VDbqdY-ULq-7RE8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/adTnV4ICjx04qrNq6IM8ROGV-eYnjUF53bp4kBVmgAA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/Ig9f9iT5PYQVycVTxBOgQviSGGkMiE6zvqX7sZyWxpc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/rn_ie-YAVqMLx4iyzG9dgLApwPn3MFUG0bBu1WVL5lM=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/5d33b831-3d9c-4fca-8fcf-414d8e662241/gallery/image/8INiUzQW34oWleiZCpVFaelWP3qTpdTyZ52-4gMcrZ4=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Restaurants",
+    "Indoor Swimming Pool",
+    "CCTV Security",
+    "Barbecue Area",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.00924320497,
+    "lng": 54.9713592672
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

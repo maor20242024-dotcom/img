@@ -1,0 +1,55 @@
+{
+  "slug": "bay-grove-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Bay Grove Residences",
+    "ar": "مساكن باي غروف"
+  },
+  "description": {
+    "en": "Where your home is the connection to the environment, to yourself, in harmony. Bay Grove invites you to explore its vibrant residential ecosystem.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences.jpg?sfvrsn=fce234e6_3",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences.jpg?sfvrsn=fce234e6_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-05.jpg?sfvrsn=b6ca50cd_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-04.jpg?sfvrsn=d1dc0520_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-03.jpg?sfvrsn=640e3769_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-01.jpg?sfvrsn=905ed9f3_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-02.jpg?sfvrsn=b94d3266_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-03.jpg?sfvrsn=7579a27a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-05.jpg?sfvrsn=693ac79_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-01.jpg?sfvrsn=aa7620d8_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-04.jpg?sfvrsn=d266b2ef_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-02.jpg?sfvrsn=beaf1fad_1"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Work and Study",
+    "Restaurants",
+    "Infinity Pool",
+    "Landscaped Gardens",
+    "Gymnasium",
+    "Lobby in Building",
+    "Security",
+    "Children's Pool",
+    "Children's Play Area",
+    "Barbecue Area"
+  ],
+  "coordinates": {
+    "lat": 25.30529220268,
+    "lng": 55.31979691539
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

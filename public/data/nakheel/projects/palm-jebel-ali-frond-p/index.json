@@ -1,0 +1,48 @@
+{
+  "slug": "palm-jebel-ali-frond-p",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palm Jebel Ali – Frond P",
+    "ar": "Palm Jebel Ali – Frond P"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/5SxUrov5UpEvQyFZ7icP6UU7ulrzwfrFHKg126V3BXs=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/5SxUrov5UpEvQyFZ7icP6UU7ulrzwfrFHKg126V3BXs=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/OWzOMlSSyEz0xKD-kUgfZUomuIa4C9Z0g9X0HtBtTUY=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/Jzj3z8l7kUCCBIXoYDHzsSg-jLn9VDbqdY-ULq-7RE8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/gfzMm0wSaQ7TET00q388cGN_T49JOA13obEZ1OW2GmA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/HsSfu0I3c-i_ObKOEYlga1G6Kwv7AKL7q_rZKaQ67VA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/mQp5a5W4lMJ0D2_fe7wiV3uKeTVOmXusSNPkWaI-ts8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/8INiUzQW34oWleiZCpVFaelWP3qTpdTyZ52-4gMcrZ4=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/7823e3a6-30da-4d01-8ad3-c56241c08c98/gallery/image/_8jD5hMK_sPYfcmtOWjRhS6mJ8yUh9DyDQnDpHkGp9k=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 24.98975943786,
+    "lng": 54.98545468134
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "palma-residences",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Palma Residences",
+    "ar": "بالما ريزيدنسز"
+  },
+  "description": {
+    "en": "Experience beachfront living in Dubai at Nakheel's Palma Residences. Contemporary villas with stunning views of the Arabian Gulf and Dubai skyline. Palma Residences is a collection of townhouses on Palm Jumeirah. With a blend of modern architecture, each residence offers a visual masterpiece from the outside in. Your new home at Palm Residences is thoughtfully designed to suit your lifestyle, with amenities that elevate your living to new heights. Palma Residences is nestled on the eastern end of Palm Jumeirah and connected to the west via the Crescent Road. It offers more than just a convenient address, it also provides a plethora of amenities on its doorstep. Experience the art of comfortable and elegant living at Palma Residences.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480bb21c557f-816c-4203-ae2b-04b625621f5b.jpg?sfvrsn=80fb7fce_3",
+  "galleryImages": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480bb21c557f-816c-4203-ae2b-04b625621f5b.jpg?sfvrsn=80fb7fce_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480a.jpg?sfvrsn=ec174fdb_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480c.jpg?sfvrsn=d990563c_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/palma-residences-1240x480b.jpg?sfvrsn=993c3ab6_3"
+  ],
+  "videoUrl": "null",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Swimming Pools",
+    "Parking Spaces",
+    "Beaches"
+  ],
+  "coordinates": {
+    "lat": 25.113321199565092,
+    "lng": 55.147283898196314
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

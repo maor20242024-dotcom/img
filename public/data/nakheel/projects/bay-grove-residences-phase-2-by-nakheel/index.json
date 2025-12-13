@@ -1,0 +1,49 @@
+{
+  "slug": "bay-grove-residences-phase-2-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Bay Grove Residences Phase 2 By Nakheel",
+    "ar": "Bay Grove Residences Phase 2 By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/-S2yksqaKB_WPA3Hupck39JBJ0kTxWXrYFR6IPbGqJA=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/-S2yksqaKB_WPA3Hupck39JBJ0kTxWXrYFR6IPbGqJA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/qE-loRDqPYMUsyObTzsQH6sQTN16ylJtQjmQ4tZ-Kes=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/0wssRWxwtNnVVLYj6Wz6N0Wsk6Pvmc7oTpI9jKCHyMc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/dqa43At981A0XSBONFtS_SvlTfhNwLm4D-8qtYV_40I=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/OB3N4biL0QmLx7CPht3wW3lVZdJOcPgw3gV8hnomDJA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/db9b7eAvLWhwuBJq_7x_HR36SwxczhZFHGJedCx6w5U=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/Wh031tV7unCkBFimzGKebysbqzqpF4bQcvz5MxRokY8=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/ZZ6ttw2Zda4r6lM4o1gZSj6VmD9JC_W2G_ReoiMcOZA=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/ba5fec02-2f9c-47c4-b8c8-4e0524c6c718/gallery/image/6zqbW-MoIwKk_ijCQeoLFlMEPsyNGdR2yRwSuz3cn6U=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.30529220268,
+    "lng": 55.31979691539
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

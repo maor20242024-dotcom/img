@@ -1,0 +1,58 @@
+{
+  "slug": "shoreline-apartments",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Shoreline Apartments",
+    "ar": "شقق شورلاين"
+  },
+  "description": {
+    "en": "Discover Shoreline Apartments, an exclusive complex, offering 1 to 3 bedroom residences and penthouses with stunning views and world-class amenities. Lining the trunk of Palm Jumeirah, Shoreline Apartments features four blocks of exclusive one, two, and three bedroom apartments, as well as four-bedroom penthouses. This twenty-building complex offers breathtaking views and boasts world-class amenities. Each of the four apartment blocks will have access to its own exclusive clubhouse, featuring the latest fitness equipment, large swimming pools, a children’s playground and restaurants. Whether relaxing or invigorating, Shoreline Apartments promise stunning Gulf views and experiences that can only be found on The Palm.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://nakheel.com/images/nakheelcorporatelibraries/developments/shoreline-apartment59544433-8e3c-4acd-b809-95adfe4bc7ba.jpg?sfvrsn=f4a6d40_1",
+  "galleryImages": [
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/shoreline-apartment59544433-8e3c-4acd-b809-95adfe4bc7ba.jpg?sfvrsn=f4a6d40_1",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x480.jpg?sfvrsn=f43bb79e_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4802.jpg?sfvrsn=5d2c6575_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4803.jpg?sfvrsn=45d7c38f_3",
+    "https://nakheel.com/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4804.jpg?sfvrsn=4f71542c_3"
+  ],
+  "videoUrl": "https://nakheel.com/videos/nakheelcorporatelibraries/default-video-library/shoreline-apartments.mp4?sfvrsn=f0720cff_1",
+  "3D_TourLink": "null",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Swimming Pools",
+    "Gym",
+    "Cycling Track",
+    "Parks",
+    "Jogging Track",
+    "Beachfront Clubhouses",
+    "Restaurants",
+    "Underground Parking",
+    "Kids Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.10779,
+    "lng": 55.14797
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

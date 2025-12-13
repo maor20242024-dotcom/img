@@ -1,0 +1,796 @@
+{
+  "meta": {
+    "generated_at": "2025-11-10T19:01:18.290Z",
+    "path_style": "domain_relative",
+    "trailing_slash": true,
+    "notes": "Auto-generated manifest for developer projects"
+  },
+  "developer": "nakheel",
+  "domain": "https://www.nakheel.com",
+  "items": [
+    {
+      "line": 1,
+      "label": "Al Furjan",
+      "path": "/projects/al-furjan/",
+      "segments": [
+        "projects",
+        "al-furjan"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/al-furjan/"
+    },
+    {
+      "line": 2,
+      "label": "Azure Residences",
+      "path": "/projects/azure-residences/",
+      "segments": [
+        "projects",
+        "azure-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/azure-residences/"
+    },
+    {
+      "line": 3,
+      "label": "Badrah",
+      "path": "/projects/badrah/",
+      "segments": [
+        "projects",
+        "badrah"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/badrah/"
+    },
+    {
+      "line": 4,
+      "label": "Bay Grove Residences",
+      "path": "/projects/bay-grove-residences/",
+      "segments": [
+        "projects",
+        "bay-grove-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/bay-grove-residences/"
+    },
+    {
+      "line": 5,
+      "label": "Bay Villas",
+      "path": "/projects/bay-villas/",
+      "segments": [
+        "projects",
+        "bay-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/bay-villas/"
+    },
+    {
+      "line": 6,
+      "label": "Bay Villas, Dubai Islands",
+      "path": "/projects/bay-villas-dubai-islands/",
+      "segments": [
+        "projects",
+        "bay-villas-dubai-islands"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/bay-villas-dubai-islands/"
+    },
+    {
+      "line": 7,
+      "label": "Canal Front Residences",
+      "path": "/projects/canal-front-residences/",
+      "segments": [
+        "projects",
+        "canal-front-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/canal-front-residences/"
+    },
+    {
+      "line": 8,
+      "label": "Club Vista Mare",
+      "path": "/projects/club-vista-mare/",
+      "segments": [
+        "projects",
+        "club-vista-mare"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/club-vista-mare/"
+    },
+    {
+      "line": 9,
+      "label": "Como Residences",
+      "path": "/projects/como-residences/",
+      "segments": [
+        "projects",
+        "como-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/como-residences/"
+    },
+    {
+      "line": 10,
+      "label": "Discovery Gardens",
+      "path": "/projects/discovery-gardens/",
+      "segments": [
+        "projects",
+        "discovery-gardens"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/discovery-gardens/"
+    },
+    {
+      "line": 11,
+      "label": "District One",
+      "path": "/projects/district-one/",
+      "segments": [
+        "projects",
+        "district-one"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/district-one/"
+    },
+    {
+      "line": 12,
+      "label": "District One Naya Residences",
+      "path": "/projects/district-one-naya-residences/",
+      "segments": [
+        "projects",
+        "district-one-naya-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/district-one-naya-residences/"
+    },
+    {
+      "line": 13,
+      "label": "District One West",
+      "path": "/projects/district-one-west/",
+      "segments": [
+        "projects",
+        "district-one-west"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/district-one-west/"
+    },
+    {
+      "line": 14,
+      "label": "Dragon City",
+      "path": "/projects/dragon-city/",
+      "segments": [
+        "projects",
+        "dragon-city"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/dragon-city/"
+    },
+    {
+      "line": 15,
+      "label": "Dragon Mart",
+      "path": "/projects/dragon-mart/",
+      "segments": [
+        "projects",
+        "dragon-mart"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/dragon-mart/"
+    },
+    {
+      "line": 16,
+      "label": "Dubai Islands",
+      "path": "/projects/dubai-islands/",
+      "segments": [
+        "projects",
+        "dubai-islands"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/dubai-islands/"
+    },
+    {
+      "line": 17,
+      "label": "Garden Apartments",
+      "path": "/projects/garden-apartments/",
+      "segments": [
+        "projects",
+        "garden-apartments"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/garden-apartments/"
+    },
+    {
+      "line": 18,
+      "label": "Garden View Apartments",
+      "path": "/projects/garden-view-apartments/",
+      "segments": [
+        "projects",
+        "garden-view-apartments"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/garden-view-apartments/"
+    },
+    {
+      "line": 19,
+      "label": "Garden View Villas",
+      "path": "/projects/garden-view-villas/",
+      "segments": [
+        "projects",
+        "garden-view-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/garden-view-villas/"
+    },
+    {
+      "line": 20,
+      "label": "Golden Mile",
+      "path": "/projects/golden-mile/",
+      "segments": [
+        "projects",
+        "golden-mile"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/golden-mile/"
+    },
+    {
+      "line": 21,
+      "label": "Ibis",
+      "path": "/projects/ibis/",
+      "segments": [
+        "projects",
+        "ibis"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/ibis/"
+    },
+    {
+      "line": 22,
+      "label": "Ibn Battuta Mall",
+      "path": "/projects/ibn-battuta-mall/",
+      "segments": [
+        "projects",
+        "ibn-battuta-mall"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/ibn-battuta-mall/"
+    },
+    {
+      "line": 23,
+      "label": "International City",
+      "path": "/projects/international-city/",
+      "segments": [
+        "projects",
+        "international-city"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/international-city/"
+    },
+    {
+      "line": 24,
+      "label": "Jebel Ali Gardens",
+      "path": "/projects/jebel-ali-gardens/",
+      "segments": [
+        "projects",
+        "jebel-ali-gardens"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jebel-ali-gardens/"
+    },
+    {
+      "line": 25,
+      "label": "Jebel Ali Village",
+      "path": "/projects/jebel-ali-village/",
+      "segments": [
+        "projects",
+        "jebel-ali-village"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jebel-ali-village/"
+    },
+    {
+      "line": 26,
+      "label": "Jumeirah Heights",
+      "path": "/projects/jumeirah-heights/",
+      "segments": [
+        "projects",
+        "jumeirah-heights"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-heights/"
+    },
+    {
+      "line": 27,
+      "label": "Jumeirah Islands",
+      "path": "/projects/jumeirah-islands/",
+      "segments": [
+        "projects",
+        "jumeirah-islands"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-islands/"
+    },
+    {
+      "line": 28,
+      "label": "Jumeirah Lake Towers",
+      "path": "/projects/jumeirah-lake-towers/",
+      "segments": [
+        "projects",
+        "jumeirah-lake-towers"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-lake-towers/"
+    },
+    {
+      "line": 29,
+      "label": "Jumeirah Park",
+      "path": "/projects/jumeirah-park/",
+      "segments": [
+        "projects",
+        "jumeirah-park"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-park/"
+    },
+    {
+      "line": 30,
+      "label": "Jumeirah Village Circle",
+      "path": "/projects/jumeirah-village-circle/",
+      "segments": [
+        "projects",
+        "jumeirah-village-circle"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-village-circle/"
+    },
+    {
+      "line": 31,
+      "label": "Jumeirah Village Triangle",
+      "path": "/projects/jumeirah-village-triangle/",
+      "segments": [
+        "projects",
+        "jumeirah-village-triangle"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/jumeirah-village-triangle/"
+    },
+    {
+      "line": 32,
+      "label": "lagoon-views",
+      "path": "/projects/lagoon-views/",
+      "segments": [
+        "projects",
+        "lagoon-views"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/lagoon-views/"
+    },
+    {
+      "line": 33,
+      "label": "Marina Residences",
+      "path": "/projects/marina-residences/",
+      "segments": [
+        "projects",
+        "marina-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/marina-residences/"
+    },
+    {
+      "line": 34,
+      "label": "Masakin Al Furjan",
+      "path": "/projects/masakin-al-furjan/",
+      "segments": [
+        "projects",
+        "masakin-al-furjan"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/masakin-al-furjan/"
+    },
+    {
+      "line": 35,
+      "label": "Meydan",
+      "path": "/projects/meydan/",
+      "segments": [
+        "projects",
+        "meydan"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/meydan/"
+    },
+    {
+      "line": 36,
+      "label": "Murooj Al Furjan",
+      "path": "/projects/murooj-al-furjan/",
+      "segments": [
+        "projects",
+        "murooj-al-furjan"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/murooj-al-furjan/"
+    },
+    {
+      "line": 37,
+      "label": "Nad Al Sheba Gardens",
+      "path": "/projects/nad-al-sheba-gardens/",
+      "segments": [
+        "projects",
+        "nad-al-sheba-gardens"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/nad-al-sheba-gardens/"
+    },
+    {
+      "line": 38,
+      "label": "Nad Al Sheba Villas",
+      "path": "/projects/nad-al-sheba-villas/",
+      "segments": [
+        "projects",
+        "nad-al-sheba-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/nad-al-sheba-villas/"
+    },
+    {
+      "line": 39,
+      "label": "Naya Phase 2",
+      "path": "/projects/naya-phase-2/",
+      "segments": [
+        "projects",
+        "naya-phase-2"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/naya-phase-2/"
+    },
+    {
+      "line": 40,
+      "label": "Naya Phase 3",
+      "path": "/projects/naya-phase-3/",
+      "segments": [
+        "projects",
+        "naya-phase-3"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/naya-phase-3/"
+    },
+    {
+      "line": 41,
+      "label": "Palm Beach Towers",
+      "path": "/projects/palm-beach-towers/",
+      "segments": [
+        "projects",
+        "palm-beach-towers"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palm-beach-towers/"
+    },
+    {
+      "line": 42,
+      "label": "Palm Central Private Residences",
+      "path": "/projects/palm-central-private-residences/",
+      "segments": [
+        "projects",
+        "palm-central-private-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palm-central-private-residences/"
+    },
+    {
+      "line": 43,
+      "label": "Palm Jebel Ali",
+      "path": "/projects/palm-jebel-ali/",
+      "segments": [
+        "projects",
+        "palm-jebel-ali"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palm-jebel-ali/"
+    },
+    {
+      "line": 44,
+      "label": "Palm Jumeirah",
+      "path": "/projects/palm-jumeirah/",
+      "segments": [
+        "projects",
+        "palm-jumeirah"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palm-jumeirah/"
+    },
+    {
+      "line": 45,
+      "label": "Palm Views",
+      "path": "/projects/palm-views/",
+      "segments": [
+        "projects",
+        "palm-views"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palm-views/"
+    },
+    {
+      "line": 46,
+      "label": "Palma Residences",
+      "path": "/projects/palma-residences/",
+      "segments": [
+        "projects",
+        "palma-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/palma-residences/"
+    },
+    {
+      "line": 47,
+      "label": "Paradise One",
+      "path": "/projects/paradise-one/",
+      "segments": [
+        "projects",
+        "paradise-one"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/paradise-one/"
+    },
+    {
+      "line": 48,
+      "label": "Rixos At Dubai Islands",
+      "path": "/projects/rixos-at-dubai-islands/",
+      "segments": [
+        "projects",
+        "rixos-at-dubai-islands"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/rixos-at-dubai-islands/"
+    },
+    {
+      "line": 49,
+      "label": "Rixos Beach Residences Phase 2",
+      "path": "/projects/rixos-beach-residences-phase-2/",
+      "segments": [
+        "projects",
+        "rixos-beach-residences-phase-2"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/rixos-beach-residences-phase-2/"
+    },
+    {
+      "line": 50,
+      "label": "Rixos Hotel & Residences",
+      "path": "/projects/rixos-hotel-residences/",
+      "segments": [
+        "projects",
+        "rixos-hotel-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/rixos-hotel-residences/"
+    },
+    {
+      "line": 51,
+      "label": "Rixos Hotel & Resorts",
+      "path": "/projects/rixos-hotel-resorts/",
+      "segments": [
+        "projects",
+        "rixos-hotel-resorts"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/rixos-hotel-resorts/"
+    },
+    {
+      "line": 52,
+      "label": "Sea View Residences",
+      "path": "/projects/seaview-residences/",
+      "segments": [
+        "projects",
+        "seaview-residences"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/seaview-residences/"
+    },
+    {
+      "line": 53,
+      "label": "Shoreline Apartments",
+      "path": "/projects/shoreline-apartments/",
+      "segments": [
+        "projects",
+        "shoreline-apartments"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/shoreline-apartments/"
+    },
+    {
+      "line": 54,
+      "label": "The Beach Collection Villas",
+      "path": "/projects/the-beach-collection-villas/",
+      "segments": [
+        "projects",
+        "the-beach-collection-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-beach-collection-villas/"
+    },
+    {
+      "line": 55,
+      "label": "The Coral Collection Villas",
+      "path": "/projects/the-coral-collection-villas/",
+      "segments": [
+        "projects",
+        "the-coral-collection-villas"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-coral-collection-villas/"
+    },
+    {
+      "line": 56,
+      "label": "The Gardens",
+      "path": "/projects/the-gardens/",
+      "segments": [
+        "projects",
+        "the-gardens"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-gardens/"
+    },
+    {
+      "line": 57,
+      "label": "The Palm Tower",
+      "path": "/projects/the-palm-tower/",
+      "segments": [
+        "projects",
+        "the-palm-tower"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-palm-tower/"
+    },
+    {
+      "line": 58,
+      "label": "The Pointe",
+      "path": "/projects/the-pointe/",
+      "segments": [
+        "projects",
+        "the-pointe"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-pointe/"
+    },
+    {
+      "line": 59,
+      "label": "The World",
+      "path": "/projects/the-world/",
+      "segments": [
+        "projects",
+        "the-world"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-world/"
+    },
+    {
+      "line": 60,
+      "label": "The World Island",
+      "path": "/projects/the-world-island/",
+      "segments": [
+        "projects",
+        "the-world-island"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-world-island/"
+    },
+    {
+      "line": 61,
+      "label": "The World Islands",
+      "path": "/projects/the-world-islands/",
+      "segments": [
+        "projects",
+        "the-world-islands"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/the-world-islands/"
+    },
+    {
+      "line": 62,
+      "label": "Tilal Al Furjan",
+      "path": "/projects/tilal-al-furjan/",
+      "segments": [
+        "projects",
+        "tilal-al-furjan"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/tilal-al-furjan/"
+    },
+    {
+      "line": 63,
+      "label": "Veneto",
+      "path": "/projects/veneto/",
+      "segments": [
+        "projects",
+        "veneto"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/veneto/"
+    },
+    {
+      "line": 64,
+      "label": "Village Homes",
+      "path": "/projects/village-homes/",
+      "segments": [
+        "projects",
+        "village-homes"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/village-homes/"
+    },
+    {
+      "line": 65,
+      "label": "Warsan Village",
+      "path": "/projects/warsan-village/",
+      "segments": [
+        "projects",
+        "warsan-village"
+      ],
+      "type": "project",
+      "confidence": "high",
+      "full_url": "https://www.nakheel.com/projects/warsan-village/"
+    }
+  ],
+  "stats": {
+    "project": 65
+  },
+  "count": 65
+}

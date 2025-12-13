@@ -1,0 +1,41 @@
+{
+  "slug": "paradise-one",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Paradise One",
+    "ar": "Paradise One"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/41922684-d69b-4b3c-9147-a45d3e552f86/gallery/image/F7_A1NSpcRC_L3hAq8lqht3f0qDD5YHMhWEfDkU4B0s=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/41922684-d69b-4b3c-9147-a45d3e552f86/gallery/image/F7_A1NSpcRC_L3hAq8lqht3f0qDD5YHMhWEfDkU4B0s=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Indoor Swimming Pool",
+    "Landscaped Gardens",
+    "CCTV Security",
+    "Gymnasium",
+    "Restaurants",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.04289065,
+    "lng": 55.19133262
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

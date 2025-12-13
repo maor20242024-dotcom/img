@@ -1,0 +1,56 @@
+{
+  "slug": "murooj-al-furjan",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Murooj Al Furjan",
+    "ar": "مروج الفرجان"
+  },
+  "description": {
+    "en": "When complete, Murooj Al Furjan will feature parks, private gardens and pedestrian friendly walkways, while also maximising indoor space with generous terraces and balconies. From inside to poolside, the finest materials are being selected for exceptional finishes and an experience that makes you feel completely at home wherever you are within the community.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0703.jpg?sfvrsn=e331a654_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0700.jpg?sfvrsn=3de50426_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/murooj-al-furjan-east-0710.jpg?sfvrsn=2d606081_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/nakheel-murooj-al-furjan-west-jan-image-2.png?sfvrsn=5ede6de7_1"
+  ],
+  "videoUrl": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/murooj-al-furjan.mp4?sfvrsn=2cc12248_1",
+  "3D_TourLink": "لم يتم العثور على رابط مباشر لجولة ثلاثية الأبعاد. ومع ذلك، هناك إشارات إلى 'جولة افتراضية ثلاثية الأبعاد في فيلا' وجولة منزل افتراضية متاحة لتاون هاوس من 4 غرف نوم في Murooj Al Furjan على YouTube.",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Basketball Court",
+    "Children's Play Area",
+    "Al Furjan Metro Station",
+    "Children’s Pool",
+    "Al Furjan Pavilion",
+    "Al Furjan West Pavilion",
+    "Parks",
+    "Swimming Pool"
+  ],
+  "coordinates": {
+    "lat": 25.028309582211477,
+    "lng": 55.14374939237027
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

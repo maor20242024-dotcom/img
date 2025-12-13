@@ -1,0 +1,57 @@
+{
+  "slug": "tilal-al-furjan",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "Tilal Al Furjan",
+    "ar": "تلال الفرجان"
+  },
+  "description": {
+    "en": "Located within the Al Furjan master community, the collection of four and five bedroom villas at Tilal Al Furjan will offer residents an elevated lifestyle, stylish homes and a host of curated amenities. A new level of modern elegance marks every villa within Tilal Al Furjan. Clean lines form the remarkably spacious interiors and define the highest standard of finishes to create a home that provides a welcome like no other. Homes come with provision for smart functionalities.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---main-banner-1920x1080-2.jpg?sfvrsn=7f0f75df_1",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---main-banner-1920x1080-2.jpg?sfvrsn=7f0f75df_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---gallery1_1200x675.jpg?sfvrsn=f20edda2_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---gallery2_1200x675.jpg?sfvrsn=6594baf5_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---gallery3_1200x675.jpg?sfvrsn=5e5d4e83_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---gallery4_1200x675.jpg?sfvrsn=8b1d6177_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/tilal-al-furjan---gallery5_1200x675.jpg?sfvrsn=4b0801de_1"
+  ],
+  "videoUrl": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/tilal-al-furjan---jul-2025.mp4?sfvrsn=aaa0c8f3_1",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Infinity Pool",
+    "Wet Deck",
+    "Shaded Pool Deck",
+    "Sun Loungers",
+    "Shaded Kids’ Pool Area & Play Area",
+    "Raised Lawn",
+    "Shaded Communal Areas",
+    "BBQ Pods",
+    "Ground-Level Boutiques & Cafes",
+    "Landscaped Garden",
+    "Sports Courts",
+    "Shaded Children's Play Areas",
+    "Cycling Track",
+    "Large Swimming Pools",
+    "Al Furjan Pavilion",
+    "Al Furjan West Pavilion",
+    "Parks"
+  ],
+  "coordinates": {
+    "lat": 25.028585297712407,
+    "lng": 55.14370567970489
+  },
+  "completionDate": "",
+  "status": "Unknown"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "district-one-west-phase-2-by-nakheel",
+  "developer": "nakheel",
+  "projectName": {
+    "en": "District One West Phase 2 By Nakheel",
+    "ar": "District One West Phase 2 By Nakheel"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/ezs6K2sDpF5DBjWGwmZ69lbJp11yCk_AiQB3L2kP-ak=/original.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/ezs6K2sDpF5DBjWGwmZ69lbJp11yCk_AiQB3L2kP-ak=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/lMsa_imuJaRq4IIwTAWUnnVzVNuX3NIJWeBRmc8x7uE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/9OFSGvN04XViS62tppgLAUVCtL6hMmBulwKou4jmU7s=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/KpcoJ7-INbVNWkiXu1m0QTfSrqwbpCQScq6RKrIdhys=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/mmZw6WA17aW3F5XtkAov8kiGwutB20zILIhbOO-N8Go=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/QiQijgtXxfeR7pzZDVdx4xbqyaXygZeZtBk0NgzyXwE=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/LPZX2rcj3GE2f5bsea0APMUZK5qIepT1DycMUoYWokc=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/rXBI_JBJjSwDio-8b88wKJauS7PS0wqFQQD1mbn64Zo=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/gfA-THtjBSReCHL-BeVo8WBSOnppovd31h66HevRF58=/original.webp",
+    "https://new-projects-media.propertyfinder.com/project/0ad8440a-dfa2-4139-8f51-1950fb2097ff/gallery/image/6454ltXMR78DTtZntJYD7P__RrumHmj08SXcLLTi3A8=/original.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Leisure Lounge",
+    "Cafe and Restaurants",
+    "Gymnasium",
+    "Shared Pool",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.14953003003,
+    "lng": 55.27774862699
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}
