@@ -1,0 +1,57 @@
+{
+  "slug": "burj-binghatti-jacob-and-co",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Burj Binghatti Jacob & Co",
+    "ar": "Burj Binghatti Jacob & Co"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/fXK8ZDHVoFfn0q3NE4Hdapl-h2xvd8CKMwMqWtSMg64=/medium.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/fXK8ZDHVoFfn0q3NE4Hdapl-h2xvd8CKMwMqWtSMg64=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/r0qh0dRwIfsmub8R_FtoBL_uU7YAQQ_-xdaMlCO8ZD8=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/aJdmo4carVpLugZuTeeqL-S_j_KK6ujoSXh9GqgdsEA=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/Yrs3KWMGFEJ4lwwSHg-yB-8Py_6D2gx1GeYmEiswx58=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/PpMNuyy7Zyb7XZVUxzLCkvkm4NacDwZgNriF_QoUUMI=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/hDhwyRBur_z-kEQBFHp0wSB6p_iUx6Fbm16aIe-BfNM=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/UUUjPUyu2v7KXqivsxGwE1QZsOK34ctoy95GVW5XxQ4=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/fjf_1d6zghcr_luFgrYQ_N3_LDVX1hczC1YnDxbilSI=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/HHt7C_1unfK3Ns6GG5GcXB7HFFuwjFrpxNinamZn_Co=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/MDCAvxM9zYBDEeSXYHrP8OREV3cZBOq0eunP9XTkEvQ=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/VC3VOx3f4bdRUfUw8-II9wwP2YwCvnjwG5wQZLC2_68=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/Qrw1A0stq7uFLXuy0CsxxWU2abyIJPxIedScbfkfwNI=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/158324e5-e52c-45c4-a1b1-47f2c55ab672/gallery/image/8ay_KggKFCT7uYqXTxCZstF7R2LOEcX6ygORRHSe0mw=/medium.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Restaurants",
+    "Infinity Pool",
+    "Well-being and Fitness",
+    "Health Club",
+    "Gymnasium",
+    "Shared Pool",
+    "Shared Spa",
+    "Security",
+    "Concierge",
+    "Children's Play Area"
+  ],
+  "coordinates": {
+    "lat": 25.18718827999,
+    "lng": 55.29321403069
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

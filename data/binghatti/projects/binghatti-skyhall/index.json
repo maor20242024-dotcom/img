@@ -1,0 +1,46 @@
+{
+  "slug": "binghatti-skyhall",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Skyhall",
+    "ar": "Binghatti Skyhall"
+  },
+  "description": {
+    "en": "Discover Binghatti Skyhall's modern architecture and panoramic views. Premium studios and 1-bedroom apartments with world-class amenities.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/skyhall_gym.webp",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/skyhall_gym.webp",
+    "https://binghattiweb.imgix.net/skyhall_layout_studio.webp",
+    "https://binghattiweb.imgix.net/skyhall_layout_bedroom_a.webp",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/skyhall_footer_horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Fitness Center",
+    "Landscaped Gardens",
+    "Family-friendly Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.186863412721724,
+    "lng": 55.281570513864935
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

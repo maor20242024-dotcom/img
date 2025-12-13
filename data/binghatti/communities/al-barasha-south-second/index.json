@@ -1,0 +1,101 @@
+{
+  "slug": "al-barasha-south-second",
+  "developer": "Binghatti",
+  "name_en": "",
+  "name_ar": "",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "location_en": "",
+  "location_ar": "",
+  "district_en": "",
+  "district_ar": "",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Modern residential area in South Dubai with excellent connectivity and integrated services",
+  "description_ar": "منطقة سكنية حديثة في جنوب دبي مع اتصال ممتاز وخدمات متكاملة",
+  "amenities": [
+    {
+      "en": "Central Park",
+      "ar": "حديقة مركزية"
+    },
+    {
+      "en": "Shopping Center",
+      "ar": "مركز تسوق"
+    },
+    {
+      "en": "Medical Center",
+      "ar": "مركز طبي"
+    },
+    {
+      "en": "Children's Play Area",
+      "ar": "منطقة ألعاب الأطفال"
+    },
+    {
+      "en": "Nearby School",
+      "ar": "مدرسة قريبة"
+    },
+    {
+      "en": "Swimming Pool",
+      "ar": "مسبح"
+    },
+    {
+      "en": "Fitness Facilities",
+      "ar": "مرافق رياضية"
+    },
+    {
+      "en": "Landscaped Areas",
+      "ar": "مناطق خضراء"
+    },
+    {
+      "en": "Dedicated Parking",
+      "ar": "موقف مخصص"
+    },
+    {
+      "en": "Panoramic Views",
+      "ar": "إطلالة بانورامية"
+    },
+    {
+      "en": "Concierge Service",
+      "ar": "خدمة كونسيرج"
+    },
+    {
+      "en": "Cinema Hall",
+      "ar": "صالة سينما"
+    },
+    {
+      "en": "Business Center",
+      "ar": "مركز أعمال"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T18:47:07.710Z"
+}

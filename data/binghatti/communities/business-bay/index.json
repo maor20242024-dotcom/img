@@ -1,0 +1,89 @@
+{
+  "slug": "business-bay",
+  "developer": "Binghatti",
+  "name_en": "Business Bay",
+  "name_ar": "بيزنس باي",
+  "website": "",
+  "canonical_url": "",
+  "image_hero": "",
+  "images_gallery": [],
+  "video_url": "",
+  "coordinates": {
+    "lat": 25.1867,
+    "lng": 55.2664
+  },
+  "location_en": "Central Dubai, near Dubai Canal.",
+  "location_ar": "وسط دبي، بالقرب من قناة دبي.",
+  "district_en": "Central Dubai, near Dubai Canal.",
+  "district_ar": "وسط دبي، بالقرب من قناة دبي.",
+  "city_en": "Dubai",
+  "city_ar": "دبي",
+  "country_en": "United Arab Emirates",
+  "country_ar": "الإمارات العربية المتحدة",
+  "description_en": "Dubai's commercial and financial heart with modern towers and Dubai Canal",
+  "description_ar": "قلب دبي التجاري والمالي مع أبراج حديثة وقناة دبي",
+  "amenities": [
+    {
+      "en": "Dubai Canal",
+      "ar": "قناة دبي"
+    },
+    {
+      "en": "Pedestrian Walkway",
+      "ar": "مسار المشاة"
+    },
+    {
+      "en": "Conference Center",
+      "ar": "مركز المؤتمرات"
+    },
+    {
+      "en": "Fine Dining Restaurants",
+      "ar": "مطاعم راقية"
+    },
+    {
+      "en": "Luxury Boutiques",
+      "ar": "متاجر فاخرة"
+    },
+    {
+      "en": "Canal View",
+      "ar": "إطلالة على القناة"
+    },
+    {
+      "en": "24/7 Concierge Service",
+      "ar": "خدمة كونسيرج 24/7"
+    },
+    {
+      "en": "Valet Parking",
+      "ar": "موقف خاص"
+    },
+    {
+      "en": "Private Cinema",
+      "ar": "صالة سينما خاصة"
+    },
+    {
+      "en": "Wine Cellar",
+      "ar": "غرفة خمر"
+    }
+  ],
+  "nearby_landmarks": [],
+  "transport": [],
+  "map_zoom": null,
+  "map_bounds": null,
+  "tour_3d_url": "",
+  "brochure_url": "",
+  "docs": [],
+  "tags": [],
+  "contact": {
+    "phone": "+971567022702",
+    "email": "office@imperiumgate.com",
+    "whatsapp": "https://wa.me/971567022702"
+  },
+  "source_urls": [],
+  "seo": {
+    "title_en": "",
+    "title_ar": "",
+    "meta_description_en": "",
+    "meta_description_ar": ""
+  },
+  "created_at": "",
+  "updated_at": "2025-11-30T18:47:07.711Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "binghatti-flare",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Flare",
+    "ar": "Binghatti Flare"
+  },
+  "description": {
+    "en": "Experinece Binghatti Flare, Jumeirah Village Triangle. A premium residential project offering modern living in a prime family-friendly location.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/binghatti-flare-hero-banner.webp?auto=format,compress&q=75",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/binghatti-flare-hero-banner.webp?auto=format,compress&q=75",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-3.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-1.webp?auto=format,compress,dpr&fit=max&w=1000&h=700&q=75",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-2.webp?auto=format,compress,dpr&fit=max&w=1000&h=700&q=75",
+    "https://binghattiweb.imgix.net/binghatti-flare-amenities-3.webp?auto=format,compress,dpr&fit=max&w=1000&h=700&q=75",
+    "https://binghattiweb.imgix.net/binghatti-flare-studio-layout-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-01-one-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-01-two-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-01-three-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-01-four-bedroom-layout.webp",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-02-4.webp",
+    "https://binghattiweb.imgix.net/binghatti-flare-footer.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Fitness Facilities",
+    "Landscaped Outdoor Areas",
+    "Family-friendly Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.018834826093297,
+    "lng": 55.04598751442834
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

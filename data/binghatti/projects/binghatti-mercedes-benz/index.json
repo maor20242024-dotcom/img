@@ -1,0 +1,57 @@
+{
+  "slug": "binghatti-mercedes-benz",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Mercedes Benz",
+    "ar": "Binghatti Mercedes Benz"
+  },
+  "description": {
+    "en": "",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/3aDQnxmx10ceFCUBCWu5el_WyJsFMTz6jjJh03oSqbU=/medium.webp",
+  "galleryImages": [
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/3aDQnxmx10ceFCUBCWu5el_WyJsFMTz6jjJh03oSqbU=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/cxxm6UoetAqU6jDdrJWkCvTdzy_KXU9ssR1OwEevKxg=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/kOlDF7HAhjxZXQtFm9onMvD2fHpb9Yj4uU8C__u1qsE=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/Qh_Snav-aAvHLadJNDZchKkMWpk0628PvaJDVoDQQA8=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/J3Y64VDGxCRd1CPpN_rPNvUq_E7DGwyb_uQpMhJSJ4Q=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/_SEPjWzknN5YYHzY6Lbg-P5OTLGj0-Y8RL2p4pfMgGQ=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/JVepaRxGAUahlu8sGEv6zQBTiWk1ebw6pTdETPMLlr8=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/cnWH57mQ3CNVnM_vtetayYZ7kHyVeQG3SunFUjfoUGg=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/AOFhG_bMKMJchV_JRBtQUbtXxZ-W6ijIWQaMdibiekw=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/SVhZrAu4WbWDhuAhL2gLYRIiBbIMHK8b-_2Fvj_-eYg=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/UvTdnXhW9Gn_IP3sJH97o6HFf2b218moQ1niz2hK2eI=/medium.webp",
+    "https://new-projects-media.propertyfinder.com/project/8dfd1f7c-6562-4e54-9ce6-a33bd5900862/gallery/image/eoPipme9oUX8uThZNiNJIcEBTSEP7d4_-nIfGIzS0lU=/medium.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Valet Parking",
+    "Gymnasium",
+    "Restaurants",
+    "Retail Facilities",
+    "Yoga room",
+    "Beach Access",
+    "Well-being and Fitness",
+    "Shared Spa",
+    "Children's Play Area",
+    "Barbecue Area",
+    "Shared Pool"
+  ],
+  "coordinates": {
+    "lat": 25.1885439561,
+    "lng": 55.28005139938
+  },
+  "completionDate": "",
+  "status": "under_construction"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "binghatti-elite",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Elite",
+    "ar": "Binghatti Elite"
+  },
+  "description": {
+    "en": "Binghatti Elite represents a bold new chapter in Dubai Production City, where artistic vision transforms urban living. This architectural masterpiece combines contemporary design with metallic accents and rich textures, creating a distinctive living experience and making it an ideal choice for families and investors alike.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/elite_swimmingpool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/elite_swimmingpool.jpg",
+    "https://binghattiweb.imgix.net/elite_outdoor_sittingarea.jpg",
+    "https://binghattiweb.imgix.net/elite_play_area.jpg",
+    "https://binghattiweb.imgix.net/elite_twod_layout_studio.jpg",
+    "https://binghattiweb.imgix.net/elite_layout_one_bedroom.jpg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/bedroom-img.webp",
+    "https://binghattiweb.imgix.net/elite_footer_horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Parking",
+    "Spa",
+    "Lounge"
+  ],
+  "coordinates": {
+    "lat": 25.040152199566688,
+    "lng": 55.16380721750471
+  },
+  "completionDate": "",
+  "status": "Under Construction"
+}

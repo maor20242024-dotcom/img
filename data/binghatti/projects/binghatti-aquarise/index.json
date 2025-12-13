@@ -1,0 +1,52 @@
+{
+  "slug": "binghatti-aquarise",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Aquarise",
+    "ar": "Binghatti Aquarise"
+  },
+  "description": {
+    "en": "Experience serenity at Binghatti Aquarise. Offering studios to 4-bedroom apartments with skyline views and resort-style amenities in Business Bay.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/aquarise-horizontal.webp",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/aquarise-horizontal.webp",
+    "https://binghattiweb.imgix.net/uae_dirham_symbol-2.webp",
+    "https://binghattiweb.imgix.net/aquarise-swimming-pool.webp",
+    "https://binghattiweb.imgix.net/aquarise-swimming-pool.webp?auto=format,compress&q=70&w=1024&h=720",
+    "https://binghattiweb.imgix.net/aquarise-artificial-beach.webp",
+    "https://binghattiweb.imgix.net/aquarise-artificial-beach.webp?auto=format,compress&q=70&w=1024&h=720",
+    "https://binghattiweb.imgix.net/1-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/2-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/3-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-2.webp",
+    "https://binghattiweb.imgix.net/binghatti-aquarise-3.webp",
+    "https://binghattiweb.imgix.net/aquarise-footer-horizontal.webp"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Fitness Facilities",
+    "Landscaped Outdoor Areas",
+    "Family-friendly Spaces"
+  ],
+  "coordinates": {
+    "lat": 25.1760708,
+    "lng": 55.2737765
+  },
+  "completionDate": "",
+  "status": "Completed"
+}

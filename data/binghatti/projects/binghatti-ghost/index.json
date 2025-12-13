@@ -1,0 +1,46 @@
+{
+  "slug": "binghatti-ghost",
+  "developer": "binghatti",
+  "projectName": {
+    "en": "Binghatti Ghost",
+    "ar": "Binghatti Ghost"
+  },
+  "description": {
+    "en": "Binghatti Ghost rises as an iconic tower in the heart of Al Jaddaf, where a glass façade meets timeless luxury. This exclusive development blends innovation with sophistication to create a unique living experience for its residents, easily recognizable by its striking architectural design and premium location.",
+    "ar": ""
+  },
+  "city": "Dubai",
+  "area": {
+    "en": "",
+    "ar": ""
+  },
+  "priceMin": null,
+  "priceMax": null,
+  "bedrooms": [],
+  "heroImage": "https://binghattiweb.imgix.net/ghost_swimming_pool.jpg",
+  "galleryImages": [
+    "https://binghattiweb.imgix.net/ghost_swimming_pool.jpg",
+    "https://binghattiweb.imgix.net/ghost_twod_layout_studio.jpg",
+    "https://binghattiweb.imgix.net/ghost_layout_one_bedroom.jpg",
+    "https://binghattiweb.imgix.net/ghost_layout_two_bedroom.jpg",
+    "https://binghattiweb.imgix.net/ghost_layout_three_bedroom.jpg",
+    "https://binghattiweb.imgix.net/4-bedroom-fp.jpeg",
+    "https://binghattiweb.imgix.net/binghatti-ghost-1.webp",
+    "https://binghattiweb.imgix.net/binghatti-ghost-3.webp",
+    "https://binghattiweb.imgix.net/binghatti-ghost-4.webp",
+    "https://binghattiweb.imgix.net/ghost_footer_horizontal.jpg"
+  ],
+  "videoUrl": "",
+  "3D_TourLink": "",
+  "brochureUrl": "",
+  "amenities": [
+    "Swimming Pool",
+    "Gymnasium"
+  ],
+  "coordinates": {
+    "lat": 25.19253202583371,
+    "lng": 55.25104570768039
+  },
+  "completionDate": "",
+  "status": "Completed"
+}
