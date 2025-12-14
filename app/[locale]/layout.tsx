@@ -44,20 +44,31 @@ export default async function LocaleLayout({
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 }) {
-  const { locale } = await params;
-  const dict = await getDictionary(locale as 'ar' | 'en');
+  const { locale } = await params
+  const dict = await getDictionary(locale as 'ar' | 'en')
 
   return (
-    <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} data-scroll-behavior="smooth">
+    <html
+      lang={locale}
+      dir={locale === 'ar' ? 'rtl' : 'ltr'}
+      data-scroll-behavior="smooth"
+    >
       <body
         className={`${inter.variable} ${amiri.variable} ${tajawal.variable} font-sans antialiased`}
       >
         <RouteProgress />
         <ImperiumRouteLoader />
+
         {children}
+
+        {/* META BUSINESS VERIFICATION — LEGAL FOOTER */}
+        <footer className="sr-only">
+          Imperium Gate Real Estate L.L.C — Registered in Dubai, United Arab Emirates
+        </footer>
+
         {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
         <AIConcierge locale={locale as 'ar' | 'en'} />
       </body>
     </html>
-  );
+  )
 }
