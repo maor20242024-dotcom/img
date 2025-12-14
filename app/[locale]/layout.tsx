@@ -7,9 +7,6 @@ import { i18n } from '@/lib/i18n-config'
 import type { Metadata } from 'next'
 import localFont from 'next/font/local'
 
-// This is now the root layout for each locale.
-// It contains the <html> and <body> tags.
-
 export const metadata: Metadata = {
   title: 'Imperium Gate',
   description: 'Luxury Real Estate in Dubai',
@@ -41,11 +38,11 @@ export default async function LocaleLayout({
   children,
   params,
 }: {
-  children: React.ReactNode;
-  params: Promise<{ locale: string }>;
+  children: React.ReactNode
+  params: Promise<{ locale: string }>
 }) {
   const { locale } = await params
-  const dict = await getDictionary(locale as 'ar' | 'en')
+  await getDictionary(locale as 'ar' | 'en')
 
   return (
     <html
@@ -61,12 +58,18 @@ export default async function LocaleLayout({
 
         {children}
 
-        {/* META BUSINESS VERIFICATION — LEGAL FOOTER */}
-        <footer className="sr-only">
+        {/* LEGAL FOOTER — MUST BE VISIBLE FOR META */}
+        <footer
+          style={{
+            fontSize: '11px',
+            opacity: 0.6,
+            textAlign: 'center',
+            padding: '12px 0',
+          }}
+        >
           Imperium Gate Real Estate L.L.C — Registered in Dubai, United Arab Emirates
         </footer>
 
-        {/* مساعد الذكاء الاصطناعي في جميع الصفحات */}
         <AIConcierge locale={locale as 'ar' | 'en'} />
       </body>
     </html>
